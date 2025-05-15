@@ -1,3 +1,8 @@
+## 📄 Euclidean Timing Mechanics (Final Document)
+
+The complete and authoritative document is available here:  
+[Download Euclidean_Timing_Mechanics.pdf](docs/Euclidean_Timing_Mechanics.pdf)
+
 # Euclidean Timing Mechanics (ETM)
 
 This repository documents a rhythm-based derivation of electromagnetic constants—permittivity (ε₀), permeability (μ₀), and the speed of light (c)—entirely from first principles using discrete timing logic.
