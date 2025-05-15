@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Euclidean Timing Mechanics: First-Principles Derivation of Electromagnetic Constants"
+version: 1.0
+date-released: 2025-05-15
+authors:
+  - family-names: Bakhos
+    given-names: Joseph
+    orcid: https://orcid.org/0000-0003-4966-4150
+repository-code: https://github.com/jbakhos63/etm_core_physics
