@@ -17,8 +17,14 @@ This directory contains the complete record of AI-assisted development conversat
 ## 📌 File Naming Convention
 
 Use the format:
+```
+YYYY-MM-DD_short_topic_summary.md
+```
 
 Example:
+```
+2025-05-14_em_constants.md
+```
 
 ---
 
