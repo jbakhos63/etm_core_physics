@@ -1,6 +1,6 @@
 # Euclidean Timing Mechanics (ETM)
 
-This repository documents a rhythm-based derivation of electromagnetic constants—permittivity (\( \varepsilon_0 \)), permeability (\( \mu_0 \)), and the speed of light (\( c \))—entirely from first principles using discrete timing logic.
+This repository documents a rhythm-based derivation of electromagnetic constants—permittivity (ε₀), permeability (μ₀), and the speed of light (c)—entirely from first principles using discrete timing logic.
 
 There are no metric assumptions. No space-time continuum. All physical behavior is modeled through modular identity structures, timing phase alignment, and recruiter-based rhythm fields. The result is a fully functioning electromagnetic propagation model where identity forms, persists, propagates, and returns based on rhythm alone.
 
@@ -17,9 +17,9 @@ If you are a physicist, mathematician, or theorist evaluating this framework:
 
 This work includes a direct derivation of:
 
-- \( \varepsilon_0 \) from recruiter phase curvature
-- \( \mu_0 \) from recruiter rotation bias
-- \( c \) from modular rotor delay across rhythm-based fields
+- ε₀ from recruiter phase curvature
+- μ₀ from recruiter rotation bias
+- c from modular rotor delay across rhythm-based fields
 
 ---
 
@@ -65,6 +65,3 @@ These logs include philosophical and technical discussions of identity, rhythm, 
 ETM was developed by Joseph Bakhos as a rhythm-based reformulation of physics grounded in discrete identity logic. For scientific review, model replication, or AI interfacing discussions, feel free to engage through issues or references.
 
 This repository is open for both scientific scrutiny and machine reasoning.
-
----
-
