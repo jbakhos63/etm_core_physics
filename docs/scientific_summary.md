@@ -46,6 +46,13 @@ For phase gradient ∇φ = 0.05, average delay:
 ε_ETM ≈ 2.2 ticks/return
 ```
 
+See data in:  
+[`results/trial_201_rotor_drift_gradient_summary.json`](../../results/trial_201_rotor_drift_gradient_summary.json)  
+[`results/trial_202_gradient_sweep_summary.json`](../../results/trial_202_gradient_sweep_summary.json)  
+[`results/trial_203_critical_gradient_summary.json`](../../results/trial_203_critical_gradient_summary.json)  
+[`results/trial_204_rotor_delay_curvature_summary.json`](../../results/trial_204_rotor_delay_curvature_summary.json)  
+[`results/trial_205_gradient_delay_profile_summary.json`](../../results/trial_205_gradient_delay_profile_summary.json)
+
 ---
 
 ## Permeability Derivation (Trials 206–207)
@@ -57,6 +64,10 @@ For recruiter rotation rate 0.10 radians/tick, average delay:
 ```
 μ_ETM ≈ 2.9 ticks/return
 ```
+
+See data in:  
+[`results/trial_206_rotation_bias_summary.json`](../../results/trial_206_rotation_bias_summary.json)  
+[`results/trial_207_rotation_bias_sweep_summary.json`](../../results/trial_207_rotation_bias_sweep_summary.json)
 
 ---
 
@@ -71,6 +82,9 @@ c_ETM = 1 / sqrt(ε_ETM × μ_ETM)
 ```
 
 This value matched the measured rotor speed in the combined recruiter field.
+
+See data in:  
+[`results/trial_208_etm_speedoflight_constant_summary.json`](../../results/trial_208_etm_speedoflight_constant_summary.json)
 
 ---
 
