@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "description": "Core logic rules for ETM rotor identity, locking, and recruiter-based propagation.",
+  "timing": {
+    "tick": {
+      "type": "discrete",
+      "interval": "1 tick = 1.3207e-9 seconds",
+      "unit_length": "1 ETM unit = 0.3959 meters"
+    }
+  },
+  "identity": {
+    "rotor": {
+      "phase": "modular phase [0.0, 1.0)",
+      "velocity": "user-defined, often set to match c_ETM",
+      "ancestry_tag": "string",
+      "spin_tag": "up/down/none",
+      "movement": "increases position by velocity per tick"
+    }
+  },
+  "recruiter": {
+    "structure": "defined as a list of spatial bands",
+    "phase_curve": "recruiter_phase = base_phase + phase_gradient * distance",
+    "rotation_bias": "adds rotation_bias * t to recruiter phase",
+    "support_threshold": "minimum number of recruiters required to lock"
+  },
+  "locking_rules": {
+    "phase_tolerance": "locking allowed if abs(recruiter_phase - rotor_phase) < tolerance",
+    "locking_action": "record tick, position, and ancestry tag",
+    "reformation": "only allowed if ancestry + spin do not conflict with recruiter memory (optional)"
+  },
+  "constants": {
+    "epsilon_ETM": 2.2,
+    "mu_ETM": 2.9,
+    "c_ETM": "0.3959 units/tick",
+    "tick_duration": "1.3207e-9 seconds",
+    "unit_length": "0.3959 meters"
+  }
+}
