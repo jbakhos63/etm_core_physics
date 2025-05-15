@@ -1,0 +1,17 @@
+{
+  "trial": "052",
+  "excitation_ticks": [
+    10,
+    40,
+    70,
+    100
+  ],
+  "return_ticks": [
+    20,
+    50,
+    80,
+    110
+  ],
+  "phase_increment": 0.01,
+  "total_ticks": 120
+}

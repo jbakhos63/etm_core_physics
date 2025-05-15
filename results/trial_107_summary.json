@@ -1,0 +1,11 @@
+{
+  "trial": "107",
+  "drop_tick": 10,
+  "return_tick": 40,
+  "reinforcement_amount_per_ancestry": 0.004,
+  "reinforcement_decay": 0.002,
+  "reinforcement_threshold": 0.1,
+  "phase_G": 0.0,
+  "ancestry_count": 6,
+  "pattern": "staggered echo from multiple ancestry tags"
+}

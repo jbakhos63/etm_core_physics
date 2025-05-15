@@ -1,0 +1,4322 @@
+[
+  {
+    "tick": 0,
+    "id": "A",
+    "x": 4.3,
+    "phase": 0.5,
+    "support": 0.7,
+    "locked": true
+  },
+  {
+    "tick": 0,
+    "id": "B",
+    "x": 19.7,
+    "phase": 0.46,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 0,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.48,
+    "support": 1.3399999999999999,
+    "locked": true
+  },
+  {
+    "tick": 1,
+    "id": "A",
+    "x": 4.6,
+    "phase": 0.5125,
+    "support": 0.6875,
+    "locked": true
+  },
+  {
+    "tick": 1,
+    "id": "B",
+    "x": 19.4,
+    "phase": 0.47250000000000003,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 1,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.4925,
+    "support": 0.6675,
+    "locked": true
+  },
+  {
+    "tick": 2,
+    "id": "A",
+    "x": 4.8999999999999995,
+    "phase": 0.525,
+    "support": 0.6749999999999999,
+    "locked": true
+  },
+  {
+    "tick": 2,
+    "id": "B",
+    "x": 19.099999999999998,
+    "phase": 0.48500000000000004,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 2,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.505,
+    "support": 0.655,
+    "locked": true
+  },
+  {
+    "tick": 3,
+    "id": "A",
+    "x": 5.199999999999999,
+    "phase": 0.5375,
+    "support": 0.6625,
+    "locked": true
+  },
+  {
+    "tick": 3,
+    "id": "B",
+    "x": 18.799999999999997,
+    "phase": 0.49750000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 3,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5175,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 4,
+    "id": "A",
+    "x": 5.499999999999999,
+    "phase": 0.55,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 4,
+    "id": "B",
+    "x": 18.499999999999996,
+    "phase": 0.51,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 4,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.53,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 5,
+    "id": "A",
+    "x": 5.799999999999999,
+    "phase": 0.5625,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 5,
+    "id": "B",
+    "x": 18.199999999999996,
+    "phase": 0.5225,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 5,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5425,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 6,
+    "id": "A",
+    "x": 6.099999999999999,
+    "phase": 0.575,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 6,
+    "id": "B",
+    "x": 17.899999999999995,
+    "phase": 0.535,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 6,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5549999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 7,
+    "id": "A",
+    "x": 6.399999999999999,
+    "phase": 0.5875,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 7,
+    "id": "B",
+    "x": 17.599999999999994,
+    "phase": 0.5475,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 7,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5675,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 8,
+    "id": "A",
+    "x": 6.699999999999998,
+    "phase": 0.6,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 8,
+    "id": "B",
+    "x": 17.299999999999994,
+    "phase": 0.56,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 8,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.58,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 9,
+    "id": "A",
+    "x": 6.999999999999998,
+    "phase": 0.6125,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 9,
+    "id": "B",
+    "x": 16.999999999999993,
+    "phase": 0.5725,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 9,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5925,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 10,
+    "id": "A",
+    "x": 7.299999999999998,
+    "phase": 0.625,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 10,
+    "id": "B",
+    "x": 16.699999999999992,
+    "phase": 0.585,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 10,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.605,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 11,
+    "id": "A",
+    "x": 7.599999999999998,
+    "phase": 0.6375,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 11,
+    "id": "B",
+    "x": 16.39999999999999,
+    "phase": 0.5975,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 11,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6174999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 12,
+    "id": "A",
+    "x": 7.899999999999998,
+    "phase": 0.65,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 12,
+    "id": "B",
+    "x": 16.09999999999999,
+    "phase": 0.6100000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 12,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.63,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 13,
+    "id": "A",
+    "x": 8.199999999999998,
+    "phase": 0.6625,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 13,
+    "id": "B",
+    "x": 15.79999999999999,
+    "phase": 0.6225,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 13,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6425,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 14,
+    "id": "A",
+    "x": 8.499999999999998,
+    "phase": 0.675,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 14,
+    "id": "B",
+    "x": 15.49999999999999,
+    "phase": 0.635,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 14,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.655,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 15,
+    "id": "A",
+    "x": 8.799999999999999,
+    "phase": 0.6875,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 15,
+    "id": "B",
+    "x": 15.199999999999989,
+    "phase": 0.6475,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 15,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6675,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 16,
+    "id": "A",
+    "x": 9.1,
+    "phase": 0.7,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 16,
+    "id": "B",
+    "x": 14.899999999999988,
+    "phase": 0.66,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 16,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6799999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 17,
+    "id": "A",
+    "x": 9.4,
+    "phase": 0.7125,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 17,
+    "id": "B",
+    "x": 14.599999999999987,
+    "phase": 0.6725000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 17,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6925,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 18,
+    "id": "A",
+    "x": 9.700000000000001,
+    "phase": 0.725,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 18,
+    "id": "B",
+    "x": 14.299999999999986,
+    "phase": 0.685,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 18,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.705,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 19,
+    "id": "A",
+    "x": 10.000000000000002,
+    "phase": 0.7375,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 19,
+    "id": "B",
+    "x": 13.999999999999986,
+    "phase": 0.6975,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 19,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.7175,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 20,
+    "id": "A",
+    "x": 10.300000000000002,
+    "phase": 0.75,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 20,
+    "id": "B",
+    "x": 13.699999999999985,
+    "phase": 0.71,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 20,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.73,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 21,
+    "id": "A",
+    "x": 10.600000000000003,
+    "phase": 0.7625,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 21,
+    "id": "B",
+    "x": 13.399999999999984,
+    "phase": 0.7225,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 21,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.7424999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 22,
+    "id": "A",
+    "x": 10.900000000000004,
+    "phase": 0.775,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 22,
+    "id": "B",
+    "x": 13.099999999999984,
+    "phase": 0.7350000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 22,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.755,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 23,
+    "id": "A",
+    "x": 11.200000000000005,
+    "phase": 0.7875000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 23,
+    "id": "B",
+    "x": 12.799999999999983,
+    "phase": 0.7475,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 23,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.7675000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 24,
+    "id": "A",
+    "x": 11.500000000000005,
+    "phase": 0.8,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 24,
+    "id": "B",
+    "x": 12.499999999999982,
+    "phase": 0.76,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 24,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.78,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 25,
+    "id": "A",
+    "x": 11.800000000000006,
+    "phase": 0.8125,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 25,
+    "id": "B",
+    "x": 12.199999999999982,
+    "phase": 0.7725,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 25,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.7925,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 26,
+    "id": "A",
+    "x": 12.100000000000007,
+    "phase": 0.825,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 26,
+    "id": "B",
+    "x": 11.89999999999998,
+    "phase": 0.785,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 26,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.8049999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 27,
+    "id": "A",
+    "x": 12.400000000000007,
+    "phase": 0.8375,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 27,
+    "id": "B",
+    "x": 11.59999999999998,
+    "phase": 0.7975000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 27,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.8175,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 28,
+    "id": "A",
+    "x": 12.700000000000008,
+    "phase": 0.8500000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 28,
+    "id": "B",
+    "x": 11.29999999999998,
+    "phase": 0.81,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 28,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.8300000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 29,
+    "id": "A",
+    "x": 13.000000000000009,
+    "phase": 0.8625,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 29,
+    "id": "B",
+    "x": 10.999999999999979,
+    "phase": 0.8225,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 29,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.8425,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 30,
+    "id": "A",
+    "x": 13.30000000000001,
+    "phase": 0.875,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 30,
+    "id": "B",
+    "x": 10.699999999999978,
+    "phase": 0.835,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 30,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.855,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 31,
+    "id": "A",
+    "x": 13.60000000000001,
+    "phase": 0.8875,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 31,
+    "id": "B",
+    "x": 10.399999999999977,
+    "phase": 0.8475,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 31,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.8674999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 32,
+    "id": "A",
+    "x": 13.900000000000011,
+    "phase": 0.9,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 32,
+    "id": "B",
+    "x": 10.099999999999977,
+    "phase": 0.8600000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 32,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.88,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 33,
+    "id": "A",
+    "x": 14.200000000000012,
+    "phase": 0.9125000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 33,
+    "id": "B",
+    "x": 9.799999999999976,
+    "phase": 0.8725,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 33,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.8925000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 34,
+    "id": "A",
+    "x": 14.500000000000012,
+    "phase": 0.925,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 34,
+    "id": "B",
+    "x": 9.499999999999975,
+    "phase": 0.885,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 34,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.905,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 35,
+    "id": "A",
+    "x": 14.800000000000013,
+    "phase": 0.9375,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 35,
+    "id": "B",
+    "x": 9.199999999999974,
+    "phase": 0.8975,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 35,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.9175,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 36,
+    "id": "A",
+    "x": 15.100000000000014,
+    "phase": 0.95,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 36,
+    "id": "B",
+    "x": 8.899999999999974,
+    "phase": 0.91,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 36,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.9299999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 37,
+    "id": "A",
+    "x": 15.400000000000015,
+    "phase": 0.9625,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 37,
+    "id": "B",
+    "x": 8.599999999999973,
+    "phase": 0.9225000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 37,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.9425,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 38,
+    "id": "A",
+    "x": 15.700000000000015,
+    "phase": 0.9750000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 38,
+    "id": "B",
+    "x": 8.299999999999972,
+    "phase": 0.935,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 38,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.9550000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 39,
+    "id": "A",
+    "x": 16.000000000000014,
+    "phase": 0.9875,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 39,
+    "id": "B",
+    "x": 7.9999999999999725,
+    "phase": 0.9475,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 39,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.9675,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 40,
+    "id": "A",
+    "x": 16.300000000000015,
+    "phase": 0.0,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 40,
+    "id": "B",
+    "x": 7.699999999999973,
+    "phase": 0.96,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 40,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.98,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 41,
+    "id": "A",
+    "x": 16.600000000000016,
+    "phase": 0.012500000000000178,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 41,
+    "id": "B",
+    "x": 7.399999999999973,
+    "phase": 0.9725000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 41,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.9925,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 42,
+    "id": "A",
+    "x": 16.900000000000016,
+    "phase": 0.02499999999999991,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 42,
+    "id": "B",
+    "x": 7.099999999999973,
+    "phase": 0.9850000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 42,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.004999999999999893,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 43,
+    "id": "A",
+    "x": 17.200000000000017,
+    "phase": 0.03750000000000009,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 43,
+    "id": "B",
+    "x": 6.799999999999973,
+    "phase": 0.9975,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 43,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.01750000000000007,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 44,
+    "id": "A",
+    "x": 17.500000000000018,
+    "phase": 0.050000000000000044,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 44,
+    "id": "B",
+    "x": 6.499999999999973,
+    "phase": 0.010000000000000009,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 44,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.030000000000000027,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 45,
+    "id": "A",
+    "x": 17.80000000000002,
+    "phase": 0.0625,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 45,
+    "id": "B",
+    "x": 6.1999999999999735,
+    "phase": 0.022499999999999964,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 45,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.04249999999999998,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 46,
+    "id": "A",
+    "x": 18.10000000000002,
+    "phase": 0.07500000000000018,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 46,
+    "id": "B",
+    "x": 5.899999999999974,
+    "phase": 0.03500000000000014,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 46,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.05500000000000016,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 47,
+    "id": "A",
+    "x": 18.40000000000002,
+    "phase": 0.08749999999999991,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 47,
+    "id": "B",
+    "x": 5.599999999999974,
+    "phase": 0.0475000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 47,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.0674999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 48,
+    "id": "A",
+    "x": 18.70000000000002,
+    "phase": 0.10000000000000009,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 48,
+    "id": "B",
+    "x": 5.299999999999974,
+    "phase": 0.06000000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 48,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.08000000000000007,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 49,
+    "id": "A",
+    "x": 19.00000000000002,
+    "phase": 0.11250000000000004,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 49,
+    "id": "B",
+    "x": 4.999999999999974,
+    "phase": 0.07250000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 49,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.09250000000000003,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 50,
+    "id": "A",
+    "x": 19.300000000000022,
+    "phase": 0.125,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 50,
+    "id": "B",
+    "x": 4.699999999999974,
+    "phase": 0.08499999999999996,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 50,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.10499999999999998,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 51,
+    "id": "A",
+    "x": 19.600000000000023,
+    "phase": 0.13750000000000018,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 51,
+    "id": "B",
+    "x": 4.399999999999975,
+    "phase": 0.09750000000000014,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 51,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.11750000000000016,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 52,
+    "id": "A",
+    "x": 19.900000000000023,
+    "phase": 0.1499999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 52,
+    "id": "B",
+    "x": 4.099999999999975,
+    "phase": 0.1100000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 52,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.1299999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 53,
+    "id": "A",
+    "x": 20.200000000000024,
+    "phase": 0.1625000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 53,
+    "id": "B",
+    "x": 3.799999999999975,
+    "phase": 0.12250000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 53,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.14250000000000007,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 54,
+    "id": "A",
+    "x": 19.900000000000023,
+    "phase": 0.17500000000000004,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 54,
+    "id": "B",
+    "x": 4.099999999999975,
+    "phase": 0.135,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 54,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.15500000000000003,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 55,
+    "id": "A",
+    "x": 19.600000000000023,
+    "phase": 0.1875,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 55,
+    "id": "B",
+    "x": 4.399999999999975,
+    "phase": 0.14749999999999996,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 55,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.16749999999999998,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 56,
+    "id": "A",
+    "x": 19.300000000000022,
+    "phase": 0.20000000000000018,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 56,
+    "id": "B",
+    "x": 4.699999999999974,
+    "phase": 0.16000000000000014,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 56,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.18000000000000016,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 57,
+    "id": "A",
+    "x": 19.00000000000002,
+    "phase": 0.2124999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 57,
+    "id": "B",
+    "x": 4.999999999999974,
+    "phase": 0.1725000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 57,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.1924999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 58,
+    "id": "A",
+    "x": 18.70000000000002,
+    "phase": 0.2250000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 58,
+    "id": "B",
+    "x": 5.299999999999974,
+    "phase": 0.18500000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 58,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.20500000000000007,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 59,
+    "id": "A",
+    "x": 18.40000000000002,
+    "phase": 0.23750000000000004,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 59,
+    "id": "B",
+    "x": 5.599999999999974,
+    "phase": 0.1975,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 59,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.21750000000000003,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 60,
+    "id": "A",
+    "x": 18.10000000000002,
+    "phase": 0.25,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 60,
+    "id": "B",
+    "x": 5.899999999999974,
+    "phase": 0.20999999999999996,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 60,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.22999999999999998,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 61,
+    "id": "A",
+    "x": 17.80000000000002,
+    "phase": 0.2625000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 61,
+    "id": "B",
+    "x": 6.1999999999999735,
+    "phase": 0.22250000000000014,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 61,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.24250000000000016,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 62,
+    "id": "A",
+    "x": 17.500000000000018,
+    "phase": 0.2749999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 62,
+    "id": "B",
+    "x": 6.499999999999973,
+    "phase": 0.2350000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 62,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.2549999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 63,
+    "id": "A",
+    "x": 17.200000000000017,
+    "phase": 0.2875000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 63,
+    "id": "B",
+    "x": 6.799999999999973,
+    "phase": 0.24750000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 63,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.26750000000000007,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 64,
+    "id": "A",
+    "x": 16.900000000000016,
+    "phase": 0.30000000000000004,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 64,
+    "id": "B",
+    "x": 7.099999999999973,
+    "phase": 0.26,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 64,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.28,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 65,
+    "id": "A",
+    "x": 16.600000000000016,
+    "phase": 0.3125,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 65,
+    "id": "B",
+    "x": 7.399999999999973,
+    "phase": 0.27249999999999996,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 65,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.2925,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 66,
+    "id": "A",
+    "x": 16.300000000000015,
+    "phase": 0.3250000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 66,
+    "id": "B",
+    "x": 7.699999999999973,
+    "phase": 0.28500000000000014,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 66,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.30500000000000016,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 67,
+    "id": "A",
+    "x": 16.000000000000014,
+    "phase": 0.3374999999999999,
+    "support": 0.6574999999999999,
+    "locked": true
+  },
+  {
+    "tick": 67,
+    "id": "B",
+    "x": 7.9999999999999725,
+    "phase": 0.2975000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 67,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.3174999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 68,
+    "id": "A",
+    "x": 15.700000000000014,
+    "phase": 0.3500000000000001,
+    "support": 1.32,
+    "locked": true
+  },
+  {
+    "tick": 68,
+    "id": "B",
+    "x": 8.299999999999972,
+    "phase": 0.31000000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 68,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.33000000000000007,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 69,
+    "id": "A",
+    "x": 15.400000000000013,
+    "phase": 0.36250000000000004,
+    "support": 0.6625,
+    "locked": true
+  },
+  {
+    "tick": 69,
+    "id": "B",
+    "x": 8.599999999999973,
+    "phase": 0.3225,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 69,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.3425,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 70,
+    "id": "A",
+    "x": 15.100000000000012,
+    "phase": 0.375,
+    "support": 1.33,
+    "locked": true
+  },
+  {
+    "tick": 70,
+    "id": "B",
+    "x": 8.899999999999974,
+    "phase": 0.33499999999999996,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 70,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.355,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 71,
+    "id": "A",
+    "x": 14.800000000000011,
+    "phase": 0.3875000000000002,
+    "support": 1.3550000000000004,
+    "locked": true
+  },
+  {
+    "tick": 71,
+    "id": "B",
+    "x": 9.199999999999974,
+    "phase": 0.34750000000000014,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 71,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.36750000000000016,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 72,
+    "id": "A",
+    "x": 14.50000000000001,
+    "phase": 0.3999999999999999,
+    "support": 1.38,
+    "locked": true
+  },
+  {
+    "tick": 72,
+    "id": "B",
+    "x": 9.499999999999975,
+    "phase": 0.3600000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 72,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.3799999999999999,
+    "support": 0.6599999999999999,
+    "locked": true
+  },
+  {
+    "tick": 73,
+    "id": "A",
+    "x": 14.20000000000001,
+    "phase": 0.4125000000000001,
+    "support": 1.38,
+    "locked": true
+  },
+  {
+    "tick": 73,
+    "id": "B",
+    "x": 9.799999999999976,
+    "phase": 0.37250000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 73,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.39250000000000007,
+    "support": 1.3250000000000002,
+    "locked": true
+  },
+  {
+    "tick": 74,
+    "id": "A",
+    "x": 13.90000000000001,
+    "phase": 0.42500000000000004,
+    "support": 1.3699999999999997,
+    "locked": true
+  },
+  {
+    "tick": 74,
+    "id": "B",
+    "x": 10.099999999999977,
+    "phase": 0.385,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 74,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.405,
+    "support": 1.35,
+    "locked": true
+  },
+  {
+    "tick": 75,
+    "id": "A",
+    "x": 13.600000000000009,
+    "phase": 0.4375,
+    "support": 1.38,
+    "locked": true
+  },
+  {
+    "tick": 75,
+    "id": "B",
+    "x": 10.399999999999977,
+    "phase": 0.39749999999999996,
+    "support": 0.6575,
+    "locked": true
+  },
+  {
+    "tick": 75,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.4175,
+    "support": 2.0324999999999998,
+    "locked": true
+  },
+  {
+    "tick": 76,
+    "id": "A",
+    "x": 13.300000000000008,
+    "phase": 0.4500000000000002,
+    "support": 1.3599999999999994,
+    "locked": true
+  },
+  {
+    "tick": 76,
+    "id": "B",
+    "x": 10.699999999999978,
+    "phase": 0.41000000000000014,
+    "support": 1.3200000000000003,
+    "locked": true
+  },
+  {
+    "tick": 76,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.43000000000000016,
+    "support": 2.05,
+    "locked": true
+  },
+  {
+    "tick": 77,
+    "id": "A",
+    "x": 13.000000000000007,
+    "phase": 0.4624999999999999,
+    "support": 1.335,
+    "locked": true
+  },
+  {
+    "tick": 77,
+    "id": "B",
+    "x": 10.999999999999979,
+    "phase": 0.4225000000000001,
+    "support": 1.3450000000000002,
+    "locked": true
+  },
+  {
+    "tick": 77,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.4424999999999999,
+    "support": 2.0575,
+    "locked": true
+  },
+  {
+    "tick": 78,
+    "id": "A",
+    "x": 12.700000000000006,
+    "phase": 0.4750000000000001,
+    "support": 0.6649999999999998,
+    "locked": true
+  },
+  {
+    "tick": 78,
+    "id": "B",
+    "x": 11.29999999999998,
+    "phase": 0.43500000000000005,
+    "support": 1.37,
+    "locked": true
+  },
+  {
+    "tick": 78,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.45500000000000007,
+    "support": 2.045,
+    "locked": true
+  },
+  {
+    "tick": 79,
+    "id": "A",
+    "x": 12.400000000000006,
+    "phase": 0.48750000000000004,
+    "support": 0.6524999999999999,
+    "locked": true
+  },
+  {
+    "tick": 79,
+    "id": "B",
+    "x": 11.59999999999998,
+    "phase": 0.4475,
+    "support": 1.38,
+    "locked": true
+  },
+  {
+    "tick": 79,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.4675,
+    "support": 2.0174999999999996,
+    "locked": true
+  },
+  {
+    "tick": 80,
+    "id": "A",
+    "x": 12.100000000000005,
+    "phase": 0.5,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 80,
+    "id": "B",
+    "x": 11.89999999999998,
+    "phase": 0.45999999999999996,
+    "support": 1.38,
+    "locked": true
+  },
+  {
+    "tick": 80,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.48,
+    "support": 1.3399999999999999,
+    "locked": false
+  },
+  {
+    "tick": 81,
+    "id": "A",
+    "x": 11.800000000000004,
+    "phase": 0.5125,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 81,
+    "id": "B",
+    "x": 12.199999999999982,
+    "phase": 0.4724999999999999,
+    "support": 1.355,
+    "locked": true
+  },
+  {
+    "tick": 81,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.49249999999999994,
+    "support": 0.6675,
+    "locked": false
+  },
+  {
+    "tick": 82,
+    "id": "A",
+    "x": 11.500000000000004,
+    "phase": 0.5250000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 82,
+    "id": "B",
+    "x": 12.499999999999982,
+    "phase": 0.4850000000000001,
+    "support": 0.6549999999999998,
+    "locked": true
+  },
+  {
+    "tick": 82,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5050000000000001,
+    "support": 0.6549999999999998,
+    "locked": false
+  },
+  {
+    "tick": 83,
+    "id": "A",
+    "x": 11.200000000000003,
+    "phase": 0.5375000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 83,
+    "id": "B",
+    "x": 12.799999999999983,
+    "phase": 0.49750000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 83,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5175000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 84,
+    "id": "A",
+    "x": 10.900000000000002,
+    "phase": 0.55,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 84,
+    "id": "B",
+    "x": 13.099999999999984,
+    "phase": 0.51,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 84,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.53,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 85,
+    "id": "A",
+    "x": 10.600000000000001,
+    "phase": 0.5625,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 85,
+    "id": "B",
+    "x": 13.399999999999984,
+    "phase": 0.5225,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 85,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5425,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 86,
+    "id": "A",
+    "x": 10.3,
+    "phase": 0.575,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 86,
+    "id": "B",
+    "x": 13.699999999999985,
+    "phase": 0.5349999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 86,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5549999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 87,
+    "id": "A",
+    "x": 10.0,
+    "phase": 0.5875000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 87,
+    "id": "B",
+    "x": 13.999999999999986,
+    "phase": 0.5475000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 87,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5675000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 88,
+    "id": "A",
+    "x": 9.7,
+    "phase": 0.6000000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 88,
+    "id": "B",
+    "x": 14.299999999999986,
+    "phase": 0.56,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 88,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5800000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 89,
+    "id": "A",
+    "x": 9.399999999999999,
+    "phase": 0.6125,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 89,
+    "id": "B",
+    "x": 14.599999999999987,
+    "phase": 0.5725,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 89,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5925,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 90,
+    "id": "A",
+    "x": 9.099999999999998,
+    "phase": 0.625,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 90,
+    "id": "B",
+    "x": 14.899999999999988,
+    "phase": 0.585,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 90,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.605,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 91,
+    "id": "A",
+    "x": 8.799999999999997,
+    "phase": 0.6375,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 91,
+    "id": "B",
+    "x": 15.199999999999989,
+    "phase": 0.5974999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 91,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6174999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 92,
+    "id": "A",
+    "x": 8.499999999999996,
+    "phase": 0.6500000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 92,
+    "id": "B",
+    "x": 15.49999999999999,
+    "phase": 0.6100000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 92,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6300000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 93,
+    "id": "A",
+    "x": 8.199999999999996,
+    "phase": 0.6625000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 93,
+    "id": "B",
+    "x": 15.79999999999999,
+    "phase": 0.6225,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 93,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6425000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 94,
+    "id": "A",
+    "x": 7.899999999999996,
+    "phase": 0.675,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 94,
+    "id": "B",
+    "x": 16.09999999999999,
+    "phase": 0.635,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 94,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.655,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 95,
+    "id": "A",
+    "x": 7.599999999999996,
+    "phase": 0.6875,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 95,
+    "id": "B",
+    "x": 16.39999999999999,
+    "phase": 0.6475,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 95,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6675,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 96,
+    "id": "A",
+    "x": 7.299999999999996,
+    "phase": 0.7000000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 96,
+    "id": "B",
+    "x": 16.699999999999992,
+    "phase": 0.6600000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 96,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6800000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 97,
+    "id": "A",
+    "x": 6.9999999999999964,
+    "phase": 0.7125000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 97,
+    "id": "B",
+    "x": 16.999999999999993,
+    "phase": 0.6725000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 97,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6925000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 98,
+    "id": "A",
+    "x": 6.699999999999997,
+    "phase": 0.7250000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 98,
+    "id": "B",
+    "x": 17.299999999999994,
+    "phase": 0.685,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 98,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.7050000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 99,
+    "id": "A",
+    "x": 6.399999999999997,
+    "phase": 0.7375,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 99,
+    "id": "B",
+    "x": 17.599999999999994,
+    "phase": 0.6975,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 99,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.7175,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 100,
+    "id": "A",
+    "x": 6.099999999999997,
+    "phase": 0.75,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 100,
+    "id": "B",
+    "x": 17.899999999999995,
+    "phase": 0.71,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 100,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.73,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 101,
+    "id": "A",
+    "x": 5.799999999999997,
+    "phase": 0.7625000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 101,
+    "id": "B",
+    "x": 18.199999999999996,
+    "phase": 0.7225000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 101,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.7425000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 102,
+    "id": "A",
+    "x": 5.499999999999997,
+    "phase": 0.7750000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 102,
+    "id": "B",
+    "x": 18.499999999999996,
+    "phase": 0.7350000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 102,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.7550000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 103,
+    "id": "A",
+    "x": 5.1999999999999975,
+    "phase": 0.7875000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 103,
+    "id": "B",
+    "x": 18.799999999999997,
+    "phase": 0.7475,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 103,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.7675000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 104,
+    "id": "A",
+    "x": 4.899999999999998,
+    "phase": 0.8,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 104,
+    "id": "B",
+    "x": 19.099999999999998,
+    "phase": 0.76,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 104,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.78,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 105,
+    "id": "A",
+    "x": 4.599999999999998,
+    "phase": 0.8125,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 105,
+    "id": "B",
+    "x": 19.4,
+    "phase": 0.7725,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 105,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.7925,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 106,
+    "id": "A",
+    "x": 4.299999999999998,
+    "phase": 0.8250000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 106,
+    "id": "B",
+    "x": 19.7,
+    "phase": 0.7850000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 106,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.8050000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 107,
+    "id": "A",
+    "x": 3.9999999999999982,
+    "phase": 0.8375000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 107,
+    "id": "B",
+    "x": 20.0,
+    "phase": 0.7975000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 107,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.8175000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 108,
+    "id": "A",
+    "x": 4.299999999999998,
+    "phase": 0.8500000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 108,
+    "id": "B",
+    "x": 19.7,
+    "phase": 0.81,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 108,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.8300000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 109,
+    "id": "A",
+    "x": 4.599999999999998,
+    "phase": 0.8625,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 109,
+    "id": "B",
+    "x": 19.4,
+    "phase": 0.8225,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 109,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.8425,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 110,
+    "id": "A",
+    "x": 4.899999999999998,
+    "phase": 0.875,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 110,
+    "id": "B",
+    "x": 19.099999999999998,
+    "phase": 0.835,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 110,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.855,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 111,
+    "id": "A",
+    "x": 5.1999999999999975,
+    "phase": 0.8875000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 111,
+    "id": "B",
+    "x": 18.799999999999997,
+    "phase": 0.8475000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 111,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.8675000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 112,
+    "id": "A",
+    "x": 5.499999999999997,
+    "phase": 0.9000000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 112,
+    "id": "B",
+    "x": 18.499999999999996,
+    "phase": 0.8600000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 112,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.8800000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 113,
+    "id": "A",
+    "x": 5.799999999999997,
+    "phase": 0.9125000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 113,
+    "id": "B",
+    "x": 18.199999999999996,
+    "phase": 0.8725,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 113,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.8925000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 114,
+    "id": "A",
+    "x": 6.099999999999997,
+    "phase": 0.925,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 114,
+    "id": "B",
+    "x": 17.899999999999995,
+    "phase": 0.885,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 114,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.905,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 115,
+    "id": "A",
+    "x": 6.399999999999997,
+    "phase": 0.9375,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 115,
+    "id": "B",
+    "x": 17.599999999999994,
+    "phase": 0.8975,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 115,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.9175,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 116,
+    "id": "A",
+    "x": 6.699999999999997,
+    "phase": 0.9500000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 116,
+    "id": "B",
+    "x": 17.299999999999994,
+    "phase": 0.9100000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 116,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.9300000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 117,
+    "id": "A",
+    "x": 6.9999999999999964,
+    "phase": 0.9625000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 117,
+    "id": "B",
+    "x": 16.999999999999993,
+    "phase": 0.9225000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 117,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.9425000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 118,
+    "id": "A",
+    "x": 7.299999999999996,
+    "phase": 0.9750000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 118,
+    "id": "B",
+    "x": 16.699999999999992,
+    "phase": 0.935,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 118,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.9550000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 119,
+    "id": "A",
+    "x": 7.599999999999996,
+    "phase": 0.9875,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 119,
+    "id": "B",
+    "x": 16.39999999999999,
+    "phase": 0.9475,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 119,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.9675,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 120,
+    "id": "A",
+    "x": 7.899999999999996,
+    "phase": 0.0,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 120,
+    "id": "B",
+    "x": 16.09999999999999,
+    "phase": 0.96,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 120,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.98,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 121,
+    "id": "A",
+    "x": 8.199999999999996,
+    "phase": 0.012500000000000178,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 121,
+    "id": "B",
+    "x": 15.79999999999999,
+    "phase": 0.9725000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 121,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.9925000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 122,
+    "id": "A",
+    "x": 8.499999999999996,
+    "phase": 0.025000000000000355,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 122,
+    "id": "B",
+    "x": 15.49999999999999,
+    "phase": 0.9850000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 122,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.004999999999999893,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 123,
+    "id": "A",
+    "x": 8.799999999999997,
+    "phase": 0.03750000000000009,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 123,
+    "id": "B",
+    "x": 15.199999999999989,
+    "phase": 0.9975,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 123,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.01750000000000007,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 124,
+    "id": "A",
+    "x": 9.099999999999998,
+    "phase": 0.04999999999999982,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 124,
+    "id": "B",
+    "x": 14.899999999999988,
+    "phase": 0.010000000000000231,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 124,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.03000000000000025,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 125,
+    "id": "A",
+    "x": 9.399999999999999,
+    "phase": 0.0625,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 125,
+    "id": "B",
+    "x": 14.599999999999987,
+    "phase": 0.022499999999999964,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 125,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.04249999999999998,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 126,
+    "id": "A",
+    "x": 9.7,
+    "phase": 0.07500000000000018,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 126,
+    "id": "B",
+    "x": 14.299999999999986,
+    "phase": 0.03500000000000014,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 126,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.05500000000000016,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 127,
+    "id": "A",
+    "x": 10.0,
+    "phase": 0.08750000000000036,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 127,
+    "id": "B",
+    "x": 13.999999999999986,
+    "phase": 0.04750000000000032,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 127,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.0674999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 128,
+    "id": "A",
+    "x": 10.3,
+    "phase": 0.10000000000000009,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 128,
+    "id": "B",
+    "x": 13.699999999999985,
+    "phase": 0.06000000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 128,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.08000000000000007,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 129,
+    "id": "A",
+    "x": 10.600000000000001,
+    "phase": 0.11249999999999982,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 129,
+    "id": "B",
+    "x": 13.399999999999984,
+    "phase": 0.07250000000000023,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 129,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.09250000000000025,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 130,
+    "id": "A",
+    "x": 10.900000000000002,
+    "phase": 0.125,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 130,
+    "id": "B",
+    "x": 13.099999999999984,
+    "phase": 0.08499999999999996,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 130,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.10499999999999998,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 131,
+    "id": "A",
+    "x": 11.200000000000003,
+    "phase": 0.13750000000000018,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 131,
+    "id": "B",
+    "x": 12.799999999999983,
+    "phase": 0.09750000000000014,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 131,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.11750000000000016,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 132,
+    "id": "A",
+    "x": 11.500000000000004,
+    "phase": 0.15000000000000036,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 132,
+    "id": "B",
+    "x": 12.499999999999982,
+    "phase": 0.11000000000000032,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 132,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.1299999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 133,
+    "id": "A",
+    "x": 11.800000000000004,
+    "phase": 0.1625000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 133,
+    "id": "B",
+    "x": 12.199999999999982,
+    "phase": 0.12250000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 133,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.14250000000000007,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 134,
+    "id": "A",
+    "x": 12.100000000000005,
+    "phase": 0.17499999999999982,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 134,
+    "id": "B",
+    "x": 11.89999999999998,
+    "phase": 0.13500000000000023,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 134,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.15500000000000025,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 135,
+    "id": "A",
+    "x": 12.400000000000006,
+    "phase": 0.1875,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 135,
+    "id": "B",
+    "x": 11.59999999999998,
+    "phase": 0.14749999999999996,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 135,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.16749999999999998,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 136,
+    "id": "A",
+    "x": 12.700000000000006,
+    "phase": 0.20000000000000018,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 136,
+    "id": "B",
+    "x": 11.29999999999998,
+    "phase": 0.16000000000000014,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 136,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.18000000000000016,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 137,
+    "id": "A",
+    "x": 13.000000000000007,
+    "phase": 0.21250000000000036,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 137,
+    "id": "B",
+    "x": 10.999999999999979,
+    "phase": 0.17250000000000032,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 137,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.1924999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 138,
+    "id": "A",
+    "x": 13.300000000000008,
+    "phase": 0.2250000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 138,
+    "id": "B",
+    "x": 10.699999999999978,
+    "phase": 0.18500000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 138,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.20500000000000007,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 139,
+    "id": "A",
+    "x": 13.600000000000009,
+    "phase": 0.23749999999999982,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 139,
+    "id": "B",
+    "x": 10.399999999999977,
+    "phase": 0.19750000000000023,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 139,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.21750000000000025,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 140,
+    "id": "A",
+    "x": 13.90000000000001,
+    "phase": 0.25,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 140,
+    "id": "B",
+    "x": 10.099999999999977,
+    "phase": 0.20999999999999996,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 140,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.22999999999999998,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 141,
+    "id": "A",
+    "x": 14.20000000000001,
+    "phase": 0.2625000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 141,
+    "id": "B",
+    "x": 9.799999999999976,
+    "phase": 0.22250000000000014,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 141,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.24250000000000016,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 142,
+    "id": "A",
+    "x": 14.50000000000001,
+    "phase": 0.27500000000000036,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 142,
+    "id": "B",
+    "x": 9.499999999999975,
+    "phase": 0.23500000000000032,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 142,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.2549999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 143,
+    "id": "A",
+    "x": 14.800000000000011,
+    "phase": 0.2875000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 143,
+    "id": "B",
+    "x": 9.199999999999974,
+    "phase": 0.24750000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 143,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.26750000000000007,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 144,
+    "id": "A",
+    "x": 15.100000000000012,
+    "phase": 0.2999999999999998,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 144,
+    "id": "B",
+    "x": 8.899999999999974,
+    "phase": 0.26000000000000023,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 144,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.28000000000000025,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 145,
+    "id": "A",
+    "x": 15.400000000000013,
+    "phase": 0.3125,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 145,
+    "id": "B",
+    "x": 8.599999999999973,
+    "phase": 0.27249999999999996,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 145,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.2925,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 146,
+    "id": "A",
+    "x": 15.700000000000014,
+    "phase": 0.3250000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 146,
+    "id": "B",
+    "x": 8.299999999999972,
+    "phase": 0.28500000000000014,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 146,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.30500000000000016,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 147,
+    "id": "A",
+    "x": 16.000000000000014,
+    "phase": 0.33750000000000036,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 147,
+    "id": "B",
+    "x": 7.9999999999999725,
+    "phase": 0.2975000000000003,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 147,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.3174999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 148,
+    "id": "A",
+    "x": 16.300000000000015,
+    "phase": 0.3500000000000001,
+    "support": 1.32,
+    "locked": false
+  },
+  {
+    "tick": 148,
+    "id": "B",
+    "x": 7.699999999999973,
+    "phase": 0.31000000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 148,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.33000000000000007,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 149,
+    "id": "A",
+    "x": 16.600000000000016,
+    "phase": 0.3624999999999998,
+    "support": 1.3449999999999995,
+    "locked": true
+  },
+  {
+    "tick": 149,
+    "id": "B",
+    "x": 7.399999999999973,
+    "phase": 0.32250000000000023,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 149,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.34250000000000025,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 150,
+    "id": "A",
+    "x": 16.900000000000016,
+    "phase": 0.375,
+    "support": 1.3699999999999999,
+    "locked": false
+  },
+  {
+    "tick": 150,
+    "id": "B",
+    "x": 7.099999999999973,
+    "phase": 0.33499999999999996,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 150,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.355,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 151,
+    "id": "A",
+    "x": 17.200000000000017,
+    "phase": 0.3875000000000002,
+    "support": 1.38,
+    "locked": false
+  },
+  {
+    "tick": 151,
+    "id": "B",
+    "x": 6.799999999999973,
+    "phase": 0.34750000000000014,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 151,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.36750000000000016,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 152,
+    "id": "A",
+    "x": 17.500000000000018,
+    "phase": 0.40000000000000036,
+    "support": 1.3799999999999992,
+    "locked": false
+  },
+  {
+    "tick": 152,
+    "id": "B",
+    "x": 6.499999999999973,
+    "phase": 0.3600000000000003,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 152,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.3799999999999999,
+    "support": 0.6599999999999999,
+    "locked": false
+  },
+  {
+    "tick": 153,
+    "id": "A",
+    "x": 17.80000000000002,
+    "phase": 0.4125000000000001,
+    "support": 1.3549999999999998,
+    "locked": false
+  },
+  {
+    "tick": 153,
+    "id": "B",
+    "x": 6.1999999999999735,
+    "phase": 0.37250000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 153,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.39250000000000007,
+    "support": 1.3250000000000002,
+    "locked": false
+  },
+  {
+    "tick": 154,
+    "id": "A",
+    "x": 18.10000000000002,
+    "phase": 0.4249999999999998,
+    "support": 1.3300000000000003,
+    "locked": false
+  },
+  {
+    "tick": 154,
+    "id": "B",
+    "x": 5.899999999999974,
+    "phase": 0.38500000000000023,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 154,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.40500000000000025,
+    "support": 1.3500000000000005,
+    "locked": false
+  },
+  {
+    "tick": 155,
+    "id": "A",
+    "x": 18.40000000000002,
+    "phase": 0.4375,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 155,
+    "id": "B",
+    "x": 5.599999999999974,
+    "phase": 0.39749999999999996,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 155,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.4175,
+    "support": 2.0324999999999998,
+    "locked": false
+  },
+  {
+    "tick": 156,
+    "id": "A",
+    "x": 18.70000000000002,
+    "phase": 0.4500000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 156,
+    "id": "B",
+    "x": 5.299999999999974,
+    "phase": 0.41000000000000014,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 156,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.43000000000000016,
+    "support": 2.05,
+    "locked": false
+  },
+  {
+    "tick": 157,
+    "id": "A",
+    "x": 19.00000000000002,
+    "phase": 0.46250000000000036,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 157,
+    "id": "B",
+    "x": 4.999999999999974,
+    "phase": 0.4225000000000003,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 157,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.4424999999999999,
+    "support": 2.0575,
+    "locked": false
+  },
+  {
+    "tick": 158,
+    "id": "A",
+    "x": 19.300000000000022,
+    "phase": 0.4750000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 158,
+    "id": "B",
+    "x": 4.699999999999974,
+    "phase": 0.43500000000000005,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 158,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.45500000000000007,
+    "support": 2.045,
+    "locked": false
+  },
+  {
+    "tick": 159,
+    "id": "A",
+    "x": 19.600000000000023,
+    "phase": 0.4874999999999998,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 159,
+    "id": "B",
+    "x": 4.399999999999975,
+    "phase": 0.44750000000000023,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 159,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.46750000000000025,
+    "support": 2.017499999999999,
+    "locked": false
+  },
+  {
+    "tick": 160,
+    "id": "A",
+    "x": 19.900000000000023,
+    "phase": 0.5,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 160,
+    "id": "B",
+    "x": 4.099999999999975,
+    "phase": 0.45999999999999996,
+    "support": 0.6599999999999999,
+    "locked": false
+  },
+  {
+    "tick": 160,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.48,
+    "support": 1.3399999999999999,
+    "locked": false
+  },
+  {
+    "tick": 161,
+    "id": "A",
+    "x": 20.200000000000024,
+    "phase": 0.5125000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 161,
+    "id": "B",
+    "x": 3.799999999999975,
+    "phase": 0.47250000000000014,
+    "support": 0.6725000000000001,
+    "locked": true
+  },
+  {
+    "tick": 161,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.49250000000000016,
+    "support": 0.6674999999999998,
+    "locked": true
+  },
+  {
+    "tick": 162,
+    "id": "A",
+    "x": 19.900000000000023,
+    "phase": 0.5249999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 162,
+    "id": "B",
+    "x": 4.099999999999975,
+    "phase": 0.4849999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 162,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5049999999999999,
+    "support": 0.655,
+    "locked": false
+  },
+  {
+    "tick": 163,
+    "id": "A",
+    "x": 19.600000000000023,
+    "phase": 0.5375000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 163,
+    "id": "B",
+    "x": 4.399999999999975,
+    "phase": 0.49750000000000005,
+    "support": 0.6975,
+    "locked": true
+  },
+  {
+    "tick": 163,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5175000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 164,
+    "id": "A",
+    "x": 19.300000000000022,
+    "phase": 0.5500000000000003,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 164,
+    "id": "B",
+    "x": 4.699999999999974,
+    "phase": 0.5100000000000002,
+    "support": 0.6899999999999997,
+    "locked": true
+  },
+  {
+    "tick": 164,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5300000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 165,
+    "id": "A",
+    "x": 19.00000000000002,
+    "phase": 0.5625,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 165,
+    "id": "B",
+    "x": 4.999999999999974,
+    "phase": 0.5225,
+    "support": 0.6775,
+    "locked": true
+  },
+  {
+    "tick": 165,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5425,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 166,
+    "id": "A",
+    "x": 18.70000000000002,
+    "phase": 0.5750000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 166,
+    "id": "B",
+    "x": 5.299999999999974,
+    "phase": 0.5350000000000001,
+    "support": 0.6649999999999998,
+    "locked": true
+  },
+  {
+    "tick": 166,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5550000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 167,
+    "id": "A",
+    "x": 18.40000000000002,
+    "phase": 0.5874999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 167,
+    "id": "B",
+    "x": 5.599999999999974,
+    "phase": 0.5474999999999999,
+    "support": 0.6525000000000001,
+    "locked": true
+  },
+  {
+    "tick": 167,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5674999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 168,
+    "id": "A",
+    "x": 18.10000000000002,
+    "phase": 0.6000000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 168,
+    "id": "B",
+    "x": 5.899999999999974,
+    "phase": 0.56,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 168,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5800000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 169,
+    "id": "A",
+    "x": 17.80000000000002,
+    "phase": 0.6125000000000003,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 169,
+    "id": "B",
+    "x": 6.1999999999999735,
+    "phase": 0.5725000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 169,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.5925000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 170,
+    "id": "A",
+    "x": 17.500000000000018,
+    "phase": 0.625,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 170,
+    "id": "B",
+    "x": 6.499999999999973,
+    "phase": 0.585,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 170,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.605,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 171,
+    "id": "A",
+    "x": 17.200000000000017,
+    "phase": 0.6375000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 171,
+    "id": "B",
+    "x": 6.799999999999973,
+    "phase": 0.5975000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 171,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6175000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 172,
+    "id": "A",
+    "x": 16.900000000000016,
+    "phase": 0.6499999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 172,
+    "id": "B",
+    "x": 7.099999999999973,
+    "phase": 0.6099999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 172,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6299999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 173,
+    "id": "A",
+    "x": 16.600000000000016,
+    "phase": 0.6625000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 173,
+    "id": "B",
+    "x": 7.399999999999973,
+    "phase": 0.6225,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 173,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6425000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 174,
+    "id": "A",
+    "x": 16.300000000000015,
+    "phase": 0.6750000000000003,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 174,
+    "id": "B",
+    "x": 7.699999999999973,
+    "phase": 0.6350000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 174,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6550000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 175,
+    "id": "A",
+    "x": 16.000000000000014,
+    "phase": 0.6875,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 175,
+    "id": "B",
+    "x": 7.9999999999999725,
+    "phase": 0.6475,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 175,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6675,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 176,
+    "id": "A",
+    "x": 15.700000000000014,
+    "phase": 0.7000000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 176,
+    "id": "B",
+    "x": 8.299999999999972,
+    "phase": 0.6600000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 176,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6800000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 177,
+    "id": "A",
+    "x": 15.400000000000013,
+    "phase": 0.7124999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 177,
+    "id": "B",
+    "x": 8.599999999999973,
+    "phase": 0.6724999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 177,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.6924999999999999,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 178,
+    "id": "A",
+    "x": 15.100000000000012,
+    "phase": 0.7250000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 178,
+    "id": "B",
+    "x": 8.899999999999974,
+    "phase": 0.685,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 178,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.7050000000000001,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 179,
+    "id": "A",
+    "x": 14.800000000000011,
+    "phase": 0.7375000000000003,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 179,
+    "id": "B",
+    "x": 9.199999999999974,
+    "phase": 0.6975000000000002,
+    "support": 0.0,
+    "locked": false
+  },
+  {
+    "tick": 179,
+    "id": "C",
+    "x": 12.0,
+    "phase": 0.7175000000000002,
+    "support": 0.0,
+    "locked": false
+  }
+]

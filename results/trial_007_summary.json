@@ -1,0 +1,44 @@
+{
+  "387.0": {
+    "tick": 387.0,
+    "phase": 0.0,
+    "tick_phase_match": true,
+    "module_before": "B",
+    "module_after": "D"
+  },
+  "387.2": {
+    "tick": 387.2,
+    "phase": 0.2,
+    "tick_phase_match": false,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "387.4": {
+    "tick": 387.4,
+    "phase": 0.4,
+    "tick_phase_match": false,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "387.6": {
+    "tick": 387.6,
+    "phase": 0.6,
+    "tick_phase_match": false,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "387.8": {
+    "tick": 387.8,
+    "phase": 0.8,
+    "tick_phase_match": false,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "388.0": {
+    "tick": 388.0,
+    "phase": 0.0,
+    "tick_phase_match": true,
+    "module_before": "B",
+    "module_after": "D"
+  }
+}

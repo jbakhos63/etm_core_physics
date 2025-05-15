@@ -1,0 +1,8 @@
+{
+  "trial": "073",
+  "drop_tick": 20,
+  "return_tick": 50,
+  "lock_in_threshold": 20,
+  "lock_in_quorum": 4,
+  "phase_tolerance": 0.11
+}

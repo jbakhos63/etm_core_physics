@@ -1,0 +1,13 @@
+{
+  "trial": "101_PlanckModel",
+  "tick_delta": 36,
+  "reinforcement_per_tick": 0.02,
+  "reinforcement_threshold": 0.1,
+  "phase_increment": 0.01,
+  "decay_rate": 0.002,
+  "derived_h_ETM": 0.72,
+  "derived_h_bar_ETM": 0.11459155902616464,
+  "modular_frequency_tick_inv": 0.027777777777777776,
+  "expected_modular_energy_unit": 0.019999999999999997,
+  "notes": "Derived Planck-like constant purely from ETM rhythm deltas and recruiter memory. h_ETM = \u0394t \u00d7 reinforcement/tick."
+}

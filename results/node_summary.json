@@ -1,0 +1,11 @@
+{
+  "final_state": {
+    "node_id": "test_001",
+    "tick": 20,
+    "phase": 0.0,
+    "memory": 1.0,
+    "ancestry": "rotor-A",
+    "coherence_score": 0.0
+  },
+  "history_length": 20
+}

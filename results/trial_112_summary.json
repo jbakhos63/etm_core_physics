@@ -1,0 +1,15 @@
+{
+  "trial": "112",
+  "drop_tick": 10,
+  "return_tick": 40,
+  "gradient_steps": [
+    0.005,
+    0.01,
+    0.015,
+    0.02,
+    0.025
+  ],
+  "reinforcement_decay": 0.002,
+  "reinforcement_threshold": 0.1,
+  "phase": 0.0
+}

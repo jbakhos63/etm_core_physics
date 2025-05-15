@@ -1,0 +1,36 @@
+{
+  "locked_ticks": [
+    0,
+    1,
+    2,
+    3,
+    80
+  ],
+  "final_position": {
+    "x": 16.600000000000016,
+    "y": 4.0
+  },
+  "total_locks": 5,
+  "echo_ladder": [
+    {
+      "tick": 60,
+      "phase": 0.5
+    },
+    {
+      "tick": 80,
+      "phase": 0.49
+    },
+    {
+      "tick": 100,
+      "phase": 0.48
+    },
+    {
+      "tick": 120,
+      "phase": 0.47
+    },
+    {
+      "tick": 140,
+      "phase": 0.46
+    }
+  ]
+}

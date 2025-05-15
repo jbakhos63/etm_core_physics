@@ -1,0 +1,13 @@
+{
+  "trial": "104",
+  "drop_tick": 10,
+  "reinforcement_amount": 0.02,
+  "reinforcement_decay": 0.002,
+  "reinforcement_threshold": 0.1,
+  "phase": 0.0,
+  "toggle_intervals": {
+    "R1": 30,
+    "R2": 40,
+    "R3": 50
+  }
+}

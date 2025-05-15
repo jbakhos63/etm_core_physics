@@ -1,0 +1,16 @@
+{
+  "trial": "097",
+  "drop_tick": 10,
+  "attempts": [
+    44,
+    45,
+    46,
+    47,
+    48
+  ],
+  "reinforcement_amount": 0.02,
+  "reinforcement_decay": 0.002,
+  "reinforcement_threshold": 0.1,
+  "phase_G": 0.0,
+  "phase_E1": 0.25
+}

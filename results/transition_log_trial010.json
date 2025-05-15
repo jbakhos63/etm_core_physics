@@ -1,0 +1,42 @@
+[
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 2.0,
+      "ancestry_match": true,
+      "tick_phase_match": true
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 2.0,
+      "ancestry_match": true,
+      "tick_phase_match": true
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 2.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 2.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  }
+]

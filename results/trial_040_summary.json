@@ -1,0 +1,12 @@
+{
+  "trial": "040",
+  "initial_phase": 0.2,
+  "drop_phase": 0.0,
+  "photon_ticks": [
+    10,
+    12,
+    14
+  ],
+  "drop_tick": 17,
+  "delta_phi": 0.01
+}

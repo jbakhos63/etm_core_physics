@@ -1,0 +1,56 @@
+[
+  {
+    "phase_gradient": 0.02,
+    "total_locks": 55,
+    "final_position": 10.800000000000004,
+    "average_timing_delay_between_locks": 2.6481481481481484
+  },
+  {
+    "phase_gradient": 0.03,
+    "total_locks": 54,
+    "final_position": 10.800000000000004,
+    "average_timing_delay_between_locks": 2.6792452830188678
+  },
+  {
+    "phase_gradient": 0.04,
+    "total_locks": 57,
+    "final_position": 10.800000000000004,
+    "average_timing_delay_between_locks": 2.5357142857142856
+  },
+  {
+    "phase_gradient": 0.05,
+    "total_locks": 61,
+    "final_position": 10.800000000000004,
+    "average_timing_delay_between_locks": 2.3666666666666667
+  },
+  {
+    "phase_gradient": 0.06,
+    "total_locks": 63,
+    "final_position": 10.800000000000004,
+    "average_timing_delay_between_locks": 2.2903225806451615
+  },
+  {
+    "phase_gradient": 0.07,
+    "total_locks": 66,
+    "final_position": 10.800000000000004,
+    "average_timing_delay_between_locks": 2.1846153846153844
+  },
+  {
+    "phase_gradient": 0.08,
+    "total_locks": 66,
+    "final_position": 10.800000000000004,
+    "average_timing_delay_between_locks": 2.1846153846153844
+  },
+  {
+    "phase_gradient": 0.09,
+    "total_locks": 68,
+    "final_position": 10.800000000000004,
+    "average_timing_delay_between_locks": 2.1044776119402986
+  },
+  {
+    "phase_gradient": 0.1,
+    "total_locks": 70,
+    "final_position": 10.800000000000004,
+    "average_timing_delay_between_locks": 2.0434782608695654
+  }
+]

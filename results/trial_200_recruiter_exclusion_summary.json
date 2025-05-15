@@ -1,0 +1,33 @@
+{
+  "identities": [
+    {
+      "id": "A",
+      "ancestry": "rotorX",
+      "spin": "up"
+    },
+    {
+      "id": "B",
+      "ancestry": "rotorX",
+      "spin": "up"
+    }
+  ],
+  "recruiter_centers": [
+    10,
+    12,
+    14
+  ],
+  "locked_ticks": {
+    "A": [
+      0
+    ],
+    "B": []
+  },
+  "final_positions": {
+    "A": 13.800000000000004,
+    "B": 19.800000000000004
+  },
+  "total_locks": {
+    "A": 1,
+    "B": 0
+  }
+}

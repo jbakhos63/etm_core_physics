@@ -1,0 +1,412 @@
+[
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "D",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": true
+    },
+    "success": true
+  },
+  {
+    "from": "B",
+    "to": "D",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": true
+    },
+    "success": true
+  },
+  {
+    "from": "B",
+    "to": "D",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": true
+    },
+    "success": true
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "D",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": true
+    },
+    "success": true
+  },
+  {
+    "from": "B",
+    "to": "D",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": true
+    },
+    "success": true
+  },
+  {
+    "from": "B",
+    "to": "D",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": true
+    },
+    "success": true
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  },
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 10.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  }
+]

@@ -1,0 +1,3032 @@
+{
+  "0.3": {
+    "excited_phase": 0.3,
+    "return_tick": 1,
+    "tick_log": [
+      {
+        "tick": 1,
+        "phase": 0.05,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 2,
+        "phase": 0.1,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 3,
+        "phase": 0.15,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 4,
+        "phase": 0.2,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 5,
+        "phase": 0.25,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 6,
+        "phase": 0.3,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 7,
+        "phase": 0.35,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 8,
+        "phase": 0.4,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 9,
+        "phase": 0.45,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 10,
+        "phase": 0.5,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 11,
+        "phase": 0.35,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 12,
+        "phase": 0.4,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 13,
+        "phase": 0.45,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 14,
+        "phase": 0.5,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 15,
+        "phase": 0.55,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 16,
+        "phase": 0.6,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 17,
+        "phase": 0.65,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 18,
+        "phase": 0.7,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 19,
+        "phase": 0.75,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 20,
+        "phase": 0.8,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 21,
+        "phase": 0.05,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 22,
+        "phase": 0.1,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 23,
+        "phase": 0.15,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 24,
+        "phase": 0.2,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 25,
+        "phase": 0.25,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 26,
+        "phase": 0.3,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 27,
+        "phase": 0.35,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 28,
+        "phase": 0.4,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 29,
+        "phase": 0.45,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 30,
+        "phase": 0.5,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 31,
+        "phase": 0.55,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 32,
+        "phase": 0.6,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 33,
+        "phase": 0.65,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 34,
+        "phase": 0.7,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 35,
+        "phase": 0.75,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 36,
+        "phase": 0.8,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 37,
+        "phase": 0.85,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 38,
+        "phase": 0.9,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 39,
+        "phase": 0.95,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 40,
+        "phase": 0.0,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 41,
+        "phase": 0.05,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 42,
+        "phase": 0.1,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 43,
+        "phase": 0.15,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 44,
+        "phase": 0.2,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 45,
+        "phase": 0.25,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 46,
+        "phase": 0.3,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 47,
+        "phase": 0.35,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 48,
+        "phase": 0.4,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 49,
+        "phase": 0.45,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 50,
+        "phase": 0.5,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 51,
+        "phase": 0.55,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 52,
+        "phase": 0.6,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 53,
+        "phase": 0.65,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 54,
+        "phase": 0.7,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 55,
+        "phase": 0.75,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 56,
+        "phase": 0.8,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 57,
+        "phase": 0.85,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 58,
+        "phase": 0.9,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 59,
+        "phase": 0.95,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 60,
+        "phase": 0.0,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 61,
+        "phase": 0.05,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 62,
+        "phase": 0.1,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 63,
+        "phase": 0.15,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 64,
+        "phase": 0.2,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 65,
+        "phase": 0.25,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 66,
+        "phase": 0.3,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 67,
+        "phase": 0.35,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 68,
+        "phase": 0.4,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 69,
+        "phase": 0.45,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 70,
+        "phase": 0.5,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 71,
+        "phase": 0.55,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 72,
+        "phase": 0.6,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 73,
+        "phase": 0.65,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 74,
+        "phase": 0.7,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 75,
+        "phase": 0.75,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 76,
+        "phase": 0.8,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 77,
+        "phase": 0.85,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 78,
+        "phase": 0.9,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 79,
+        "phase": 0.95,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 80,
+        "phase": 0.0,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 81,
+        "phase": 0.05,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 82,
+        "phase": 0.1,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 83,
+        "phase": 0.15,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 84,
+        "phase": 0.2,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 85,
+        "phase": 0.25,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 86,
+        "phase": 0.3,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 87,
+        "phase": 0.35,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 88,
+        "phase": 0.4,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 89,
+        "phase": 0.45,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 90,
+        "phase": 0.5,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 91,
+        "phase": 0.55,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 92,
+        "phase": 0.6,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 93,
+        "phase": 0.65,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 94,
+        "phase": 0.7,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 95,
+        "phase": 0.75,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 96,
+        "phase": 0.8,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 97,
+        "phase": 0.85,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 98,
+        "phase": 0.9,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 99,
+        "phase": 0.95,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 100,
+        "phase": 0.0,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 101,
+        "phase": 0.05,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 102,
+        "phase": 0.1,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 103,
+        "phase": 0.15,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 104,
+        "phase": 0.2,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 105,
+        "phase": 0.25,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 106,
+        "phase": 0.3,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 107,
+        "phase": 0.35,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 108,
+        "phase": 0.4,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 109,
+        "phase": 0.45,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 110,
+        "phase": 0.5,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 111,
+        "phase": 0.55,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 112,
+        "phase": 0.6,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 113,
+        "phase": 0.65,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 114,
+        "phase": 0.7,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 115,
+        "phase": 0.75,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 116,
+        "phase": 0.8,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 117,
+        "phase": 0.85,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 118,
+        "phase": 0.9,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 119,
+        "phase": 0.95,
+        "excited_phase": 0.3
+      },
+      {
+        "tick": 120,
+        "phase": 0.0,
+        "excited_phase": 0.3
+      }
+    ]
+  },
+  "0.35": {
+    "excited_phase": 0.35,
+    "return_tick": 1,
+    "tick_log": [
+      {
+        "tick": 1,
+        "phase": 0.05,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 2,
+        "phase": 0.1,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 3,
+        "phase": 0.15,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 4,
+        "phase": 0.2,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 5,
+        "phase": 0.25,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 6,
+        "phase": 0.3,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 7,
+        "phase": 0.35,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 8,
+        "phase": 0.4,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 9,
+        "phase": 0.45,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 10,
+        "phase": 0.5,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 11,
+        "phase": 0.4,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 12,
+        "phase": 0.45,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 13,
+        "phase": 0.5,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 14,
+        "phase": 0.55,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 15,
+        "phase": 0.6,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 16,
+        "phase": 0.65,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 17,
+        "phase": 0.7,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 18,
+        "phase": 0.75,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 19,
+        "phase": 0.8,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 20,
+        "phase": 0.85,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 21,
+        "phase": 0.05,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 22,
+        "phase": 0.1,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 23,
+        "phase": 0.15,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 24,
+        "phase": 0.2,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 25,
+        "phase": 0.25,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 26,
+        "phase": 0.3,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 27,
+        "phase": 0.35,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 28,
+        "phase": 0.4,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 29,
+        "phase": 0.45,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 30,
+        "phase": 0.5,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 31,
+        "phase": 0.55,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 32,
+        "phase": 0.6,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 33,
+        "phase": 0.65,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 34,
+        "phase": 0.7,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 35,
+        "phase": 0.75,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 36,
+        "phase": 0.8,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 37,
+        "phase": 0.85,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 38,
+        "phase": 0.9,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 39,
+        "phase": 0.95,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 40,
+        "phase": 0.0,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 41,
+        "phase": 0.05,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 42,
+        "phase": 0.1,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 43,
+        "phase": 0.15,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 44,
+        "phase": 0.2,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 45,
+        "phase": 0.25,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 46,
+        "phase": 0.3,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 47,
+        "phase": 0.35,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 48,
+        "phase": 0.4,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 49,
+        "phase": 0.45,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 50,
+        "phase": 0.5,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 51,
+        "phase": 0.55,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 52,
+        "phase": 0.6,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 53,
+        "phase": 0.65,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 54,
+        "phase": 0.7,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 55,
+        "phase": 0.75,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 56,
+        "phase": 0.8,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 57,
+        "phase": 0.85,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 58,
+        "phase": 0.9,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 59,
+        "phase": 0.95,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 60,
+        "phase": 0.0,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 61,
+        "phase": 0.05,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 62,
+        "phase": 0.1,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 63,
+        "phase": 0.15,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 64,
+        "phase": 0.2,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 65,
+        "phase": 0.25,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 66,
+        "phase": 0.3,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 67,
+        "phase": 0.35,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 68,
+        "phase": 0.4,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 69,
+        "phase": 0.45,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 70,
+        "phase": 0.5,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 71,
+        "phase": 0.55,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 72,
+        "phase": 0.6,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 73,
+        "phase": 0.65,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 74,
+        "phase": 0.7,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 75,
+        "phase": 0.75,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 76,
+        "phase": 0.8,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 77,
+        "phase": 0.85,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 78,
+        "phase": 0.9,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 79,
+        "phase": 0.95,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 80,
+        "phase": 0.0,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 81,
+        "phase": 0.05,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 82,
+        "phase": 0.1,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 83,
+        "phase": 0.15,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 84,
+        "phase": 0.2,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 85,
+        "phase": 0.25,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 86,
+        "phase": 0.3,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 87,
+        "phase": 0.35,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 88,
+        "phase": 0.4,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 89,
+        "phase": 0.45,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 90,
+        "phase": 0.5,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 91,
+        "phase": 0.55,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 92,
+        "phase": 0.6,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 93,
+        "phase": 0.65,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 94,
+        "phase": 0.7,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 95,
+        "phase": 0.75,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 96,
+        "phase": 0.8,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 97,
+        "phase": 0.85,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 98,
+        "phase": 0.9,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 99,
+        "phase": 0.95,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 100,
+        "phase": 0.0,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 101,
+        "phase": 0.05,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 102,
+        "phase": 0.1,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 103,
+        "phase": 0.15,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 104,
+        "phase": 0.2,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 105,
+        "phase": 0.25,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 106,
+        "phase": 0.3,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 107,
+        "phase": 0.35,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 108,
+        "phase": 0.4,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 109,
+        "phase": 0.45,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 110,
+        "phase": 0.5,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 111,
+        "phase": 0.55,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 112,
+        "phase": 0.6,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 113,
+        "phase": 0.65,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 114,
+        "phase": 0.7,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 115,
+        "phase": 0.75,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 116,
+        "phase": 0.8,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 117,
+        "phase": 0.85,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 118,
+        "phase": 0.9,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 119,
+        "phase": 0.95,
+        "excited_phase": 0.35
+      },
+      {
+        "tick": 120,
+        "phase": 0.0,
+        "excited_phase": 0.35
+      }
+    ]
+  },
+  "0.4": {
+    "excited_phase": 0.4,
+    "return_tick": 1,
+    "tick_log": [
+      {
+        "tick": 1,
+        "phase": 0.05,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 2,
+        "phase": 0.1,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 3,
+        "phase": 0.15,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 4,
+        "phase": 0.2,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 5,
+        "phase": 0.25,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 6,
+        "phase": 0.3,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 7,
+        "phase": 0.35,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 8,
+        "phase": 0.4,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 9,
+        "phase": 0.45,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 10,
+        "phase": 0.5,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 11,
+        "phase": 0.45,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 12,
+        "phase": 0.5,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 13,
+        "phase": 0.55,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 14,
+        "phase": 0.6,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 15,
+        "phase": 0.65,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 16,
+        "phase": 0.7,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 17,
+        "phase": 0.75,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 18,
+        "phase": 0.8,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 19,
+        "phase": 0.85,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 20,
+        "phase": 0.9,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 21,
+        "phase": 0.05,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 22,
+        "phase": 0.1,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 23,
+        "phase": 0.15,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 24,
+        "phase": 0.2,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 25,
+        "phase": 0.25,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 26,
+        "phase": 0.3,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 27,
+        "phase": 0.35,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 28,
+        "phase": 0.4,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 29,
+        "phase": 0.45,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 30,
+        "phase": 0.5,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 31,
+        "phase": 0.55,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 32,
+        "phase": 0.6,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 33,
+        "phase": 0.65,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 34,
+        "phase": 0.7,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 35,
+        "phase": 0.75,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 36,
+        "phase": 0.8,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 37,
+        "phase": 0.85,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 38,
+        "phase": 0.9,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 39,
+        "phase": 0.95,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 40,
+        "phase": 0.0,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 41,
+        "phase": 0.05,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 42,
+        "phase": 0.1,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 43,
+        "phase": 0.15,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 44,
+        "phase": 0.2,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 45,
+        "phase": 0.25,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 46,
+        "phase": 0.3,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 47,
+        "phase": 0.35,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 48,
+        "phase": 0.4,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 49,
+        "phase": 0.45,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 50,
+        "phase": 0.5,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 51,
+        "phase": 0.55,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 52,
+        "phase": 0.6,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 53,
+        "phase": 0.65,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 54,
+        "phase": 0.7,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 55,
+        "phase": 0.75,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 56,
+        "phase": 0.8,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 57,
+        "phase": 0.85,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 58,
+        "phase": 0.9,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 59,
+        "phase": 0.95,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 60,
+        "phase": 0.0,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 61,
+        "phase": 0.05,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 62,
+        "phase": 0.1,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 63,
+        "phase": 0.15,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 64,
+        "phase": 0.2,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 65,
+        "phase": 0.25,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 66,
+        "phase": 0.3,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 67,
+        "phase": 0.35,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 68,
+        "phase": 0.4,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 69,
+        "phase": 0.45,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 70,
+        "phase": 0.5,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 71,
+        "phase": 0.55,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 72,
+        "phase": 0.6,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 73,
+        "phase": 0.65,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 74,
+        "phase": 0.7,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 75,
+        "phase": 0.75,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 76,
+        "phase": 0.8,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 77,
+        "phase": 0.85,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 78,
+        "phase": 0.9,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 79,
+        "phase": 0.95,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 80,
+        "phase": 0.0,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 81,
+        "phase": 0.05,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 82,
+        "phase": 0.1,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 83,
+        "phase": 0.15,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 84,
+        "phase": 0.2,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 85,
+        "phase": 0.25,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 86,
+        "phase": 0.3,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 87,
+        "phase": 0.35,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 88,
+        "phase": 0.4,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 89,
+        "phase": 0.45,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 90,
+        "phase": 0.5,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 91,
+        "phase": 0.55,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 92,
+        "phase": 0.6,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 93,
+        "phase": 0.65,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 94,
+        "phase": 0.7,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 95,
+        "phase": 0.75,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 96,
+        "phase": 0.8,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 97,
+        "phase": 0.85,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 98,
+        "phase": 0.9,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 99,
+        "phase": 0.95,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 100,
+        "phase": 0.0,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 101,
+        "phase": 0.05,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 102,
+        "phase": 0.1,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 103,
+        "phase": 0.15,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 104,
+        "phase": 0.2,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 105,
+        "phase": 0.25,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 106,
+        "phase": 0.3,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 107,
+        "phase": 0.35,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 108,
+        "phase": 0.4,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 109,
+        "phase": 0.45,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 110,
+        "phase": 0.5,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 111,
+        "phase": 0.55,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 112,
+        "phase": 0.6,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 113,
+        "phase": 0.65,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 114,
+        "phase": 0.7,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 115,
+        "phase": 0.75,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 116,
+        "phase": 0.8,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 117,
+        "phase": 0.85,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 118,
+        "phase": 0.9,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 119,
+        "phase": 0.95,
+        "excited_phase": 0.4
+      },
+      {
+        "tick": 120,
+        "phase": 0.0,
+        "excited_phase": 0.4
+      }
+    ]
+  },
+  "0.45": {
+    "excited_phase": 0.45,
+    "return_tick": 1,
+    "tick_log": [
+      {
+        "tick": 1,
+        "phase": 0.05,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 2,
+        "phase": 0.1,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 3,
+        "phase": 0.15,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 4,
+        "phase": 0.2,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 5,
+        "phase": 0.25,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 6,
+        "phase": 0.3,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 7,
+        "phase": 0.35,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 8,
+        "phase": 0.4,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 9,
+        "phase": 0.45,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 10,
+        "phase": 0.5,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 11,
+        "phase": 0.5,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 12,
+        "phase": 0.55,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 13,
+        "phase": 0.6,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 14,
+        "phase": 0.65,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 15,
+        "phase": 0.7,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 16,
+        "phase": 0.75,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 17,
+        "phase": 0.8,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 18,
+        "phase": 0.85,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 19,
+        "phase": 0.9,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 20,
+        "phase": 0.95,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 21,
+        "phase": 0.05,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 22,
+        "phase": 0.1,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 23,
+        "phase": 0.15,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 24,
+        "phase": 0.2,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 25,
+        "phase": 0.25,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 26,
+        "phase": 0.3,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 27,
+        "phase": 0.35,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 28,
+        "phase": 0.4,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 29,
+        "phase": 0.45,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 30,
+        "phase": 0.5,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 31,
+        "phase": 0.55,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 32,
+        "phase": 0.6,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 33,
+        "phase": 0.65,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 34,
+        "phase": 0.7,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 35,
+        "phase": 0.75,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 36,
+        "phase": 0.8,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 37,
+        "phase": 0.85,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 38,
+        "phase": 0.9,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 39,
+        "phase": 0.95,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 40,
+        "phase": 0.0,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 41,
+        "phase": 0.05,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 42,
+        "phase": 0.1,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 43,
+        "phase": 0.15,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 44,
+        "phase": 0.2,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 45,
+        "phase": 0.25,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 46,
+        "phase": 0.3,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 47,
+        "phase": 0.35,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 48,
+        "phase": 0.4,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 49,
+        "phase": 0.45,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 50,
+        "phase": 0.5,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 51,
+        "phase": 0.55,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 52,
+        "phase": 0.6,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 53,
+        "phase": 0.65,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 54,
+        "phase": 0.7,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 55,
+        "phase": 0.75,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 56,
+        "phase": 0.8,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 57,
+        "phase": 0.85,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 58,
+        "phase": 0.9,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 59,
+        "phase": 0.95,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 60,
+        "phase": 0.0,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 61,
+        "phase": 0.05,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 62,
+        "phase": 0.1,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 63,
+        "phase": 0.15,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 64,
+        "phase": 0.2,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 65,
+        "phase": 0.25,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 66,
+        "phase": 0.3,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 67,
+        "phase": 0.35,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 68,
+        "phase": 0.4,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 69,
+        "phase": 0.45,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 70,
+        "phase": 0.5,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 71,
+        "phase": 0.55,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 72,
+        "phase": 0.6,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 73,
+        "phase": 0.65,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 74,
+        "phase": 0.7,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 75,
+        "phase": 0.75,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 76,
+        "phase": 0.8,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 77,
+        "phase": 0.85,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 78,
+        "phase": 0.9,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 79,
+        "phase": 0.95,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 80,
+        "phase": 0.0,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 81,
+        "phase": 0.05,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 82,
+        "phase": 0.1,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 83,
+        "phase": 0.15,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 84,
+        "phase": 0.2,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 85,
+        "phase": 0.25,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 86,
+        "phase": 0.3,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 87,
+        "phase": 0.35,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 88,
+        "phase": 0.4,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 89,
+        "phase": 0.45,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 90,
+        "phase": 0.5,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 91,
+        "phase": 0.55,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 92,
+        "phase": 0.6,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 93,
+        "phase": 0.65,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 94,
+        "phase": 0.7,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 95,
+        "phase": 0.75,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 96,
+        "phase": 0.8,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 97,
+        "phase": 0.85,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 98,
+        "phase": 0.9,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 99,
+        "phase": 0.95,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 100,
+        "phase": 0.0,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 101,
+        "phase": 0.05,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 102,
+        "phase": 0.1,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 103,
+        "phase": 0.15,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 104,
+        "phase": 0.2,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 105,
+        "phase": 0.25,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 106,
+        "phase": 0.3,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 107,
+        "phase": 0.35,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 108,
+        "phase": 0.4,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 109,
+        "phase": 0.45,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 110,
+        "phase": 0.5,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 111,
+        "phase": 0.55,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 112,
+        "phase": 0.6,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 113,
+        "phase": 0.65,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 114,
+        "phase": 0.7,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 115,
+        "phase": 0.75,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 116,
+        "phase": 0.8,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 117,
+        "phase": 0.85,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 118,
+        "phase": 0.9,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 119,
+        "phase": 0.95,
+        "excited_phase": 0.45
+      },
+      {
+        "tick": 120,
+        "phase": 0.0,
+        "excited_phase": 0.45
+      }
+    ]
+  },
+  "0.5": {
+    "excited_phase": 0.5,
+    "return_tick": 1,
+    "tick_log": [
+      {
+        "tick": 1,
+        "phase": 0.05,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 2,
+        "phase": 0.1,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 3,
+        "phase": 0.15,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 4,
+        "phase": 0.2,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 5,
+        "phase": 0.25,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 6,
+        "phase": 0.3,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 7,
+        "phase": 0.35,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 8,
+        "phase": 0.4,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 9,
+        "phase": 0.45,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 10,
+        "phase": 0.5,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 11,
+        "phase": 0.55,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 12,
+        "phase": 0.6,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 13,
+        "phase": 0.65,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 14,
+        "phase": 0.7,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 15,
+        "phase": 0.75,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 16,
+        "phase": 0.8,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 17,
+        "phase": 0.85,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 18,
+        "phase": 0.9,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 19,
+        "phase": 0.95,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 20,
+        "phase": 0.0,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 21,
+        "phase": 0.05,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 22,
+        "phase": 0.1,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 23,
+        "phase": 0.15,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 24,
+        "phase": 0.2,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 25,
+        "phase": 0.25,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 26,
+        "phase": 0.3,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 27,
+        "phase": 0.35,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 28,
+        "phase": 0.4,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 29,
+        "phase": 0.45,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 30,
+        "phase": 0.5,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 31,
+        "phase": 0.55,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 32,
+        "phase": 0.6,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 33,
+        "phase": 0.65,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 34,
+        "phase": 0.7,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 35,
+        "phase": 0.75,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 36,
+        "phase": 0.8,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 37,
+        "phase": 0.85,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 38,
+        "phase": 0.9,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 39,
+        "phase": 0.95,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 40,
+        "phase": 0.0,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 41,
+        "phase": 0.05,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 42,
+        "phase": 0.1,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 43,
+        "phase": 0.15,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 44,
+        "phase": 0.2,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 45,
+        "phase": 0.25,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 46,
+        "phase": 0.3,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 47,
+        "phase": 0.35,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 48,
+        "phase": 0.4,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 49,
+        "phase": 0.45,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 50,
+        "phase": 0.5,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 51,
+        "phase": 0.55,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 52,
+        "phase": 0.6,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 53,
+        "phase": 0.65,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 54,
+        "phase": 0.7,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 55,
+        "phase": 0.75,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 56,
+        "phase": 0.8,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 57,
+        "phase": 0.85,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 58,
+        "phase": 0.9,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 59,
+        "phase": 0.95,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 60,
+        "phase": 0.0,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 61,
+        "phase": 0.05,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 62,
+        "phase": 0.1,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 63,
+        "phase": 0.15,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 64,
+        "phase": 0.2,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 65,
+        "phase": 0.25,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 66,
+        "phase": 0.3,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 67,
+        "phase": 0.35,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 68,
+        "phase": 0.4,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 69,
+        "phase": 0.45,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 70,
+        "phase": 0.5,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 71,
+        "phase": 0.55,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 72,
+        "phase": 0.6,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 73,
+        "phase": 0.65,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 74,
+        "phase": 0.7,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 75,
+        "phase": 0.75,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 76,
+        "phase": 0.8,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 77,
+        "phase": 0.85,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 78,
+        "phase": 0.9,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 79,
+        "phase": 0.95,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 80,
+        "phase": 0.0,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 81,
+        "phase": 0.05,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 82,
+        "phase": 0.1,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 83,
+        "phase": 0.15,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 84,
+        "phase": 0.2,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 85,
+        "phase": 0.25,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 86,
+        "phase": 0.3,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 87,
+        "phase": 0.35,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 88,
+        "phase": 0.4,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 89,
+        "phase": 0.45,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 90,
+        "phase": 0.5,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 91,
+        "phase": 0.55,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 92,
+        "phase": 0.6,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 93,
+        "phase": 0.65,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 94,
+        "phase": 0.7,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 95,
+        "phase": 0.75,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 96,
+        "phase": 0.8,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 97,
+        "phase": 0.85,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 98,
+        "phase": 0.9,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 99,
+        "phase": 0.95,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 100,
+        "phase": 0.0,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 101,
+        "phase": 0.05,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 102,
+        "phase": 0.1,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 103,
+        "phase": 0.15,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 104,
+        "phase": 0.2,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 105,
+        "phase": 0.25,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 106,
+        "phase": 0.3,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 107,
+        "phase": 0.35,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 108,
+        "phase": 0.4,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 109,
+        "phase": 0.45,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 110,
+        "phase": 0.5,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 111,
+        "phase": 0.55,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 112,
+        "phase": 0.6,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 113,
+        "phase": 0.65,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 114,
+        "phase": 0.7,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 115,
+        "phase": 0.75,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 116,
+        "phase": 0.8,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 117,
+        "phase": 0.85,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 118,
+        "phase": 0.9,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 119,
+        "phase": 0.95,
+        "excited_phase": 0.5
+      },
+      {
+        "tick": 120,
+        "phase": 0.0,
+        "excited_phase": 0.5
+      }
+    ]
+  }
+}

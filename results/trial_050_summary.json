@@ -1,0 +1,7 @@
+{
+  "trial": "050",
+  "drop_tick": 20,
+  "disruption_tick": 25,
+  "ancestry_A": "opposite-A",
+  "ancestry_B": "opposite-B"
+}

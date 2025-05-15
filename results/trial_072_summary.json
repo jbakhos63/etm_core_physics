@@ -1,0 +1,9 @@
+{
+  "trial": "072",
+  "drop_tick": 20,
+  "lock_in_threshold": 20,
+  "lock_in_quorum": 4,
+  "intruder_tick": 45,
+  "phase_tolerance": 0.11,
+  "adapt_rate": 0.01
+}

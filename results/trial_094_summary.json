@@ -1,0 +1,10 @@
+{
+  "trial": "094",
+  "drop_tick": 10,
+  "G_reinforce_tick": 50,
+  "reinforcement_amount": 0.02,
+  "reinforcement_decay": 0.002,
+  "phase_G": 0.0,
+  "phase_E1": 0.25,
+  "reinforcement_threshold": 0.1
+}

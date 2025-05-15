@@ -1,0 +1,42 @@
+{
+  "identity_phase": 0.2,
+  "target_return_phase": 0.0,
+  "tick_phase_match": false,
+  "recruiter_support": 5.0,
+  "module_before": "B",
+  "module_after": "B",
+  "recruiter_state": {
+    "G_0": {
+      "node_id": "G_0",
+      "target_ancestry": "rotor-A",
+      "target_phase": 0.0,
+      "support_score": 5.0,
+      "memory": 0.833,
+      "echoes_received": 6
+    },
+    "G_1": {
+      "node_id": "G_1",
+      "target_ancestry": "rotor-A",
+      "target_phase": 0.0,
+      "support_score": 5.0,
+      "memory": 0.833,
+      "echoes_received": 6
+    },
+    "G_2": {
+      "node_id": "G_2",
+      "target_ancestry": "rotor-A",
+      "target_phase": 0.0,
+      "support_score": 5.0,
+      "memory": 0.833,
+      "echoes_received": 6
+    },
+    "G_3": {
+      "node_id": "G_3",
+      "target_ancestry": "rotor-A",
+      "target_phase": 0.0,
+      "support_score": 5.0,
+      "memory": 0.833,
+      "echoes_received": 6
+    }
+  }
+}

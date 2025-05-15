@@ -1,0 +1,9 @@
+{
+  "trial": "102",
+  "drop_tick": 10,
+  "reinforcement_left": 0.02,
+  "reinforcement_right": 0.01,
+  "reinforcement_decay": 0.002,
+  "reinforcement_threshold": 0.1,
+  "phase": 0.0
+}

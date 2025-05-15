@@ -1,0 +1,16 @@
+{
+  "trial": "056",
+  "drop_tick": 20,
+  "identities": [
+    "identity_P1",
+    "identity_P2",
+    "identity_N"
+  ],
+  "ancestry": {
+    "identity_P1": "H1_proton",
+    "identity_P2": "H1_proton",
+    "identity_N": "H2_neutron"
+  },
+  "phase_tolerance": 0.11,
+  "reinforcement_strength": 0.01
+}

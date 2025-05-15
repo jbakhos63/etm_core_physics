@@ -1,0 +1,602 @@
+[
+  {
+    "tick": 1,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 2,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 3,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 4,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 5,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 6,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 7,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 8,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 9,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 10,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 11,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 12,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 13,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 14,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 15,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 16,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 17,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 18,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 19,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 20,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 21,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 22,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 23,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 24,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 25,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 26,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 27,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 28,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 29,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 30,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 31,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 32,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 33,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 34,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 35,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 36,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 37,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 38,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 39,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 40,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 41,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 42,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 43,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 44,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 45,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 46,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 47,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 48,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 49,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 50,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 51,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 52,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 53,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 54,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 55,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 56,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 57,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 58,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 59,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 60,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": false,
+    "drift_active": false
+  },
+  {
+    "tick": 61,
+    "recruiter_avg_phase": 0.0,
+    "identities_removed": true,
+    "drift_active": false
+  },
+  {
+    "tick": 62,
+    "recruiter_avg_phase": 0.0005,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 63,
+    "recruiter_avg_phase": 0.001,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 64,
+    "recruiter_avg_phase": 0.0015,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 65,
+    "recruiter_avg_phase": 0.002,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 66,
+    "recruiter_avg_phase": 0.0025,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 67,
+    "recruiter_avg_phase": 0.003,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 68,
+    "recruiter_avg_phase": 0.0035,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 69,
+    "recruiter_avg_phase": 0.004,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 70,
+    "recruiter_avg_phase": 0.0045,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 71,
+    "recruiter_avg_phase": 0.005,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 72,
+    "recruiter_avg_phase": 0.0055,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 73,
+    "recruiter_avg_phase": 0.006,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 74,
+    "recruiter_avg_phase": 0.0065,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 75,
+    "recruiter_avg_phase": 0.007,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 76,
+    "recruiter_avg_phase": 0.0075,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 77,
+    "recruiter_avg_phase": 0.008,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 78,
+    "recruiter_avg_phase": 0.0085,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 79,
+    "recruiter_avg_phase": 0.009,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 80,
+    "recruiter_avg_phase": 0.0095,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 81,
+    "recruiter_avg_phase": 0.01,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 82,
+    "recruiter_avg_phase": 0.0105,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 83,
+    "recruiter_avg_phase": 0.011,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 84,
+    "recruiter_avg_phase": 0.0115,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 85,
+    "recruiter_avg_phase": 0.012,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 86,
+    "recruiter_avg_phase": 0.0125,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 87,
+    "recruiter_avg_phase": 0.013,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 88,
+    "recruiter_avg_phase": 0.0135,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 89,
+    "recruiter_avg_phase": 0.014,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 90,
+    "recruiter_avg_phase": 0.0145,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 91,
+    "recruiter_avg_phase": 0.015,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 92,
+    "recruiter_avg_phase": 0.0155,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 93,
+    "recruiter_avg_phase": 0.016,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 94,
+    "recruiter_avg_phase": 0.0165,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 95,
+    "recruiter_avg_phase": 0.017,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 96,
+    "recruiter_avg_phase": 0.0175,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 97,
+    "recruiter_avg_phase": 0.018,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 98,
+    "recruiter_avg_phase": 0.0185,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 99,
+    "recruiter_avg_phase": 0.019,
+    "identities_removed": false,
+    "drift_active": true
+  },
+  {
+    "tick": 100,
+    "recruiter_avg_phase": 0.0195,
+    "identities_removed": false,
+    "drift_active": true
+  }
+]

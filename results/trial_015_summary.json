@@ -1,0 +1,16 @@
+{
+  "identity_spin_up": {
+    "tick_phase": 0.0,
+    "ancestry": "rotor-A-up",
+    "recruiter_support": 6.0,
+    "module_before": "B",
+    "module_after": "D"
+  },
+  "identity_spin_down": {
+    "tick_phase": 0.0,
+    "ancestry": "rotor-A-down",
+    "recruiter_support": 6.0,
+    "module_before": "B",
+    "module_after": "D"
+  }
+}

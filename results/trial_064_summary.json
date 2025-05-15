@@ -1,0 +1,16 @@
+{
+  "trial": "064",
+  "drop_tick": 20,
+  "remove_tick": 60,
+  "drift_start_tick": 61,
+  "rejoin_tick": 90,
+  "phase_drift_per_tick": 0.0005,
+  "test_offsets": [
+    0.13,
+    0.14,
+    0.15,
+    0.2
+  ],
+  "phase_tolerance": 0.11,
+  "reinforcement_strength": 0.01
+}

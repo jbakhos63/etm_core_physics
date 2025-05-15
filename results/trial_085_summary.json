@@ -1,0 +1,11 @@
+{
+  "trial": "085",
+  "drop_tick": 20,
+  "intruder_tick": 45,
+  "echo_interval": 3,
+  "reinforcement_amount": 0.02,
+  "reinforcement_decay": 0.0025,
+  "reinforcement_threshold": 0.1,
+  "lock_in_threshold": 20,
+  "lock_in_quorum": 4
+}

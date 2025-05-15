@@ -1,0 +1,7 @@
+{
+  "trial": "068",
+  "drop_tick": 20,
+  "lock_in_threshold": 20,
+  "intruder_entry_tick": 45,
+  "phase_tolerance": 0.11
+}

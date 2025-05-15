@@ -1,0 +1,8 @@
+{
+  "trial": "055",
+  "drop_tick": 20,
+  "ancestry_P": "H1_proton",
+  "ancestry_N": "H2_neutron",
+  "phase_tolerance": 0.11,
+  "reinforcement_strength": 0.01
+}

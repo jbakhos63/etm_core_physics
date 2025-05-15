@@ -1,0 +1,11 @@
+{
+  "trial": "086",
+  "drop_tick": 10,
+  "remove_tick": 40,
+  "return_tick": 60,
+  "echo_interval": 3,
+  "reinforcement_amount": 0.02,
+  "reinforcement_decay": 0.002,
+  "reinforcement_threshold": 0.1,
+  "lock_in_quorum": 4
+}

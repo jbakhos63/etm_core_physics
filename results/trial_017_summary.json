@@ -1,0 +1,142 @@
+{
+  "identity_tick_history": {
+    "identity_A": [
+      {
+        "tick": 1,
+        "phase": 0.05,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 2,
+        "phase": 0.1,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 3,
+        "phase": 0.15,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 4,
+        "phase": 0.2,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 5,
+        "phase": 0.25,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 6,
+        "phase": 0.3,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 7,
+        "phase": 0.35,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 8,
+        "phase": 0.4,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 9,
+        "phase": 0.45,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 10,
+        "phase": 0.5,
+        "ancestry": "rotor-A"
+      }
+    ],
+    "identity_B": [
+      {
+        "tick": 1,
+        "phase": 0.05,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 2,
+        "phase": 0.1,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 3,
+        "phase": 0.15,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 4,
+        "phase": 0.2,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 5,
+        "phase": 0.25,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 6,
+        "phase": 0.3,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 7,
+        "phase": 0.35,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 8,
+        "phase": 0.4,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 9,
+        "phase": 0.45,
+        "ancestry": "rotor-A"
+      },
+      {
+        "tick": 10,
+        "phase": 0.5,
+        "ancestry": "rotor-A"
+      }
+    ]
+  },
+  "recruiter_state": {
+    "rec_0": {
+      "node_id": "rec_0",
+      "target_ancestry": "rotor-A",
+      "target_phase": 0.0,
+      "support_score": 6.0,
+      "memory": 0.833,
+      "echoes_received": 6
+    },
+    "rec_1": {
+      "node_id": "rec_1",
+      "target_ancestry": "rotor-A",
+      "target_phase": 0.0,
+      "support_score": 6.0,
+      "memory": 0.833,
+      "echoes_received": 6
+    },
+    "rec_2": {
+      "node_id": "rec_2",
+      "target_ancestry": "rotor-A",
+      "target_phase": 0.0,
+      "support_score": 6.0,
+      "memory": 0.833,
+      "echoes_received": 6
+    },
+    "rec_3": {
+      "node_id": "rec_3",
+      "target_ancestry": "rotor-A",
+      "target_phase": 0.0,
+      "support_score": 6.0,
+      "memory": 0.833,
+      "echoes_received": 6
+    }
+  }
+}

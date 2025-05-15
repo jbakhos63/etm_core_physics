@@ -1,0 +1,12 @@
+{
+  "trial": "080",
+  "drop_tick": 20,
+  "intruder_tick": 45,
+  "phase_tolerance": 0.11,
+  "echo_memory_threshold": 0.2,
+  "lock_in_threshold": 20,
+  "lock_in_quorum": 4,
+  "echo_offset": 0.02,
+  "snap_threshold": 0.03,
+  "drift_rate": 0.005
+}

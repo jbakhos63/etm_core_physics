@@ -1,0 +1,17 @@
+[
+  {
+    "tick": 1,
+    "phase": 0.25,
+    "reinforcement_received": 0.04
+  },
+  {
+    "tick": 2,
+    "phase": 0.3,
+    "reinforcement_received": 0.04
+  },
+  {
+    "tick": 3,
+    "phase": 0.35,
+    "reinforcement_received": 0.04
+  }
+]

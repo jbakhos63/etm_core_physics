@@ -1,0 +1,27 @@
+{
+  "recruiter_centers_phase1": [
+    12,
+    14,
+    16
+  ],
+  "recruiter_centers_phase2": [
+    12,
+    14
+  ],
+  "prelock_duration": 30,
+  "locked_ticks": [
+    0,
+    1,
+    2,
+    3,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "total_locks": 11,
+  "final_position": 14.800000000000004
+}

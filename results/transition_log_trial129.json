@@ -1,0 +1,902 @@
+[
+  {
+    "tick": 0,
+    "x": 0.0020000000000000018,
+    "y": 0.0,
+    "phase": 0.51,
+    "rotating_phase": 0.0,
+    "support": 1.40999,
+    "pulse_active": false
+  },
+  {
+    "tick": 1,
+    "x": -0.04494000000000001,
+    "y": 0.0,
+    "phase": 0.52,
+    "rotating_phase": 0.01,
+    "support": 1.4098,
+    "pulse_active": false
+  },
+  {
+    "tick": 2,
+    "x": 0.0107118,
+    "y": 0.0,
+    "phase": 0.53,
+    "rotating_phase": 0.02,
+    "support": 1.405506,
+    "pulse_active": false
+  },
+  {
+    "tick": 3,
+    "x": -0.031966845999999986,
+    "y": 0.0,
+    "phase": 0.54,
+    "rotating_phase": 0.03,
+    "support": 1.4089288199999999,
+    "pulse_active": false
+  },
+  {
+    "tick": 4,
+    "x": 0.028074148620000024,
+    "y": 0.0,
+    "phase": 0.55,
+    "rotating_phase": 0.04,
+    "support": 1.4068033154,
+    "pulse_active": false
+  },
+  {
+    "tick": 5,
+    "x": -0.010083626921399962,
+    "y": 0.0,
+    "phase": 0.56,
+    "rotating_phase": 0.05,
+    "support": 1.407192585138,
+    "pulse_active": false
+  },
+  {
+    "tick": 6,
+    "x": 0.05461386427095805,
+    "y": 0.0,
+    "phase": 0.5700000000000001,
+    "rotating_phase": 0.06,
+    "support": 1.40899163730786,
+    "pulse_active": false
+  },
+  {
+    "tick": 7,
+    "x": 0.021252280199086808,
+    "y": 0.0,
+    "phase": 0.5800000000000001,
+    "rotating_phase": 0.07,
+    "support": 1.404538613572904,
+    "pulse_active": false
+  },
+  {
+    "tick": 8,
+    "x": -0.011110151394940593,
+    "y": 0.0,
+    "phase": 0.5900000000000001,
+    "rotating_phase": 0.08,
+    "support": 1.4078747719800915,
+    "pulse_active": false
+  },
+  {
+    "tick": 9,
+    "x": 0.05955654406321123,
+    "y": 0.0,
+    "phase": 0.6000000000000001,
+    "rotating_phase": 0.09,
+    "support": 1.4088889848605062,
+    "pulse_active": false
+  },
+  {
+    "tick": 10,
+    "x": 0.032343240385107566,
+    "y": 0.0,
+    "phase": 0.6100000000000001,
+    "rotating_phase": 0.1,
+    "support": 1.4040443455936789,
+    "pulse_active": false
+  },
+  {
+    "tick": 11,
+    "x": 0.006313537596660791,
+    "y": 0.0,
+    "phase": 0.6200000000000001,
+    "rotating_phase": 0.11,
+    "support": 1.4067656759614895,
+    "pulse_active": false
+  },
+  {
+    "tick": 12,
+    "x": -0.018497056275439384,
+    "y": 0.0,
+    "phase": 0.6300000000000001,
+    "rotating_phase": 0.12,
+    "support": 1.4093686462403339,
+    "pulse_active": false
+  },
+  {
+    "tick": 13,
+    "x": 0.05994803203629747,
+    "y": 0.0,
+    "phase": 0.6400000000000001,
+    "rotating_phase": 0.13,
+    "support": 1.4081502943724562,
+    "pulse_active": false
+  },
+  {
+    "tick": 14,
+    "x": 0.0407464729973864,
+    "y": 0.0,
+    "phase": 0.6500000000000001,
+    "rotating_phase": 0.14,
+    "support": 1.4040051967963705,
+    "pulse_active": false
+  },
+  {
+    "tick": 15,
+    "x": 0.022968867187308,
+    "y": 0.0,
+    "phase": 0.6600000000000001,
+    "rotating_phase": 0.15,
+    "support": 1.4059253527002613,
+    "pulse_active": false
+  },
+  {
+    "tick": 16,
+    "x": 0.006657933202927249,
+    "y": 0.0,
+    "phase": 0.6700000000000002,
+    "rotating_phase": 0.16,
+    "support": 1.4077031132812692,
+    "pulse_active": false
+  },
+  {
+    "tick": 17,
+    "x": -0.00814232880098492,
+    "y": 0.0,
+    "phase": 0.6800000000000002,
+    "rotating_phase": 0.17,
+    "support": 1.4093342066797074,
+    "pulse_active": false
+  },
+  {
+    "tick": 18,
+    "x": 0.0806134013349856,
+    "y": 0.0,
+    "phase": 0.6900000000000002,
+    "rotating_phase": 0.18,
+    "support": 1.4091857671199017,
+    "pulse_active": false
+  },
+  {
+    "tick": 19,
+    "x": 0.07203180337503517,
+    "y": 0.0,
+    "phase": 0.7000000000000002,
+    "rotating_phase": 0.19,
+    "support": 1.4019386598665016,
+    "pulse_active": false
+  },
+  {
+    "tick": 20,
+    "x": 0.06519275747628625,
+    "y": 0.0,
+    "phase": 0.7100000000000002,
+    "rotating_phase": 0.2,
+    "support": 1.4027968196624967,
+    "pulse_active": false
+  },
+  {
+    "tick": 21,
+    "x": 0.06014854020057487,
+    "y": 0.0,
+    "phase": 0.7200000000000002,
+    "rotating_phase": 0.21,
+    "support": 1.4034807242523715,
+    "pulse_active": false
+  },
+  {
+    "tick": 22,
+    "x": 0.05695299640659215,
+    "y": 0.0,
+    "phase": 0.7300000000000002,
+    "rotating_phase": 0.22,
+    "support": 1.4039851459799426,
+    "pulse_active": false
+  },
+  {
+    "tick": 23,
+    "x": 0.05566158629878991,
+    "y": 0.0,
+    "phase": 0.7400000000000002,
+    "rotating_phase": 0.23,
+    "support": 1.404304700359341,
+    "pulse_active": false
+  },
+  {
+    "tick": 24,
+    "x": 0.05633143388775353,
+    "y": 0.0,
+    "phase": 0.7500000000000002,
+    "rotating_phase": 0.24,
+    "support": 1.4044338413701212,
+    "pulse_active": false
+  },
+  {
+    "tick": 25,
+    "x": 0.05502137690438606,
+    "y": 0.0,
+    "phase": 0.7600000000000002,
+    "rotating_phase": 0.25,
+    "support": 1.4043668566112246,
+    "pulse_active": false
+  },
+  {
+    "tick": 26,
+    "x": 0.05167201821151757,
+    "y": 0.0,
+    "phase": 0.7700000000000002,
+    "rotating_phase": 0.26,
+    "support": 1.4044978623095616,
+    "pulse_active": false
+  },
+  {
+    "tick": 27,
+    "x": 0.04622217875786301,
+    "y": 0.0,
+    "phase": 0.7800000000000002,
+    "rotating_phase": 0.27,
+    "support": 1.4048327981788484,
+    "pulse_active": false
+  },
+  {
+    "tick": 28,
+    "x": 0.03860884412059882,
+    "y": 0.0,
+    "phase": 0.7900000000000003,
+    "rotating_phase": 0.28,
+    "support": 1.405377782124214,
+    "pulse_active": false
+  },
+  {
+    "tick": 29,
+    "x": 0.028767109444216697,
+    "y": 0.0,
+    "phase": 0.8000000000000003,
+    "rotating_phase": 0.29,
+    "support": 1.4061391155879404,
+    "pulse_active": false
+  },
+  {
+    "tick": 30,
+    "x": 0.07591779382198527,
+    "y": 0.0,
+    "phase": 0.8100000000000003,
+    "rotating_phase": 0.3,
+    "support": 2.0,
+    "pulse_active": true
+  },
+  {
+    "tick": 31,
+    "x": 0.12195450557486456,
+    "y": 0.0,
+    "phase": 0.8200000000000003,
+    "rotating_phase": 0.31,
+    "support": 1.9899999999999998,
+    "pulse_active": true
+  },
+  {
+    "tick": 32,
+    "x": 0.16683268579785904,
+    "y": 0.0,
+    "phase": 0.8300000000000003,
+    "rotating_phase": 0.32,
+    "support": 1.98,
+    "pulse_active": true
+  },
+  {
+    "tick": 33,
+    "x": 0.15283766637179472,
+    "y": 0.0,
+    "phase": 0.8400000000000003,
+    "rotating_phase": 0.33,
+    "support": 1.3933167314202144,
+    "pulse_active": false
+  },
+  {
+    "tick": 34,
+    "x": 0.13642279636294846,
+    "y": 0.0,
+    "phase": 0.8500000000000003,
+    "rotating_phase": 0.34,
+    "support": 1.3947162333628207,
+    "pulse_active": false
+  },
+  {
+    "tick": 35,
+    "x": 0.11751548025383683,
+    "y": 0.0,
+    "phase": 0.8600000000000003,
+    "rotating_phase": 0.35000000000000003,
+    "support": 1.3963577203637054,
+    "pulse_active": false
+  },
+  {
+    "tick": 36,
+    "x": 0.09604094466145183,
+    "y": 0.0,
+    "phase": 0.8700000000000003,
+    "rotating_phase": 0.36,
+    "support": 1.3982484519746166,
+    "pulse_active": false
+  },
+  {
+    "tick": 37,
+    "x": 0.07192217300129528,
+    "y": 0.0,
+    "phase": 0.8800000000000003,
+    "rotating_phase": 0.37,
+    "support": 1.400395905533855,
+    "pulse_active": false
+  },
+  {
+    "tick": 38,
+    "x": 0.04507983819133403,
+    "y": 0.0,
+    "phase": 0.8900000000000003,
+    "rotating_phase": 0.38,
+    "support": 1.4028077826998708,
+    "pulse_active": false
+  },
+  {
+    "tick": 39,
+    "x": 0.015432233337073938,
+    "y": 0.0,
+    "phase": 0.9000000000000004,
+    "rotating_phase": 0.39,
+    "support": 1.405492016180867,
+    "pulse_active": false
+  },
+  {
+    "tick": 40,
+    "x": -0.017104799662813957,
+    "y": 0.0,
+    "phase": 0.9100000000000004,
+    "rotating_phase": 0.4,
+    "support": 1.4084567766662928,
+    "pulse_active": false
+  },
+  {
+    "tick": 41,
+    "x": 0.049382056347301584,
+    "y": 0.0,
+    "phase": 0.9200000000000004,
+    "rotating_phase": 0.41000000000000003,
+    "support": 1.408289520033719,
+    "pulse_active": false
+  },
+  {
+    "tick": 42,
+    "x": 0.013863518037720512,
+    "y": 0.0,
+    "phase": 0.9300000000000004,
+    "rotating_phase": 0.42,
+    "support": 1.4050617943652703,
+    "pulse_active": false
+  },
+  {
+    "tick": 43,
+    "x": -0.024720576421148013,
+    "y": 0.0,
+    "phase": 0.9400000000000004,
+    "rotating_phase": 0.43,
+    "support": 1.4086136481962284,
+    "pulse_active": false
+  },
+  {
+    "tick": 44,
+    "x": 0.03553780628621751,
+    "y": 0.0,
+    "phase": 0.9500000000000004,
+    "rotating_phase": 0.44,
+    "support": 1.4075279423578857,
+    "pulse_active": false
+  },
+  {
+    "tick": 45,
+    "x": -0.0063960595251960975,
+    "y": 0.0,
+    "phase": 0.9600000000000004,
+    "rotating_phase": 0.45,
+    "support": 1.4064462193713787,
+    "pulse_active": false
+  },
+  {
+    "tick": 46,
+    "x": 0.05041205868904799,
+    "y": 0.0,
+    "phase": 0.9700000000000004,
+    "rotating_phase": 0.46,
+    "support": 1.4093603940474808,
+    "pulse_active": false
+  },
+  {
+    "tick": 47,
+    "x": 0.004924420449719295,
+    "y": 0.0,
+    "phase": 0.9800000000000004,
+    "rotating_phase": 0.47000000000000003,
+    "support": 1.4049587941310957,
+    "pulse_active": false
+  },
+  {
+    "tick": 48,
+    "x": -0.04392784693678927,
+    "y": 0.0,
+    "phase": 0.9900000000000004,
+    "rotating_phase": 0.48,
+    "support": 1.4095075579550285,
+    "pulse_active": false
+  },
+  {
+    "tick": 49,
+    "x": 0.005754317655107026,
+    "y": 0.0,
+    "phase": 4.440892098500626e-16,
+    "rotating_phase": 0.49,
+    "support": 1.4056072153063215,
+    "pulse_active": false
+  },
+  {
+    "tick": 50,
+    "x": -0.047073052815239914,
+    "y": 0.0,
+    "phase": 0.010000000000000444,
+    "rotating_phase": 0.5,
+    "support": 1.4094245682344897,
+    "pulse_active": false
+  },
+  {
+    "tick": 51,
+    "x": -0.001485244399697154,
+    "y": 0.0,
+    "phase": 0.020000000000000445,
+    "rotating_phase": 0.51,
+    "support": 1.4052926947184765,
+    "pulse_active": false
+  },
+  {
+    "tick": 52,
+    "x": 0.04347019826831189,
+    "y": 0.0,
+    "phase": 0.030000000000000443,
+    "rotating_phase": 0.52,
+    "support": 1.4098514755600307,
+    "pulse_active": false
+  },
+  {
+    "tick": 53,
+    "x": -0.014225695783638907,
+    "y": 0.0,
+    "phase": 0.040000000000000445,
+    "rotating_phase": 0.53,
+    "support": 1.4056529801731692,
+    "pulse_active": false
+  },
+  {
+    "tick": 54,
+    "x": 0.026347533342851885,
+    "y": 0.0,
+    "phase": 0.05000000000000045,
+    "rotating_phase": 0.54,
+    "support": 1.4085774304216365,
+    "pulse_active": false
+  },
+  {
+    "tick": 55,
+    "x": -0.0358620406568627,
+    "y": 0.0,
+    "phase": 0.06000000000000045,
+    "rotating_phase": 0.55,
+    "support": 1.4073652466657152,
+    "pulse_active": false
+  },
+  {
+    "tick": 56,
+    "x": 6.209812343137971e-05,
+    "y": 0.0,
+    "phase": 0.07000000000000045,
+    "rotating_phase": 0.56,
+    "support": 1.4064137959343141,
+    "pulse_active": false
+  },
+  {
+    "tick": 57,
+    "x": -0.06693603893286579,
+    "y": 0.0,
+    "phase": 0.08000000000000045,
+    "rotating_phase": 0.5700000000000001,
+    "support": 1.4099937901876571,
+    "pulse_active": false
+  },
+  {
+    "tick": 58,
+    "x": -0.03594412010085179,
+    "y": 0.0,
+    "phase": 0.09000000000000044,
+    "rotating_phase": 0.58,
+    "support": 1.4033063961067138,
+    "pulse_active": false
+  },
+  {
+    "tick": 59,
+    "x": -0.006022443703877382,
+    "y": 0.0,
+    "phase": 0.10000000000000044,
+    "rotating_phase": 0.59,
+    "support": 1.4064055879899153,
+    "pulse_active": false
+  },
+  {
+    "tick": 60,
+    "x": 0.02279688298500627,
+    "y": 0.0,
+    "phase": 0.11000000000000043,
+    "rotating_phase": 0.6,
+    "support": 1.4093977556296127,
+    "pulse_active": false
+  },
+  {
+    "tick": 61,
+    "x": -0.05151921052544368,
+    "y": 0.0,
+    "phase": 0.12000000000000043,
+    "rotating_phase": 0.61,
+    "support": 1.4077203117014998,
+    "pulse_active": false
+  },
+  {
+    "tick": 62,
+    "x": -0.02806478684120703,
+    "y": 0.0,
+    "phase": 0.13000000000000042,
+    "rotating_phase": 0.62,
+    "support": 1.404848078947456,
+    "pulse_active": false
+  },
+  {
+    "tick": 63,
+    "x": -0.00590673044644327,
+    "y": 0.0,
+    "phase": 0.14000000000000043,
+    "rotating_phase": 0.63,
+    "support": 1.4071935213158797,
+    "pulse_active": false
+  },
+  {
+    "tick": 64,
+    "x": 0.014916067640163386,
+    "y": 0.0,
+    "phase": 0.15000000000000044,
+    "rotating_phase": 0.64,
+    "support": 1.409409326955356,
+    "pulse_active": false
+  },
+  {
+    "tick": 65,
+    "x": -0.06763645033063187,
+    "y": 0.0,
+    "phase": 0.16000000000000045,
+    "rotating_phase": 0.65,
+    "support": 1.408508393235984,
+    "pulse_active": false
+  },
+  {
+    "tick": 66,
+    "x": -0.052665543840550874,
+    "y": 0.0,
+    "phase": 0.17000000000000046,
+    "rotating_phase": 0.66,
+    "support": 1.4032363549669373,
+    "pulse_active": false
+  },
+  {
+    "tick": 67,
+    "x": -0.03924551015576746,
+    "y": 0.0,
+    "phase": 0.18000000000000047,
+    "rotating_phase": 0.67,
+    "support": 1.4047334456159453,
+    "pulse_active": false
+  },
+  {
+    "tick": 68,
+    "x": -0.02742287546044054,
+    "y": 0.0,
+    "phase": 0.19000000000000047,
+    "rotating_phase": 0.68,
+    "support": 1.4060754489844236,
+    "pulse_active": false
+  },
+  {
+    "tick": 69,
+    "x": -0.01724556172425383,
+    "y": 0.0,
+    "phase": 0.20000000000000048,
+    "rotating_phase": 0.6900000000000001,
+    "support": 1.4072577124539563,
+    "pulse_active": false
+  },
+  {
+    "tick": 70,
+    "x": -0.008762928575981497,
+    "y": 0.0,
+    "phase": 0.2100000000000005,
+    "rotating_phase": 0.7000000000000001,
+    "support": 1.408275443827575,
+    "pulse_active": false
+  },
+  {
+    "tick": 71,
+    "x": -0.002025816433260971,
+    "y": 0.0,
+    "phase": 0.2200000000000005,
+    "rotating_phase": 0.71,
+    "support": 1.4091237071424025,
+    "pulse_active": false
+  },
+  {
+    "tick": 72,
+    "x": 0.0029134090737411387,
+    "y": 0.0,
+    "phase": 0.2300000000000005,
+    "rotating_phase": 0.72,
+    "support": 1.4097974183566744,
+    "pulse_active": false
+  },
+  {
+    "tick": 73,
+    "x": -0.09599918865404677,
+    "y": 0.0,
+    "phase": 0.24000000000000052,
+    "rotating_phase": 0.73,
+    "support": 1.4097086590926264,
+    "pulse_active": false
+  },
+  {
+    "tick": 74,
+    "x": -0.09787916431366803,
+    "y": 0.0,
+    "phase": 0.2500000000000005,
+    "rotating_phase": 0.74,
+    "support": 1.400400081134596,
+    "pulse_active": false
+  },
+  {
+    "tick": 75,
+    "x": -0.09781553924307791,
+    "y": 0.0,
+    "phase": 0.2600000000000005,
+    "rotating_phase": 0.75,
+    "support": 1.4002120835686336,
+    "pulse_active": false
+  },
+  {
+    "tick": 76,
+    "x": -0.09575000542037011,
+    "y": 0.0,
+    "phase": 0.2700000000000005,
+    "rotating_phase": 0.76,
+    "support": 1.4002184460756926,
+    "pulse_active": false
+  },
+  {
+    "tick": 77,
+    "x": -0.09162250558298106,
+    "y": 0.0,
+    "phase": 0.2800000000000005,
+    "rotating_phase": 0.77,
+    "support": 1.4004249994579634,
+    "pulse_active": false
+  },
+  {
+    "tick": 78,
+    "x": -0.08537118075047032,
+    "y": 0.0,
+    "phase": 0.29000000000000054,
+    "rotating_phase": 0.78,
+    "support": 1.4008377494417024,
+    "pulse_active": false
+  },
+  {
+    "tick": 79,
+    "x": -0.07693231617298427,
+    "y": 0.0,
+    "phase": 0.30000000000000054,
+    "rotating_phase": 0.79,
+    "support": 1.4014628819249535,
+    "pulse_active": false
+  },
+  {
+    "tick": 80,
+    "x": -0.06624028565817364,
+    "y": 0.0,
+    "phase": 0.31000000000000055,
+    "rotating_phase": 0.8,
+    "support": 1.402306768382702,
+    "pulse_active": false
+  },
+  {
+    "tick": 81,
+    "x": -0.053227494227918684,
+    "y": 0.0,
+    "phase": 0.32000000000000056,
+    "rotating_phase": 0.81,
+    "support": 1.4033759714341834,
+    "pulse_active": false
+  },
+  {
+    "tick": 82,
+    "x": -0.03782431905475609,
+    "y": 0.0,
+    "phase": 0.33000000000000057,
+    "rotating_phase": 0.8200000000000001,
+    "support": 1.4046772505772085,
+    "pulse_active": false
+  },
+  {
+    "tick": 83,
+    "x": -0.019959048626398603,
+    "y": 0.0,
+    "phase": 0.3400000000000006,
+    "rotating_phase": 0.8300000000000001,
+    "support": 1.4062175680945248,
+    "pulse_active": false
+  },
+  {
+    "tick": 84,
+    "x": 0.0004421799148096074,
+    "y": 0.0,
+    "phase": 0.3500000000000006,
+    "rotating_phase": 0.84,
+    "support": 1.4080040951373607,
+    "pulse_active": false
+  },
+  {
+    "tick": 85,
+    "x": -0.07854455468774606,
+    "y": 0.0,
+    "phase": 0.3600000000000006,
+    "rotating_phase": 0.85,
+    "support": 1.4099557820085196,
+    "pulse_active": false
+  },
+  {
+    "tick": 86,
+    "x": -0.05590089132837825,
+    "y": 0.0,
+    "phase": 0.3700000000000006,
+    "rotating_phase": 0.86,
+    "support": 1.4021455445312259,
+    "pulse_active": false
+  },
+  {
+    "tick": 87,
+    "x": -0.030577918068229414,
+    "y": 0.0,
+    "phase": 0.3800000000000006,
+    "rotating_phase": 0.87,
+    "support": 1.4044099108671626,
+    "pulse_active": false
+  },
+  {
+    "tick": 88,
+    "x": -0.0024952556102761057,
+    "y": 0.0,
+    "phase": 0.3900000000000006,
+    "rotating_phase": 0.88,
+    "support": 1.4069422081931775,
+    "pulse_active": false
+  },
+  {
+    "tick": 89,
+    "x": 0.028429886721415804,
+    "y": 0.0,
+    "phase": 0.40000000000000063,
+    "rotating_phase": 0.89,
+    "support": 1.4097504744389728,
+    "pulse_active": false
+  },
+  {
+    "tick": 90,
+    "x": -0.039717216676941655,
+    "y": 0.0,
+    "phase": 0.41000000000000064,
+    "rotating_phase": 0.9,
+    "support": 1.407157011327859,
+    "pulse_active": false
+  },
+  {
+    "tick": 91,
+    "x": -0.005908733177249728,
+    "y": 0.0,
+    "phase": 0.42000000000000065,
+    "rotating_phase": 0.91,
+    "support": 1.4060282783323064,
+    "pulse_active": false
+  },
+  {
+    "tick": 92,
+    "x": 0.03091400482743297,
+    "y": 0.0,
+    "phase": 0.43000000000000066,
+    "rotating_phase": 0.92,
+    "support": 1.4094091266822755,
+    "pulse_active": false
+  },
+  {
+    "tick": 93,
+    "x": -0.031158575027743968,
+    "y": 0.0,
+    "phase": 0.44000000000000067,
+    "rotating_phase": 0.93,
+    "support": 1.4069085995172572,
+    "pulse_active": false
+  },
+  {
+    "tick": 94,
+    "x": 0.008906667721423907,
+    "y": 0.0,
+    "phase": 0.4500000000000007,
+    "rotating_phase": 0.9400000000000001,
+    "support": 1.406884142497226,
+    "pulse_active": false
+  },
+  {
+    "tick": 95,
+    "x": -0.049826132246933295,
+    "y": 0.0,
+    "phase": 0.4600000000000007,
+    "rotating_phase": 0.9500000000000001,
+    "support": 1.4091093332278581,
+    "pulse_active": false
+  },
+  {
+    "tick": 96,
+    "x": -0.0063209162143410685,
+    "y": 0.0,
+    "phase": 0.4700000000000007,
+    "rotating_phase": 0.96,
+    "support": 1.4050173867753073,
+    "pulse_active": false
+  },
+  {
+    "tick": 97,
+    "x": 0.04048945629922891,
+    "y": 0.0,
+    "phase": 0.4800000000000007,
+    "rotating_phase": 0.97,
+    "support": 1.4093679083785666,
+    "pulse_active": false
+  },
+  {
+    "tick": 98,
+    "x": -0.011295860011794154,
+    "y": 0.0,
+    "phase": 0.4900000000000007,
+    "rotating_phase": 0.98,
+    "support": 1.4059510543700777,
+    "pulse_active": false
+  },
+  {
+    "tick": 99,
+    "x": 0.03936526418785222,
+    "y": 0.0,
+    "phase": 0.5000000000000007,
+    "rotating_phase": 0.99,
+    "support": 1.4088704139988213,
+    "pulse_active": false
+  }
+]

@@ -1,0 +1,8 @@
+{
+  "trial": "054",
+  "drop_tick": 20,
+  "drift_start_tick": 30,
+  "drift_per_tick": 0.0005,
+  "ancestry_A": "H1",
+  "ancestry_B": "H2"
+}

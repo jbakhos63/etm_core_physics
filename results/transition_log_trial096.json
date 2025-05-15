@@ -1,0 +1,482 @@
+[
+  {
+    "tick": 1,
+    "phase": 0.3,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 2,
+    "phase": 0.35,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 3,
+    "phase": 0.4,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 4,
+    "phase": 0.45,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 5,
+    "phase": 0.5,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 6,
+    "phase": 0.55,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 7,
+    "phase": 0.6,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 8,
+    "phase": 0.65,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 9,
+    "phase": 0.7,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 10,
+    "phase": 0.75,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 11,
+    "phase": 0.3,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 12,
+    "phase": 0.35,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 13,
+    "phase": 0.4,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 14,
+    "phase": 0.45,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 15,
+    "phase": 0.5,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 16,
+    "phase": 0.55,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 17,
+    "phase": 0.6,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 18,
+    "phase": 0.65,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 19,
+    "phase": 0.7,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 20,
+    "phase": 0.75,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 21,
+    "phase": 0.8,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 22,
+    "phase": 0.85,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 23,
+    "phase": 0.9,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 24,
+    "phase": 0.95,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 25,
+    "phase": 0.0,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 26,
+    "phase": 0.05,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 27,
+    "phase": 0.1,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 28,
+    "phase": 0.15,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 29,
+    "phase": 0.2,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 30,
+    "phase": 0.25,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 31,
+    "phase": 0.3,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 32,
+    "phase": 0.35,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 33,
+    "phase": 0.4,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 34,
+    "phase": 0.45,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 35,
+    "phase": 0.5,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 36,
+    "phase": 0.55,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 37,
+    "phase": 0.6,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 38,
+    "phase": 0.65,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 39,
+    "phase": 0.7,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 40,
+    "phase": 0.75,
+    "G_locks": 0,
+    "avg_G_support": 0.0
+  },
+  {
+    "tick": 41,
+    "phase": 0.8,
+    "G_locks": 0,
+    "avg_G_support": 0.018
+  },
+  {
+    "tick": 42,
+    "phase": 0.85,
+    "G_locks": 0,
+    "avg_G_support": 0.036
+  },
+  {
+    "tick": 43,
+    "phase": 0.9,
+    "G_locks": 0,
+    "avg_G_support": 0.054
+  },
+  {
+    "tick": 44,
+    "phase": 0.95,
+    "G_locks": 0,
+    "avg_G_support": 0.072
+  },
+  {
+    "tick": 45,
+    "phase": 0.0,
+    "G_locks": 0,
+    "avg_G_support": 0.09
+  },
+  {
+    "tick": 46,
+    "phase": 0.05,
+    "G_locks": 3,
+    "avg_G_support": 0.108
+  },
+  {
+    "tick": 47,
+    "phase": 0.1,
+    "G_locks": 3,
+    "avg_G_support": 0.126
+  },
+  {
+    "tick": 48,
+    "phase": 0.15,
+    "G_locks": 3,
+    "avg_G_support": 0.144
+  },
+  {
+    "tick": 49,
+    "phase": 0.2,
+    "G_locks": 3,
+    "avg_G_support": 0.162
+  },
+  {
+    "tick": 50,
+    "phase": 0.25,
+    "G_locks": 3,
+    "avg_G_support": 0.18
+  },
+  {
+    "tick": 51,
+    "phase": 0.3,
+    "G_locks": 3,
+    "avg_G_support": 0.198
+  },
+  {
+    "tick": 52,
+    "phase": 0.35,
+    "G_locks": 3,
+    "avg_G_support": 0.216
+  },
+  {
+    "tick": 53,
+    "phase": 0.4,
+    "G_locks": 3,
+    "avg_G_support": 0.234
+  },
+  {
+    "tick": 54,
+    "phase": 0.45,
+    "G_locks": 3,
+    "avg_G_support": 0.252
+  },
+  {
+    "tick": 55,
+    "phase": 0.5,
+    "G_locks": 3,
+    "avg_G_support": 0.27
+  },
+  {
+    "tick": 56,
+    "phase": 0.55,
+    "G_locks": 3,
+    "avg_G_support": 0.288
+  },
+  {
+    "tick": 57,
+    "phase": 0.6,
+    "G_locks": 3,
+    "avg_G_support": 0.306
+  },
+  {
+    "tick": 58,
+    "phase": 0.65,
+    "G_locks": 3,
+    "avg_G_support": 0.324
+  },
+  {
+    "tick": 59,
+    "phase": 0.7,
+    "G_locks": 3,
+    "avg_G_support": 0.342
+  },
+  {
+    "tick": 60,
+    "phase": 0.75,
+    "G_locks": 3,
+    "avg_G_support": 0.36
+  },
+  {
+    "tick": 61,
+    "phase": 0.8,
+    "G_locks": 3,
+    "avg_G_support": 0.378
+  },
+  {
+    "tick": 62,
+    "phase": 0.85,
+    "G_locks": 3,
+    "avg_G_support": 0.396
+  },
+  {
+    "tick": 63,
+    "phase": 0.9,
+    "G_locks": 3,
+    "avg_G_support": 0.414
+  },
+  {
+    "tick": 64,
+    "phase": 0.95,
+    "G_locks": 3,
+    "avg_G_support": 0.432
+  },
+  {
+    "tick": 65,
+    "phase": 0.0,
+    "G_locks": 3,
+    "avg_G_support": 0.45
+  },
+  {
+    "tick": 66,
+    "phase": 0.05,
+    "G_locks": 3,
+    "avg_G_support": 0.468
+  },
+  {
+    "tick": 67,
+    "phase": 0.1,
+    "G_locks": 3,
+    "avg_G_support": 0.486
+  },
+  {
+    "tick": 68,
+    "phase": 0.15,
+    "G_locks": 3,
+    "avg_G_support": 0.504
+  },
+  {
+    "tick": 69,
+    "phase": 0.2,
+    "G_locks": 3,
+    "avg_G_support": 0.522
+  },
+  {
+    "tick": 70,
+    "phase": 0.25,
+    "G_locks": 3,
+    "avg_G_support": 0.54
+  },
+  {
+    "tick": 71,
+    "phase": 0.3,
+    "G_locks": 3,
+    "avg_G_support": 0.558
+  },
+  {
+    "tick": 72,
+    "phase": 0.35,
+    "G_locks": 3,
+    "avg_G_support": 0.576
+  },
+  {
+    "tick": 73,
+    "phase": 0.4,
+    "G_locks": 3,
+    "avg_G_support": 0.594
+  },
+  {
+    "tick": 74,
+    "phase": 0.45,
+    "G_locks": 3,
+    "avg_G_support": 0.612
+  },
+  {
+    "tick": 75,
+    "phase": 0.5,
+    "G_locks": 3,
+    "avg_G_support": 0.63
+  },
+  {
+    "tick": 76,
+    "phase": 0.55,
+    "G_locks": 3,
+    "avg_G_support": 0.648
+  },
+  {
+    "tick": 77,
+    "phase": 0.6,
+    "G_locks": 3,
+    "avg_G_support": 0.666
+  },
+  {
+    "tick": 78,
+    "phase": 0.65,
+    "G_locks": 3,
+    "avg_G_support": 0.684
+  },
+  {
+    "tick": 79,
+    "phase": 0.7,
+    "G_locks": 3,
+    "avg_G_support": 0.702
+  },
+  {
+    "tick": 80,
+    "phase": 0.75,
+    "G_locks": 3,
+    "avg_G_support": 0.72
+  }
+]

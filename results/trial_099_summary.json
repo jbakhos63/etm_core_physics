@@ -1,0 +1,10 @@
+{
+  "trial": "099",
+  "drop_tick": 10,
+  "neutrino_pulse_tick": 30,
+  "return_tick": 40,
+  "reinforcement_amount_neutrino": 0.015,
+  "reinforcement_decay": 0.002,
+  "reinforcement_threshold": 0.1,
+  "phase_G": 0.0
+}

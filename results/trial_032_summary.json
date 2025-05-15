@@ -1,0 +1,7 @@
+{
+  "initial_phase": 0.2,
+  "delta_phi": 0.01,
+  "ticks_held": 3,
+  "total_reinforcement_input": 0.12,
+  "reinforcement_per_tick": 0.04
+}

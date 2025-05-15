@@ -1,0 +1,27 @@
+[
+  {
+    "from": "A",
+    "to": "D",
+    "conditions": {
+      "recruiter_support": 3.0,
+      "ancestry_match": true
+    },
+    "success": true
+  },
+  {
+    "from": "D",
+    "to": "B",
+    "conditions": {
+      "reinforcement_score": 0.1
+    },
+    "success": true
+  },
+  {
+    "from": "B",
+    "to": "D",
+    "conditions": {
+      "recruiter_support": 4
+    },
+    "success": true
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "rotation_bias": 0.05,
+    "total_locks": 51,
+    "average_delay_between_locks": 2.98,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.06,
+    "total_locks": 53,
+    "average_delay_between_locks": 2.826923076923077,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.07,
+    "total_locks": 51,
+    "average_delay_between_locks": 2.8,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.08,
+    "total_locks": 54,
+    "average_delay_between_locks": 2.7735849056603774,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.09,
+    "total_locks": 51,
+    "average_delay_between_locks": 2.82,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.1,
+    "total_locks": 54,
+    "average_delay_between_locks": 2.792452830188679,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.11,
+    "total_locks": 52,
+    "average_delay_between_locks": 2.803921568627451,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.12,
+    "total_locks": 54,
+    "average_delay_between_locks": 2.811320754716981,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.13,
+    "total_locks": 53,
+    "average_delay_between_locks": 2.75,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.14,
+    "total_locks": 53,
+    "average_delay_between_locks": 2.8653846153846154,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.15,
+    "total_locks": 52,
+    "average_delay_between_locks": 2.823529411764706,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.16,
+    "total_locks": 55,
+    "average_delay_between_locks": 2.759259259259259,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.17,
+    "total_locks": 51,
+    "average_delay_between_locks": 2.9,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.18,
+    "total_locks": 52,
+    "average_delay_between_locks": 2.9215686274509802,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.19,
+    "total_locks": 52,
+    "average_delay_between_locks": 2.8627450980392157,
+    "final_position": 10.800000000000004
+  },
+  {
+    "rotation_bias": 0.2,
+    "total_locks": 52,
+    "average_delay_between_locks": 2.9215686274509802,
+    "final_position": 10.800000000000004
+  }
+]

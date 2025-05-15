@@ -1,0 +1,7 @@
+{
+  "trial": "035",
+  "photon_frequency_hz": 460000000000000.0,
+  "photon_period_seconds": 2.173913043478261e-15,
+  "etm_ticks_per_cycle": 100,
+  "derived_tick_duration_seconds": 2.173913043478261e-17
+}

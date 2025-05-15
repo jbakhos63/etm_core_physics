@@ -1,0 +1,44 @@
+{
+  "0.895": {
+    "identity_phase": 0.895,
+    "tick_phase_match": false,
+    "recruiter_support": 6.0,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "0.9": {
+    "identity_phase": 0.9,
+    "tick_phase_match": false,
+    "recruiter_support": 6.0,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "0.905": {
+    "identity_phase": 0.905,
+    "tick_phase_match": false,
+    "recruiter_support": 6.0,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "0.91": {
+    "identity_phase": 0.91,
+    "tick_phase_match": false,
+    "recruiter_support": 6.0,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "0.915": {
+    "identity_phase": 0.915,
+    "tick_phase_match": false,
+    "recruiter_support": 6.0,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "0.92": {
+    "identity_phase": 0.92,
+    "tick_phase_match": false,
+    "recruiter_support": 6.0,
+    "module_before": "B",
+    "module_after": "B"
+  }
+}

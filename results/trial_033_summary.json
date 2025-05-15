@@ -1,0 +1,22 @@
+{
+  "2": {
+    "ticks_held": 2,
+    "total_reinforcement_input": 0.08,
+    "reinforcement_per_tick": 0.04
+  },
+  "3": {
+    "ticks_held": 3,
+    "total_reinforcement_input": 0.12,
+    "reinforcement_per_tick": 0.04
+  },
+  "4": {
+    "ticks_held": 4,
+    "total_reinforcement_input": 0.16,
+    "reinforcement_per_tick": 0.04
+  },
+  "5": {
+    "ticks_held": 5,
+    "total_reinforcement_input": 0.2,
+    "reinforcement_per_tick": 0.04
+  }
+}

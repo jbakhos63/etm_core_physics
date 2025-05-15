@@ -1,0 +1,19 @@
+{
+  "trial": "115",
+  "drop_tick": 10,
+  "return_sweep_range": [
+    41,
+    60
+  ],
+  "decay": 0.002,
+  "reinforcement_threshold": 0.1,
+  "strengths": [
+    0.01,
+    0.015,
+    0.018,
+    0.02,
+    0.025,
+    0.03
+  ],
+  "phase_G": 0.0
+}

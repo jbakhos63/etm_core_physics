@@ -1,0 +1,72 @@
+{
+  "0.05": {
+    "excited_phase": 0.05,
+    "return_tick": 41,
+    "delta_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "0.1": {
+    "excited_phase": 0.1,
+    "return_tick": 41,
+    "delta_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "0.15": {
+    "excited_phase": 0.15,
+    "return_tick": 41,
+    "delta_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "0.2": {
+    "excited_phase": 0.2,
+    "return_tick": 41,
+    "delta_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "0.25": {
+    "excited_phase": 0.25,
+    "return_tick": 41,
+    "delta_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "0.3": {
+    "excited_phase": 0.3,
+    "return_tick": 41,
+    "delta_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "0.35": {
+    "excited_phase": 0.35,
+    "return_tick": 41,
+    "delta_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "0.4": {
+    "excited_phase": 0.4,
+    "return_tick": 41,
+    "delta_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "0.45": {
+    "excited_phase": 0.45,
+    "return_tick": 41,
+    "delta_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "0.5": {
+    "excited_phase": 0.5,
+    "return_tick": 41,
+    "delta_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "trial": "062",
+  "drop_tick": 20,
+  "remove_tick": 60,
+  "drift_start_tick": 61,
+  "rejoin_tick_proton": 80,
+  "rejoin_tick_neutron": 85,
+  "rejoin_tick_offphase": 90,
+  "phase_drift_per_tick": 0.0005,
+  "phase_offset": 0.005,
+  "return_identities": [
+    "identity_P_return",
+    "identity_N_return",
+    "identity_N_offphase"
+  ],
+  "phase_tolerance": 0.11,
+  "reinforcement_strength": 0.01
+}

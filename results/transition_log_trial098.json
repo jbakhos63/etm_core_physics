@@ -1,0 +1,302 @@
+[
+  {
+    "tick": 1,
+    "phase": 0.05,
+    "G_locks": 0
+  },
+  {
+    "tick": 2,
+    "phase": 0.1,
+    "G_locks": 0
+  },
+  {
+    "tick": 3,
+    "phase": 0.15,
+    "G_locks": 0
+  },
+  {
+    "tick": 4,
+    "phase": 0.2,
+    "G_locks": 0
+  },
+  {
+    "tick": 5,
+    "phase": 0.25,
+    "G_locks": 0
+  },
+  {
+    "tick": 6,
+    "phase": 0.3,
+    "G_locks": 0
+  },
+  {
+    "tick": 7,
+    "phase": 0.35,
+    "G_locks": 0
+  },
+  {
+    "tick": 8,
+    "phase": 0.4,
+    "G_locks": 0
+  },
+  {
+    "tick": 9,
+    "phase": 0.45,
+    "G_locks": 0
+  },
+  {
+    "tick": 10,
+    "phase": 0.5,
+    "G_locks": 0
+  },
+  {
+    "tick": 11,
+    "phase": 0.05,
+    "G_locks": 0
+  },
+  {
+    "tick": 12,
+    "phase": 0.1,
+    "G_locks": 0
+  },
+  {
+    "tick": 13,
+    "phase": 0.15,
+    "G_locks": 0
+  },
+  {
+    "tick": 14,
+    "phase": 0.2,
+    "G_locks": 0
+  },
+  {
+    "tick": 15,
+    "phase": 0.25,
+    "G_locks": 0
+  },
+  {
+    "tick": 16,
+    "phase": 0.3,
+    "G_locks": 0
+  },
+  {
+    "tick": 17,
+    "phase": 0.35,
+    "G_locks": 0
+  },
+  {
+    "tick": 18,
+    "phase": 0.4,
+    "G_locks": 0
+  },
+  {
+    "tick": 19,
+    "phase": 0.45,
+    "G_locks": 0
+  },
+  {
+    "tick": 20,
+    "phase": 0.5,
+    "G_locks": 0
+  },
+  {
+    "tick": 21,
+    "phase": 0.55,
+    "G_locks": 0
+  },
+  {
+    "tick": 22,
+    "phase": 0.6,
+    "G_locks": 0
+  },
+  {
+    "tick": 23,
+    "phase": 0.65,
+    "G_locks": 0
+  },
+  {
+    "tick": 24,
+    "phase": 0.7,
+    "G_locks": 0
+  },
+  {
+    "tick": 25,
+    "phase": 0.75,
+    "G_locks": 0
+  },
+  {
+    "tick": 26,
+    "phase": 0.8,
+    "G_locks": 0
+  },
+  {
+    "tick": 27,
+    "phase": 0.85,
+    "G_locks": 0
+  },
+  {
+    "tick": 28,
+    "phase": 0.9,
+    "G_locks": 0
+  },
+  {
+    "tick": 29,
+    "phase": 0.95,
+    "G_locks": 0
+  },
+  {
+    "tick": 30,
+    "phase": 0.0,
+    "G_locks": 0
+  },
+  {
+    "tick": 31,
+    "phase": 0.05,
+    "G_locks": 0
+  },
+  {
+    "tick": 32,
+    "phase": 0.1,
+    "G_locks": 0
+  },
+  {
+    "tick": 33,
+    "phase": 0.15,
+    "G_locks": 0
+  },
+  {
+    "tick": 34,
+    "phase": 0.2,
+    "G_locks": 0
+  },
+  {
+    "tick": 35,
+    "phase": 0.25,
+    "G_locks": 0
+  },
+  {
+    "tick": 36,
+    "phase": 0.3,
+    "G_locks": 0
+  },
+  {
+    "tick": 37,
+    "phase": 0.35,
+    "G_locks": 0
+  },
+  {
+    "tick": 38,
+    "phase": 0.4,
+    "G_locks": 0
+  },
+  {
+    "tick": 39,
+    "phase": 0.45,
+    "G_locks": 0
+  },
+  {
+    "tick": 40,
+    "phase": 0.5,
+    "G_locks": 0
+  },
+  {
+    "tick": 41,
+    "phase": 0.55,
+    "G_locks": 0
+  },
+  {
+    "tick": 42,
+    "phase": 0.6,
+    "G_locks": 0
+  },
+  {
+    "tick": 43,
+    "phase": 0.65,
+    "G_locks": 0
+  },
+  {
+    "tick": 44,
+    "phase": 0.7,
+    "G_locks": 0
+  },
+  {
+    "tick": 45,
+    "phase": 0.75,
+    "G_locks": 0
+  },
+  {
+    "tick": 46,
+    "phase": 0.8,
+    "G_locks": 0
+  },
+  {
+    "tick": 47,
+    "phase": 0.85,
+    "G_locks": 0
+  },
+  {
+    "tick": 48,
+    "phase": 0.9,
+    "G_locks": 0
+  },
+  {
+    "tick": 49,
+    "phase": 0.95,
+    "G_locks": 0
+  },
+  {
+    "tick": 50,
+    "phase": 0.0,
+    "G_locks": 0
+  },
+  {
+    "tick": 51,
+    "phase": 0.05,
+    "G_locks": 0
+  },
+  {
+    "tick": 52,
+    "phase": 0.1,
+    "G_locks": 0
+  },
+  {
+    "tick": 53,
+    "phase": 0.15,
+    "G_locks": 0
+  },
+  {
+    "tick": 54,
+    "phase": 0.2,
+    "G_locks": 0
+  },
+  {
+    "tick": 55,
+    "phase": 0.25,
+    "G_locks": 0
+  },
+  {
+    "tick": 56,
+    "phase": 0.3,
+    "G_locks": 0
+  },
+  {
+    "tick": 57,
+    "phase": 0.35,
+    "G_locks": 0
+  },
+  {
+    "tick": 58,
+    "phase": 0.4,
+    "G_locks": 0
+  },
+  {
+    "tick": 59,
+    "phase": 0.45,
+    "G_locks": 0
+  },
+  {
+    "tick": 60,
+    "phase": 0.5,
+    "G_locks": 0
+  }
+]

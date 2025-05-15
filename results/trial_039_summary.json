@@ -1,0 +1,7 @@
+{
+  "trial": "039",
+  "ticks_simulated": 100,
+  "recruiter_phase": 0.2,
+  "initial_phase": 0.2,
+  "delta_phi": 0.01
+}

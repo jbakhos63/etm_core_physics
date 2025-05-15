@@ -1,0 +1,18 @@
+{
+  "trial": "060",
+  "drop_tick": 20,
+  "remove_tick": 60,
+  "drift_start_tick": 61,
+  "rejoin_tick": 80,
+  "phase_drift_per_tick": 0.0005,
+  "rejoin_identity": "identity_return",
+  "rejoin_ancestry": "H1_proton",
+  "initial_identities": [
+    "identity_P1",
+    "identity_P2",
+    "identity_N1",
+    "identity_N2"
+  ],
+  "phase_tolerance": 0.11,
+  "reinforcement_strength": 0.01
+}

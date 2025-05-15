@@ -1,0 +1,30 @@
+{
+  "0.105": {
+    "identity_phase": 0.105,
+    "tick_phase_match": true,
+    "recruiter_support": 6.0,
+    "module_before": "B",
+    "module_after": "D"
+  },
+  "0.11": {
+    "identity_phase": 0.11,
+    "tick_phase_match": true,
+    "recruiter_support": 6.0,
+    "module_before": "B",
+    "module_after": "D"
+  },
+  "0.115": {
+    "identity_phase": 0.115,
+    "tick_phase_match": false,
+    "recruiter_support": 6.0,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "0.12": {
+    "identity_phase": 0.12,
+    "tick_phase_match": false,
+    "recruiter_support": 6.0,
+    "module_before": "B",
+    "module_after": "B"
+  }
+}

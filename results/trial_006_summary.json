@@ -1,0 +1,79 @@
+{
+  "380": {
+    "tick": 380,
+    "tick_phase_match": false,
+    "support": 10.0,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "381": {
+    "tick": 381,
+    "tick_phase_match": true,
+    "support": 10.0,
+    "module_before": "B",
+    "module_after": "D"
+  },
+  "382": {
+    "tick": 382,
+    "tick_phase_match": false,
+    "support": 10.0,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "383": {
+    "tick": 383,
+    "tick_phase_match": false,
+    "support": 10.0,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "384": {
+    "tick": 384,
+    "tick_phase_match": true,
+    "support": 10.0,
+    "module_before": "B",
+    "module_after": "D"
+  },
+  "385": {
+    "tick": 385,
+    "tick_phase_match": false,
+    "support": 10.0,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "386": {
+    "tick": 386,
+    "tick_phase_match": false,
+    "support": 10.0,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "387": {
+    "tick": 387,
+    "tick_phase_match": true,
+    "support": 10.0,
+    "module_before": "B",
+    "module_after": "D"
+  },
+  "388": {
+    "tick": 388,
+    "tick_phase_match": false,
+    "support": 10.0,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "389": {
+    "tick": 389,
+    "tick_phase_match": false,
+    "support": 10.0,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "390": {
+    "tick": 390,
+    "tick_phase_match": true,
+    "support": 10.0,
+    "module_before": "B",
+    "module_after": "D"
+  }
+}

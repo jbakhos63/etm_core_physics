@@ -1,0 +1,22 @@
+{
+  "trial": "042",
+  "photon_ticks": [
+    10,
+    12,
+    14
+  ],
+  "drop_tick_range": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "delta_phi": 0.01,
+  "recruiter_phase": 0.0
+}

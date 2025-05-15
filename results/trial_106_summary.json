@@ -1,0 +1,10 @@
+{
+  "trial": "106",
+  "drop_tick": 10,
+  "return_tick": 40,
+  "reinforcement_amount": 0.01,
+  "reinforcement_decay": 0.002,
+  "reinforcement_threshold": 0.1,
+  "reinforcement_pattern": "echo every 6 ticks",
+  "phase_G": 0.0
+}

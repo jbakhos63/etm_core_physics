@@ -1,0 +1,422 @@
+[
+  {
+    "tick": 0.0,
+    "phase": 0.25,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 0.5,
+    "phase": 0.3,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 1.0,
+    "phase": 0.35,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 1.5,
+    "phase": 0.4,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 2.0,
+    "phase": 0.45,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 2.5,
+    "phase": 0.5,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 3.0,
+    "phase": 0.55,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 3.5,
+    "phase": 0.6,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 4.0,
+    "phase": 0.65,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 4.5,
+    "phase": 0.7,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 5.0,
+    "phase": 0.75,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 5.5,
+    "phase": 0.8,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 6.0,
+    "phase": 0.85,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 6.5,
+    "phase": 0.9,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 7.0,
+    "phase": 0.95,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 7.5,
+    "phase": 0.0,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 8.0,
+    "phase": 0.05,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 8.5,
+    "phase": 0.1,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 9.0,
+    "phase": 0.15,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 9.5,
+    "phase": 0.2,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 10.0,
+    "phase": 0.25,
+    "recruiter_support": 0.06,
+    "drop_event": false,
+    "photon_event": true
+  },
+  {
+    "tick": 10.5,
+    "phase": 0.3,
+    "recruiter_support": 0.06,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 11.0,
+    "phase": 0.35,
+    "recruiter_support": 0.06,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 11.5,
+    "phase": 0.4,
+    "recruiter_support": 0.06,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 12.0,
+    "phase": 0.45,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": true
+  },
+  {
+    "tick": 12.5,
+    "phase": 0.5,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 13.0,
+    "phase": 0.55,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 13.5,
+    "phase": 0.6,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 14.0,
+    "phase": 0.65,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": true
+  },
+  {
+    "tick": 14.5,
+    "phase": 0.7,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 15.0,
+    "phase": 0.05,
+    "recruiter_support": 0.18,
+    "drop_event": true,
+    "photon_event": false
+  },
+  {
+    "tick": 15.5,
+    "phase": 0.05,
+    "recruiter_support": 0.18,
+    "drop_event": true,
+    "photon_event": false
+  },
+  {
+    "tick": 16.0,
+    "phase": 0.05,
+    "recruiter_support": 0.18,
+    "drop_event": true,
+    "photon_event": false
+  },
+  {
+    "tick": 16.5,
+    "phase": 0.05,
+    "recruiter_support": 0.18,
+    "drop_event": true,
+    "photon_event": false
+  },
+  {
+    "tick": 17.0,
+    "phase": 0.05,
+    "recruiter_support": 0.18,
+    "drop_event": true,
+    "photon_event": false
+  },
+  {
+    "tick": 17.5,
+    "phase": 0.1,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 18.0,
+    "phase": 0.15,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 18.5,
+    "phase": 0.2,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 19.0,
+    "phase": 0.25,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 19.5,
+    "phase": 0.3,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 20.0,
+    "phase": 0.35,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 20.5,
+    "phase": 0.4,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 21.0,
+    "phase": 0.45,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 21.5,
+    "phase": 0.5,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 22.0,
+    "phase": 0.55,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 22.5,
+    "phase": 0.6,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 23.0,
+    "phase": 0.65,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 23.5,
+    "phase": 0.7,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 24.0,
+    "phase": 0.75,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 24.5,
+    "phase": 0.8,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 25.0,
+    "phase": 0.85,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 25.5,
+    "phase": 0.9,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 26.0,
+    "phase": 0.95,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 26.5,
+    "phase": 0.0,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 27.0,
+    "phase": 0.05,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 27.5,
+    "phase": 0.1,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 28.0,
+    "phase": 0.15,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 28.5,
+    "phase": 0.2,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 29.0,
+    "phase": 0.25,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 29.5,
+    "phase": 0.3,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  }
+]

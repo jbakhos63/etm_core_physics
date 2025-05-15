@@ -1,0 +1,11 @@
+{
+  "trial": "088",
+  "drop_tick": 10,
+  "remove_tick": 30,
+  "return_tick": 100,
+  "neutrino_pulse_tick": 98,
+  "echo_interval": 3,
+  "reinforcement_amount": 0.02,
+  "reinforcement_decay": 0.002,
+  "reinforcement_threshold": 0.1
+}

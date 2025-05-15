@@ -1,0 +1,842 @@
+[
+  {
+    "tick": 1,
+    "phase": 0.05,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 2,
+    "phase": 0.1,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 3,
+    "phase": 0.15,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 4,
+    "phase": 0.2,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 5,
+    "phase": 0.25,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 6,
+    "phase": 0.3,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 7,
+    "phase": 0.35,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 8,
+    "phase": 0.4,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 9,
+    "phase": 0.45,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 10,
+    "phase": 0.5,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 11,
+    "phase": 0.05,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.018
+  },
+  {
+    "tick": 12,
+    "phase": 0.1,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.016
+  },
+  {
+    "tick": 13,
+    "phase": 0.15,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.014
+  },
+  {
+    "tick": 14,
+    "phase": 0.2,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.032
+  },
+  {
+    "tick": 15,
+    "phase": 0.25,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.03
+  },
+  {
+    "tick": 16,
+    "phase": 0.3,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.028
+  },
+  {
+    "tick": 17,
+    "phase": 0.35,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.046
+  },
+  {
+    "tick": 18,
+    "phase": 0.4,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.044
+  },
+  {
+    "tick": 19,
+    "phase": 0.45,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.042
+  },
+  {
+    "tick": 20,
+    "phase": 0.5,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.06
+  },
+  {
+    "tick": 21,
+    "phase": 0.55,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.058
+  },
+  {
+    "tick": 22,
+    "phase": 0.6,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.056
+  },
+  {
+    "tick": 23,
+    "phase": 0.65,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.074
+  },
+  {
+    "tick": 24,
+    "phase": 0.7,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.072
+  },
+  {
+    "tick": 25,
+    "phase": 0.75,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.07
+  },
+  {
+    "tick": 26,
+    "phase": 0.8,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.088
+  },
+  {
+    "tick": 27,
+    "phase": 0.85,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.086
+  },
+  {
+    "tick": 28,
+    "phase": 0.9,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.084
+  },
+  {
+    "tick": 29,
+    "phase": 0.95,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.102
+  },
+  {
+    "tick": 30,
+    "phase": 0.0,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.1
+  },
+  {
+    "tick": 31,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.098
+  },
+  {
+    "tick": 32,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.096
+  },
+  {
+    "tick": 33,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.094
+  },
+  {
+    "tick": 34,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.092
+  },
+  {
+    "tick": 35,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.09
+  },
+  {
+    "tick": 36,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.088
+  },
+  {
+    "tick": 37,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.086
+  },
+  {
+    "tick": 38,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.084
+  },
+  {
+    "tick": 39,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.082
+  },
+  {
+    "tick": 40,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.08
+  },
+  {
+    "tick": 41,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.078
+  },
+  {
+    "tick": 42,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.076
+  },
+  {
+    "tick": 43,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.074
+  },
+  {
+    "tick": 44,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.072
+  },
+  {
+    "tick": 45,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.07
+  },
+  {
+    "tick": 46,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.068
+  },
+  {
+    "tick": 47,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.066
+  },
+  {
+    "tick": 48,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.064
+  },
+  {
+    "tick": 49,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.062
+  },
+  {
+    "tick": 50,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.06
+  },
+  {
+    "tick": 51,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.058
+  },
+  {
+    "tick": 52,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.056
+  },
+  {
+    "tick": 53,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.054
+  },
+  {
+    "tick": 54,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.052
+  },
+  {
+    "tick": 55,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.05
+  },
+  {
+    "tick": 56,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.048
+  },
+  {
+    "tick": 57,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.046
+  },
+  {
+    "tick": 58,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.044
+  },
+  {
+    "tick": 59,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.042
+  },
+  {
+    "tick": 60,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.04
+  },
+  {
+    "tick": 61,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.038
+  },
+  {
+    "tick": 62,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.036
+  },
+  {
+    "tick": 63,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.034
+  },
+  {
+    "tick": 64,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.032
+  },
+  {
+    "tick": 65,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.03
+  },
+  {
+    "tick": 66,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.028
+  },
+  {
+    "tick": 67,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.026
+  },
+  {
+    "tick": 68,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.024
+  },
+  {
+    "tick": 69,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.022
+  },
+  {
+    "tick": 70,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.02
+  },
+  {
+    "tick": 71,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.018
+  },
+  {
+    "tick": 72,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.016
+  },
+  {
+    "tick": 73,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.014
+  },
+  {
+    "tick": 74,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.012
+  },
+  {
+    "tick": 75,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.01
+  },
+  {
+    "tick": 76,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.008
+  },
+  {
+    "tick": 77,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.006
+  },
+  {
+    "tick": 78,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.004
+  },
+  {
+    "tick": 79,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.002
+  },
+  {
+    "tick": 80,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 81,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 82,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 83,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 84,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 85,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 86,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 87,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 88,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 89,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 90,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 91,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 92,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 93,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 94,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 95,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 96,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 97,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 98,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 99,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 100,
+    "phase": null,
+    "active": false,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 101,
+    "phase": 0.05,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 102,
+    "phase": 0.1,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 103,
+    "phase": 0.15,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 104,
+    "phase": 0.2,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 105,
+    "phase": 0.25,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 106,
+    "phase": 0.3,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 107,
+    "phase": 0.35,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 108,
+    "phase": 0.4,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 109,
+    "phase": 0.45,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 110,
+    "phase": 0.5,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 111,
+    "phase": 0.55,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 112,
+    "phase": 0.6,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 113,
+    "phase": 0.65,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 114,
+    "phase": 0.7,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 115,
+    "phase": 0.75,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 116,
+    "phase": 0.8,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 117,
+    "phase": 0.85,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 118,
+    "phase": 0.9,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 119,
+    "phase": 0.95,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  },
+  {
+    "tick": 120,
+    "phase": 0.0,
+    "active": true,
+    "quorum": 0,
+    "recruiter_avg_support": 0.0
+  }
+]

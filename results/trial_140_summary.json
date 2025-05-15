@@ -1,0 +1,22 @@
+[
+  {
+    "mass_factor": 0.75,
+    "lock_tick": 0,
+    "max_support": 4.762067622356789
+  },
+  {
+    "mass_factor": 1.0,
+    "lock_tick": 0,
+    "max_support": 6.446462337678256
+  },
+  {
+    "mass_factor": 1.25,
+    "lock_tick": 0,
+    "max_support": 8.150695422909429
+  },
+  {
+    "mass_factor": 1.5,
+    "lock_tick": 0,
+    "max_support": 9.863619120646133
+  }
+]

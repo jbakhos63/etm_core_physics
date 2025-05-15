@@ -1,0 +1,72 @@
+{
+  "10": {
+    "return_delay_ticks": 10,
+    "return_tick": 36,
+    "interval_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "20": {
+    "return_delay_ticks": 20,
+    "return_tick": 46,
+    "interval_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "30": {
+    "return_delay_ticks": 30,
+    "return_tick": 56,
+    "interval_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "40": {
+    "return_delay_ticks": 40,
+    "return_tick": 66,
+    "interval_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "50": {
+    "return_delay_ticks": 50,
+    "return_tick": 76,
+    "interval_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "60": {
+    "return_delay_ticks": 60,
+    "return_tick": 86,
+    "interval_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "70": {
+    "return_delay_ticks": 70,
+    "return_tick": 96,
+    "interval_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "80": {
+    "return_delay_ticks": 80,
+    "return_tick": 106,
+    "interval_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "90": {
+    "return_delay_ticks": 90,
+    "return_tick": 116,
+    "interval_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  },
+  "100": {
+    "return_delay_ticks": 100,
+    "return_tick": 126,
+    "interval_ticks": 21,
+    "time_interval_s": 4.5654e-16,
+    "derived_energy_joules": 2.902264861786481e-19
+  }
+}

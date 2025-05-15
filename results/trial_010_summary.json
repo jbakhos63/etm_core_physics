@@ -1,0 +1,26 @@
+{
+  "0.0": {
+    "tick_phase": 0.0,
+    "tick_phase_match": true,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "0.1": {
+    "tick_phase": 0.1,
+    "tick_phase_match": true,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "0.2": {
+    "tick_phase": 0.2,
+    "tick_phase_match": false,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "0.3": {
+    "tick_phase": 0.3,
+    "tick_phase_match": false,
+    "module_before": "B",
+    "module_after": "B"
+  }
+}

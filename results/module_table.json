@@ -1,0 +1,51 @@
+{
+  "A": {
+    "label": "A",
+    "recruitment": true,
+    "memory_profile": "rotor",
+    "decay_rate": 0.99,
+    "reformation_score": 0
+  },
+  "B": {
+    "label": "B",
+    "recruitment": false,
+    "memory_profile": "neutrino",
+    "decay_rate": 1.0,
+    "reformation_score": 0
+  },
+  "C": {
+    "label": "C",
+    "recruitment": false,
+    "memory_profile": "decayed",
+    "decay_rate": 0.9,
+    "reformation_score": 0
+  },
+  "D": {
+    "label": "D",
+    "recruitment": true,
+    "memory_profile": "stable_mass",
+    "decay_rate": 0.95,
+    "reformation_score": 0
+  },
+  "P": {
+    "label": "P",
+    "recruitment": true,
+    "memory_profile": "proton",
+    "decay_rate": 0.97,
+    "reformation_score": 0
+  },
+  "N": {
+    "label": "N",
+    "recruitment": true,
+    "memory_profile": "neutron",
+    "decay_rate": 0.96,
+    "reformation_score": 0
+  },
+  "S": {
+    "label": "S",
+    "recruitment": false,
+    "memory_profile": "scaffold",
+    "decay_rate": 0.94,
+    "reformation_score": 0
+  }
+}

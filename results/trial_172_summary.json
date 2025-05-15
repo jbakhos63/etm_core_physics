@@ -1,0 +1,15 @@
+{
+  "locked_ticks": [
+    0,
+    1
+  ],
+  "final_position": {
+    "x": 16.600000000000016,
+    "y": 4.0
+  },
+  "total_locks": 2,
+  "slow_zone": [
+    8.0,
+    16.0
+  ]
+}

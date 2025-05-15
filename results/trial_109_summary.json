@@ -1,0 +1,11 @@
+{
+  "trial": "109",
+  "drop_tick": 10,
+  "return_tick": 40,
+  "base_reinforcement_amount": 0.004,
+  "pulse_boost": 0.05,
+  "pulse_tick": 38,
+  "reinforcement_decay": 0.002,
+  "reinforcement_threshold": 0.1,
+  "phase_G": 0.0
+}

@@ -1,0 +1,36 @@
+{
+  "final_state": {
+    "node_id": "rec_001",
+    "target_ancestry": "rotor-A",
+    "target_phase": 0.0,
+    "support_score": 3.0,
+    "memory": 0.9127,
+    "echoes_received": 3
+  },
+  "echo_log": [
+    {
+      "tick": 1,
+      "ancestry": "rotor-A",
+      "phase": 0.01,
+      "ancestry_match": true,
+      "phase_match": true,
+      "support_added": 1
+    },
+    {
+      "tick": 2,
+      "ancestry": "rotor-A",
+      "phase": 0.01,
+      "ancestry_match": true,
+      "phase_match": true,
+      "support_added": 1
+    },
+    {
+      "tick": 3,
+      "ancestry": "rotor-A",
+      "phase": 0.01,
+      "ancestry_match": true,
+      "phase_match": true,
+      "support_added": 1
+    }
+  ]
+}

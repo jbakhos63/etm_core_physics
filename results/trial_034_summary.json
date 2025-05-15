@@ -1,0 +1,30 @@
+{
+  "0.01": {
+    "ticks_held": 3,
+    "total_support": 0.03,
+    "tick_phase_match": false,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "0.02": {
+    "ticks_held": 3,
+    "total_support": 0.06,
+    "tick_phase_match": false,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "0.03": {
+    "ticks_held": 3,
+    "total_support": 0.09,
+    "tick_phase_match": false,
+    "module_before": "B",
+    "module_after": "B"
+  },
+  "0.04": {
+    "ticks_held": 3,
+    "total_support": 0.12,
+    "tick_phase_match": false,
+    "module_before": "B",
+    "module_after": "B"
+  }
+}

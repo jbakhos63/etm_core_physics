@@ -1,0 +1,7 @@
+{
+  "trial": "098",
+  "drop_tick": 10,
+  "reinforcement_used": false,
+  "reinforcement_threshold": 0.1,
+  "phase_G": 0.0
+}

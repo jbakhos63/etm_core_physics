@@ -1,0 +1,12 @@
+[
+  {
+    "from": "B",
+    "to": "B",
+    "conditions": {
+      "recruiter_support": 5.0,
+      "ancestry_match": true,
+      "tick_phase_match": false
+    },
+    "success": false
+  }
+]

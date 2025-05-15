@@ -1,0 +1,8 @@
+{
+  "trial": "036",
+  "photon_frequency_hz": 460000000000000.0,
+  "planck_constant_si": 6.62607015e-34,
+  "photon_energy_joules": 3.0479922689999998e-19,
+  "etm_energy_cost": 0.12,
+  "joules_per_etm_unit": 2.5399935574999998e-18
+}

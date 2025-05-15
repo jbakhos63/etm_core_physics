@@ -1,0 +1,11 @@
+{
+  "tick_count": 10,
+  "recruiter_avg_support": 2.0,
+  "return_conditions": {
+    "recruiter_support": 2.0,
+    "ancestry_match": true,
+    "tick_phase_match": true
+  },
+  "module_before": "B",
+  "module_after": "B"
+}

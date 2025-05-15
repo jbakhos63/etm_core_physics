@@ -1,0 +1,842 @@
+[
+  {
+    "tick": 1,
+    "phase": 0.25,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 2,
+    "phase": 0.3,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 3,
+    "phase": 0.35,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 4,
+    "phase": 0.4,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 5,
+    "phase": 0.45,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 6,
+    "phase": 0.5,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 7,
+    "phase": 0.55,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 8,
+    "phase": 0.6,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 9,
+    "phase": 0.65,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 10,
+    "phase": 0.7,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 11,
+    "phase": 0.75,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 12,
+    "phase": 0.8,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 13,
+    "phase": 0.85,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 14,
+    "phase": 0.9,
+    "recruiter_support": 0,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 15,
+    "phase": 0.95,
+    "recruiter_support": 0.06,
+    "drop_event": false,
+    "photon_event": true
+  },
+  {
+    "tick": 16,
+    "phase": 0.0,
+    "recruiter_support": 0.06,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 17,
+    "phase": 0.05,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": true
+  },
+  {
+    "tick": 18,
+    "phase": 0.05,
+    "recruiter_support": 0.12,
+    "drop_event": true,
+    "photon_event": false
+  },
+  {
+    "tick": 19,
+    "phase": 0.1,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 20,
+    "phase": 0.15,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 21,
+    "phase": 0.2,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 22,
+    "phase": 0.25,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 23,
+    "phase": 0.3,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 24,
+    "phase": 0.35,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 25,
+    "phase": 0.4,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 26,
+    "phase": 0.45,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 27,
+    "phase": 0.5,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 28,
+    "phase": 0.55,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 29,
+    "phase": 0.6,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 30,
+    "phase": 0.65,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 31,
+    "phase": 0.7,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 32,
+    "phase": 0.75,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 33,
+    "phase": 0.8,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 34,
+    "phase": 0.85,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 35,
+    "phase": 0.9,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 36,
+    "phase": 0.95,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 37,
+    "phase": 0.0,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 38,
+    "phase": 0.05,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 39,
+    "phase": 0.1,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 40,
+    "phase": 0.15,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 41,
+    "phase": 0.2,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 42,
+    "phase": 0.25,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 43,
+    "phase": 0.3,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 44,
+    "phase": 0.35,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 45,
+    "phase": 0.4,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 46,
+    "phase": 0.45,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 47,
+    "phase": 0.5,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 48,
+    "phase": 0.55,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 49,
+    "phase": 0.6,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 50,
+    "phase": 0.65,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 51,
+    "phase": 0.7,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 52,
+    "phase": 0.75,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 53,
+    "phase": 0.8,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 54,
+    "phase": 0.85,
+    "recruiter_support": 0.12,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 55,
+    "phase": 0.9,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": true
+  },
+  {
+    "tick": 56,
+    "phase": 0.95,
+    "recruiter_support": 0.18,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 57,
+    "phase": 0.0,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": true
+  },
+  {
+    "tick": 58,
+    "phase": 0.05,
+    "recruiter_support": 0.24,
+    "drop_event": true,
+    "photon_event": false
+  },
+  {
+    "tick": 59,
+    "phase": 0.1,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 60,
+    "phase": 0.15,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 61,
+    "phase": 0.2,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 62,
+    "phase": 0.25,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 63,
+    "phase": 0.3,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 64,
+    "phase": 0.35,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 65,
+    "phase": 0.4,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 66,
+    "phase": 0.45,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 67,
+    "phase": 0.5,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 68,
+    "phase": 0.55,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 69,
+    "phase": 0.6,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 70,
+    "phase": 0.65,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 71,
+    "phase": 0.7,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 72,
+    "phase": 0.75,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 73,
+    "phase": 0.8,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 74,
+    "phase": 0.85,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 75,
+    "phase": 0.9,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 76,
+    "phase": 0.95,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 77,
+    "phase": 0.0,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 78,
+    "phase": 0.05,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 79,
+    "phase": 0.1,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 80,
+    "phase": 0.15,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 81,
+    "phase": 0.2,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 82,
+    "phase": 0.25,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 83,
+    "phase": 0.3,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 84,
+    "phase": 0.35,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 85,
+    "phase": 0.4,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 86,
+    "phase": 0.45,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 87,
+    "phase": 0.5,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 88,
+    "phase": 0.55,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 89,
+    "phase": 0.6,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 90,
+    "phase": 0.65,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 91,
+    "phase": 0.7,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 92,
+    "phase": 0.75,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 93,
+    "phase": 0.8,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 94,
+    "phase": 0.85,
+    "recruiter_support": 0.24,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 95,
+    "phase": 0.9,
+    "recruiter_support": 0.3,
+    "drop_event": false,
+    "photon_event": true
+  },
+  {
+    "tick": 96,
+    "phase": 0.95,
+    "recruiter_support": 0.3,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 97,
+    "phase": 0.0,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": true
+  },
+  {
+    "tick": 98,
+    "phase": 0.05,
+    "recruiter_support": 0.36,
+    "drop_event": true,
+    "photon_event": false
+  },
+  {
+    "tick": 99,
+    "phase": 0.1,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 100,
+    "phase": 0.15,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 101,
+    "phase": 0.2,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 102,
+    "phase": 0.25,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 103,
+    "phase": 0.3,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 104,
+    "phase": 0.35,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 105,
+    "phase": 0.4,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 106,
+    "phase": 0.45,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 107,
+    "phase": 0.5,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 108,
+    "phase": 0.55,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 109,
+    "phase": 0.6,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 110,
+    "phase": 0.65,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 111,
+    "phase": 0.7,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 112,
+    "phase": 0.75,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 113,
+    "phase": 0.8,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 114,
+    "phase": 0.85,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 115,
+    "phase": 0.9,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 116,
+    "phase": 0.95,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 117,
+    "phase": 0.0,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 118,
+    "phase": 0.05,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 119,
+    "phase": 0.1,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  },
+  {
+    "tick": 120,
+    "phase": 0.15,
+    "recruiter_support": 0.36,
+    "drop_event": false,
+    "photon_event": false
+  }
+]

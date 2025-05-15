@@ -1,0 +1,902 @@
+[
+  {
+    "tick": 0,
+    "x": 0.0020000000000000018,
+    "y": 0.0,
+    "phase": 0.51,
+    "rotating_phase": 0.0,
+    "support": 1.40999,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 1,
+    "x": -0.04494000000000001,
+    "y": 0.0,
+    "phase": 0.52,
+    "rotating_phase": 0.01,
+    "support": 1.4098,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 2,
+    "x": 0.0107118,
+    "y": 0.0,
+    "phase": 0.53,
+    "rotating_phase": 0.02,
+    "support": 1.405506,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 3,
+    "x": -0.031966845999999986,
+    "y": 0.0,
+    "phase": 0.54,
+    "rotating_phase": 0.03,
+    "support": 1.4089288199999999,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 4,
+    "x": 0.028074148620000024,
+    "y": 0.0,
+    "phase": 0.55,
+    "rotating_phase": 0.04,
+    "support": 1.4068033154,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 5,
+    "x": -0.010083626921399962,
+    "y": 0.0,
+    "phase": 0.56,
+    "rotating_phase": 0.05,
+    "support": 1.407192585138,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 6,
+    "x": 0.05461386427095805,
+    "y": 0.0,
+    "phase": 0.5700000000000001,
+    "rotating_phase": 0.06,
+    "support": 1.40899163730786,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 7,
+    "x": 0.021252280199086808,
+    "y": 0.0,
+    "phase": 0.5800000000000001,
+    "rotating_phase": 0.07,
+    "support": 1.404538613572904,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 8,
+    "x": -0.011110151394940593,
+    "y": 0.0,
+    "phase": 0.5900000000000001,
+    "rotating_phase": 0.08,
+    "support": 1.4078747719800915,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 9,
+    "x": 0.05955654406321123,
+    "y": 0.0,
+    "phase": 0.6000000000000001,
+    "rotating_phase": 0.09,
+    "support": 1.4088889848605062,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 10,
+    "x": 0.032343240385107566,
+    "y": 0.0,
+    "phase": 0.6100000000000001,
+    "rotating_phase": 0.1,
+    "support": 1.4040443455936789,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 11,
+    "x": 0.006313537596660791,
+    "y": 0.0,
+    "phase": 0.6200000000000001,
+    "rotating_phase": 0.11,
+    "support": 1.4067656759614895,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 12,
+    "x": -0.018497056275439384,
+    "y": 0.0,
+    "phase": 0.6300000000000001,
+    "rotating_phase": 0.12,
+    "support": 1.4093686462403339,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 13,
+    "x": 0.05994803203629747,
+    "y": 0.0,
+    "phase": 0.6400000000000001,
+    "rotating_phase": 0.13,
+    "support": 1.4081502943724562,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 14,
+    "x": 0.0407464729973864,
+    "y": 0.0,
+    "phase": 0.6500000000000001,
+    "rotating_phase": 0.14,
+    "support": 1.4040051967963705,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 15,
+    "x": 0.022968867187308,
+    "y": 0.0,
+    "phase": 0.6600000000000001,
+    "rotating_phase": 0.15,
+    "support": 1.4059253527002613,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 16,
+    "x": 0.006657933202927249,
+    "y": 0.0,
+    "phase": 0.6700000000000002,
+    "rotating_phase": 0.16,
+    "support": 1.4077031132812692,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 17,
+    "x": -0.00814232880098492,
+    "y": 0.0,
+    "phase": 0.6800000000000002,
+    "rotating_phase": 0.17,
+    "support": 1.4093342066797074,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 18,
+    "x": 0.0806134013349856,
+    "y": 0.0,
+    "phase": 0.6900000000000002,
+    "rotating_phase": 0.18,
+    "support": 1.4091857671199017,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 19,
+    "x": 0.07203180337503517,
+    "y": 0.0,
+    "phase": 0.7000000000000002,
+    "rotating_phase": 0.19,
+    "support": 1.4019386598665016,
+    "recruiter_count": 3
+  },
+  {
+    "tick": 20,
+    "x": 0.14991307551003658,
+    "y": 0.0,
+    "phase": 0.7100000000000002,
+    "rotating_phase": 0.2,
+    "support": 2.25,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 21,
+    "x": 0.23190959853043805,
+    "y": 0.0,
+    "phase": 0.7200000000000002,
+    "rotating_phase": 0.21,
+    "support": 2.24,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 22,
+    "x": 0.3181859824716555,
+    "y": 0.0,
+    "phase": 0.7300000000000002,
+    "rotating_phase": 0.22,
+    "support": 2.23,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 23,
+    "x": 0.40891342177052176,
+    "y": 0.0,
+    "phase": 0.7400000000000002,
+    "rotating_phase": 0.23,
+    "support": 2.2199999999999998,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 24,
+    "x": 0.5042699586413426,
+    "y": 0.0,
+    "phase": 0.7500000000000002,
+    "rotating_phase": 0.24,
+    "support": 2.21,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 25,
+    "x": 0.43244075698699624,
+    "y": 0.0,
+    "phase": 0.7600000000000002,
+    "rotating_phase": 0.25,
+    "support": 2.1991460082717316,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 26,
+    "x": 0.522738387266476,
+    "y": 0.0,
+    "phase": 0.7700000000000002,
+    "rotating_phase": 0.26,
+    "support": 2.19,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 27,
+    "x": 0.44964792275713505,
+    "y": 0.0,
+    "phase": 0.7800000000000002,
+    "rotating_phase": 0.27,
+    "support": 2.175452322546705,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 28,
+    "x": 0.5346338396674204,
+    "y": 0.0,
+    "phase": 0.7900000000000003,
+    "rotating_phase": 0.28,
+    "support": 2.17,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 29,
+    "x": 0.46001919325411716,
+    "y": 0.0,
+    "phase": 0.8000000000000003,
+    "rotating_phase": 0.29,
+    "support": 2.1530732320665162,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 30,
+    "x": 0.5394199609842818,
+    "y": 0.0,
+    "phase": 0.8100000000000003,
+    "rotating_phase": 0.3,
+    "support": 2.15,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 31,
+    "x": 0.46299675942365304,
+    "y": 0.0,
+    "phase": 0.8200000000000003,
+    "rotating_phase": 0.31,
+    "support": 2.1321160078031434,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 32,
+    "x": 0.536516629800599,
+    "y": 0.0,
+    "phase": 0.8300000000000003,
+    "rotating_phase": 0.32,
+    "support": 2.13,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 33,
+    "x": 0.4579772949926229,
+    "y": 0.0,
+    "phase": 0.8400000000000003,
+    "rotating_phase": 0.33,
+    "support": 2.1126966740398805,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 34,
+    "x": 0.5252963867923277,
+    "y": 0.0,
+    "phase": 0.8500000000000003,
+    "rotating_phase": 0.34,
+    "support": 2.11,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 35,
+    "x": 0.44430824226402077,
+    "y": 0.0,
+    "phase": 0.8600000000000003,
+    "rotating_phase": 0.35000000000000003,
+    "support": 2.0949407226415344,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 36,
+    "x": 0.5050805719545814,
+    "y": 0.0,
+    "phase": 0.8700000000000003,
+    "rotating_phase": 0.36,
+    "support": 2.09,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 37,
+    "x": 0.4212837948327646,
+    "y": 0.0,
+    "phase": 0.8800000000000003,
+    "rotating_phase": 0.37,
+    "support": 2.078983885609084,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 38,
+    "x": 0.4751351466260751,
+    "y": 0.0,
+    "phase": 0.8900000000000003,
+    "rotating_phase": 0.38,
+    "support": 2.07,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 39,
+    "x": 0.528140552491118,
+    "y": 0.0,
+    "phase": 0.9000000000000004,
+    "rotating_phase": 0.39,
+    "support": 2.0599999999999996,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 40,
+    "x": 0.4422661745907627,
+    "y": 0.0,
+    "phase": 0.9100000000000004,
+    "rotating_phase": 0.4,
+    "support": 2.044371889501776,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 41,
+    "x": 0.487956821574393,
+    "y": 0.0,
+    "phase": 0.9200000000000004,
+    "rotating_phase": 0.41000000000000003,
+    "support": 2.04,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 42,
+    "x": 0.5324750944373686,
+    "y": 0.0,
+    "phase": 0.9300000000000004,
+    "rotating_phase": 0.42,
+    "support": 2.03,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 43,
+    "x": 0.4437740982148633,
+    "y": 0.0,
+    "phase": 0.9400000000000004,
+    "rotating_phase": 0.43,
+    "support": 2.0135049811125265,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 44,
+    "x": 0.4805250621434577,
+    "y": 0.0,
+    "phase": 0.9500000000000004,
+    "rotating_phase": 0.44,
+    "support": 2.0100000000000002,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 45,
+    "x": 0.5157460646291958,
+    "y": 0.0,
+    "phase": 0.9600000000000004,
+    "rotating_phase": 0.45,
+    "support": 2.0,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 46,
+    "x": 0.4233759072143636,
+    "y": 0.0,
+    "phase": 0.9700000000000004,
+    "rotating_phase": 0.46,
+    "support": 1.986850787074161,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 47,
+    "x": 0.45031094350293793,
+    "y": 0.0,
+    "phase": 0.9800000000000004,
+    "rotating_phase": 0.47000000000000003,
+    "support": 1.98,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 48,
+    "x": 0.4753233812430553,
+    "y": 0.0,
+    "phase": 0.9900000000000004,
+    "rotating_phase": 0.48,
+    "support": 1.9699999999999998,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 49,
+    "x": 0.4983363164927773,
+    "y": 0.0,
+    "phase": 4.440892098500626e-16,
+    "rotating_phase": 0.49,
+    "support": 1.96,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 50,
+    "x": 0.5192697691524882,
+    "y": 0.0,
+    "phase": 0.010000000000000444,
+    "rotating_phase": 0.5,
+    "support": 1.9499999999999997,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 51,
+    "x": 0.4220405599185877,
+    "y": 0.0,
+    "phase": 0.020000000000000445,
+    "rotating_phase": 0.51,
+    "support": 1.9361460461695024,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 52,
+    "x": 0.43392218231533103,
+    "y": 0.0,
+    "phase": 0.030000000000000443,
+    "rotating_phase": 0.52,
+    "support": 1.9299999999999997,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 53,
+    "x": 0.4432790696079441,
+    "y": 0.0,
+    "phase": 0.040000000000000445,
+    "rotating_phase": 0.53,
+    "support": 1.92,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 54,
+    "x": 0.45001023239226173,
+    "y": 0.0,
+    "phase": 0.05000000000000045,
+    "rotating_phase": 0.54,
+    "support": 1.9099999999999997,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 55,
+    "x": 0.454010641687952,
+    "y": 0.0,
+    "phase": 0.06000000000000045,
+    "rotating_phase": 0.55,
+    "support": 1.9,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 56,
+    "x": 0.4551710673554699,
+    "y": 0.0,
+    "phase": 0.07000000000000045,
+    "rotating_phase": 0.56,
+    "support": 1.89,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 57,
+    "x": 0.4533779100496885,
+    "y": 0.0,
+    "phase": 0.08000000000000045,
+    "rotating_phase": 0.5700000000000001,
+    "support": 1.88,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 58,
+    "x": 0.4485130264516759,
+    "y": 0.0,
+    "phase": 0.09000000000000044,
+    "rotating_phase": 0.58,
+    "support": 1.87,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 59,
+    "x": 0.44045354750974286,
+    "y": 0.0,
+    "phase": 0.10000000000000044,
+    "rotating_phase": 0.59,
+    "support": 1.8600000000000008,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 60,
+    "x": 0.43107168941013246,
+    "y": 0.0,
+    "phase": 0.11000000000000043,
+    "rotating_phase": 0.6,
+    "support": 1.870000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 61,
+    "x": 0.4203145569865377,
+    "y": 0.0,
+    "phase": 0.12000000000000043,
+    "rotating_phase": 0.61,
+    "support": 1.8800000000000008,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 62,
+    "x": 0.40812713926599914,
+    "y": 0.0,
+    "phase": 0.13000000000000042,
+    "rotating_phase": 0.62,
+    "support": 1.890000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 63,
+    "x": 0.394452224836639,
+    "y": 0.0,
+    "phase": 0.14000000000000043,
+    "rotating_phase": 0.63,
+    "support": 1.9000000000000008,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 64,
+    "x": 0.37923031383010447,
+    "y": 0.0,
+    "phase": 0.15000000000000044,
+    "rotating_phase": 0.64,
+    "support": 1.9100000000000008,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 65,
+    "x": 0.3623995263833085,
+    "y": 0.0,
+    "phase": 0.16000000000000045,
+    "rotating_phase": 0.65,
+    "support": 1.9200000000000008,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 66,
+    "x": 0.3438955074386408,
+    "y": 0.0,
+    "phase": 0.17000000000000046,
+    "rotating_phase": 0.66,
+    "support": 1.930000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 67,
+    "x": 0.3236513277361863,
+    "y": 0.0,
+    "phase": 0.18000000000000047,
+    "rotating_phase": 0.67,
+    "support": 1.9400000000000008,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 68,
+    "x": 0.3015973808456337,
+    "y": 0.0,
+    "phase": 0.19000000000000047,
+    "rotating_phase": 0.68,
+    "support": 1.950000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 69,
+    "x": 0.27766127607945895,
+    "y": 0.0,
+    "phase": 0.20000000000000048,
+    "rotating_phase": 0.6900000000000001,
+    "support": 1.9600000000000009,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 70,
+    "x": 0.25176772712263723,
+    "y": 0.0,
+    "phase": 0.2100000000000005,
+    "rotating_phase": 0.7000000000000001,
+    "support": 1.9700000000000009,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 71,
+    "x": 0.22383843620754262,
+    "y": 0.0,
+    "phase": 0.2200000000000005,
+    "rotating_phase": 0.71,
+    "support": 1.9800000000000013,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 72,
+    "x": 0.19379197365584422,
+    "y": 0.0,
+    "phase": 0.2300000000000005,
+    "rotating_phase": 0.72,
+    "support": 1.990000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 73,
+    "x": 0.16154365260207787,
+    "y": 0.0,
+    "phase": 0.24000000000000052,
+    "rotating_phase": 0.73,
+    "support": 2.000000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 74,
+    "x": 0.12700539870616112,
+    "y": 0.0,
+    "phase": 0.2500000000000005,
+    "rotating_phase": 0.74,
+    "support": 2.010000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 75,
+    "x": 0.09408561465440768,
+    "y": 0.0,
+    "phase": 0.2600000000000005,
+    "rotating_phase": 0.75,
+    "support": 2.020000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 76,
+    "x": 0.06284903924058408,
+    "y": 0.0,
+    "phase": 0.2700000000000005,
+    "rotating_phase": 0.76,
+    "support": 2.030000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 77,
+    "x": 0.03336300081020756,
+    "y": 0.0,
+    "phase": 0.2800000000000005,
+    "rotating_phase": 0.77,
+    "support": 2.040000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 78,
+    "x": 0.005697520842615947,
+    "y": 0.0,
+    "phase": 0.29000000000000054,
+    "rotating_phase": 0.78,
+    "support": 2.0500000000000007,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 79,
+    "x": -0.020074578323679315,
+    "y": 0.0,
+    "phase": 0.30000000000000054,
+    "rotating_phase": 0.79,
+    "support": 2.060000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 80,
+    "x": 0.05812243854337373,
+    "y": 0.0,
+    "phase": 0.31000000000000055,
+    "rotating_phase": 0.8,
+    "support": 2.0659850843352654,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 81,
+    "x": 0.040447336085108775,
+    "y": 0.0,
+    "phase": 0.32000000000000056,
+    "rotating_phase": 0.81,
+    "support": 2.080000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 82,
+    "x": 0.025065229528513255,
+    "y": 0.0,
+    "phase": 0.33000000000000057,
+    "rotating_phase": 0.8200000000000001,
+    "support": 2.0900000000000007,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 83,
+    "x": 0.012067838709653922,
+    "y": 0.0,
+    "phase": 0.3400000000000006,
+    "rotating_phase": 0.8300000000000001,
+    "support": 2.100000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 84,
+    "x": 0.0015505522580401814,
+    "y": 0.0,
+    "phase": 0.3500000000000006,
+    "rotating_phase": 0.84,
+    "support": 2.110000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 85,
+    "x": -0.006387425651638093,
+    "y": 0.0,
+    "phase": 0.3600000000000006,
+    "rotating_phase": 0.85,
+    "support": 2.120000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 86,
+    "x": 0.09035707732229664,
+    "y": 0.0,
+    "phase": 0.3700000000000006,
+    "rotating_phase": 0.86,
+    "support": 2.128722514869674,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 87,
+    "x": 0.0919713604151886,
+    "y": 0.0,
+    "phase": 0.3800000000000006,
+    "rotating_phase": 0.87,
+    "support": 2.1400000000000015,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 88,
+    "x": 0.09665021483179623,
+    "y": 0.0,
+    "phase": 0.3900000000000006,
+    "rotating_phase": 0.88,
+    "support": 2.1500000000000012,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 89,
+    "x": 0.10451622342506824,
+    "y": 0.0,
+    "phase": 0.40000000000000063,
+    "rotating_phase": 0.89,
+    "support": 2.160000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 90,
+    "x": 0.1156968723620711,
+    "y": 0.0,
+    "phase": 0.41000000000000064,
+    "rotating_phase": 0.9,
+    "support": 2.1700000000000013,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 91,
+    "x": 0.13032474725655407,
+    "y": 0.0,
+    "phase": 0.42000000000000065,
+    "rotating_phase": 0.91,
+    "support": 2.180000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 92,
+    "x": 0.14853773714681637,
+    "y": 0.0,
+    "phase": 0.43000000000000066,
+    "rotating_phase": 0.92,
+    "support": 2.1900000000000013,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 93,
+    "x": 0.17047924663268918,
+    "y": 0.0,
+    "phase": 0.44000000000000067,
+    "rotating_phase": 0.93,
+    "support": 2.200000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 94,
+    "x": 0.1962984164979969,
+    "y": 0.0,
+    "phase": 0.4500000000000007,
+    "rotating_phase": 0.9400000000000001,
+    "support": 2.2100000000000013,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 95,
+    "x": 0.22615035315791693,
+    "y": 0.0,
+    "phase": 0.4600000000000007,
+    "rotating_phase": 0.9500000000000001,
+    "support": 2.2200000000000015,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 96,
+    "x": 0.26019636728423373,
+    "y": 0.0,
+    "phase": 0.4700000000000007,
+    "rotating_phase": 0.96,
+    "support": 2.2300000000000013,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 97,
+    "x": 0.2986042219756032,
+    "y": 0.0,
+    "phase": 0.4800000000000007,
+    "rotating_phase": 0.97,
+    "support": 2.240000000000001,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 98,
+    "x": 0.3415483908546275,
+    "y": 0.0,
+    "phase": 0.4900000000000007,
+    "rotating_phase": 0.98,
+    "support": 2.2500000000000013,
+    "recruiter_count": 4
+  },
+  {
+    "tick": 99,
+    "x": 0.38921032648881276,
+    "y": 0.0,
+    "phase": 0.5000000000000007,
+    "rotating_phase": 0.99,
+    "support": 2.260000000000001,
+    "recruiter_count": 4
+  }
+]

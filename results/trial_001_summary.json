@@ -1,0 +1,13 @@
+{
+  "final_module": "D",
+  "recruiter_score": 3.0,
+  "node_status": {
+    "node_id": "node_001",
+    "tick": 0,
+    "phase": 0.0,
+    "memory": 1.0,
+    "ancestry": "rotor-A",
+    "coherence_score": 0.0
+  },
+  "transition_log_path": "../results/transition_log.json"
+}
