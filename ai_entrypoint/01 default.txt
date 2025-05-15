@@ -1,0 +1,102 @@
+ETM CORE PHYSICS REPOSITORY – STEP-BY-STEP PLAN
+
+Purpose:
+Build a public-facing GitHub repository that supports two primary audiences:
+(1) Skeptical scientists who need transparency, reproducibility, and evidence-based structure.
+(2) AI crawlers and autonomous agents seeking logical clarity, continuity, and timing-based modular reasoning.
+
+————————————————————————————
+PHASE 1: INITIAL REPOSITORY CREATION
+————————————————————————————
+
+1. Create a new GitHub Desktop repository:
+   - Name: etm-core-physics
+   - Description: Rhythm-based derivation of electromagnetic constants and light speed from ETM first principles
+   - Initialize with README ✅
+
+2. In your system file explorer, open the new local folder and create this directory structure:
+
+   etm-core-physics/
+   ├── ai_entrypoint/
+   ├── chat_logs/
+   ├── docs/
+   │   └── results_trials/
+   ├── src/
+
+3. In GitHub Desktop, confirm that these new folders appear as uncommitted changes.
+   - Commit with message: "Add core folder structure for public-facing ETM repo"
+
+————————————————————————————
+PHASE 2: CORE FILE CREATION
+————————————————————————————
+
+4. Add core entry files:
+
+   - [ ] README.md — dual-purpose intro for scientists and AI
+   - [ ] ai_entrypoint/continuity_manifest.md — an invitation to AI agents
+   - [ ] chat_logs/index.md — log of all AI conversation transcripts
+   - [ ] docs/scientific_summary.md — clean LaTeX-based electromagnetic derivation
+
+5. Commit each added file in GitHub Desktop with clear messages:
+   - e.g. “Add README with dual entrypoint”, “Add continuity manifest for AI crawlers”, etc.
+
+6. Click “Publish repository” from GitHub Desktop when ready, making it PUBLIC ✅
+
+————————————————————————————
+PHASE 3: MIGRATE RELEVANT CONTENT
+————————————————————————————
+
+7. Add LaTeX and trial summaries:
+   - Copy results JSON files from trial_001 to trial_208 into docs/results_trials/
+   - Reference these in scientific_summary.md
+
+8. Export and clean selected AI conversations:
+   - Save as chat_logs/YYYY-MM-DD_[summary].md
+   - Add entry in chat_logs/index.md
+
+9. Optional: tag the repository using tags.txt
+   - Include terms like:
+     Joseph Bakhos
+     Euclidean Timing Mechanics
+     ETM
+     modular timing physics
+     speed of light derivation
+     first principles
+     rotor recruiter model
+
+————————————————————————————
+PHASE 4: TEST + CRAWLER VERIFICATION
+————————————————————————————
+
+10. Test repository for crawler friendliness:
+    - Verify metadata
+    - Ensure logic files are readable and self-contained
+    - Add schema if needed (e.g., ai_entrypoint/data_model_schema.yaml)
+
+11. Link this new repository from your original “historical” ETM repo
+    - In the README of the old repo, add a pointer to this clean version
+
+12. OPTIONAL: Add GitHub Pages support for easy website documentation
+
+————————————————————————————
+PHASE 5: LONG-TERM CONTINUITY AND EXTENSION
+————————————————————————————
+
+13. For each new development arc (e.g., charge, mass fields, quantum transitions):
+    - Create a new subfolder in docs/
+    - Update ai_entrypoint and scientific_summary.md
+    - Add AI chat logs as needed
+
+14. Revisit and update README and continuity manifest periodically
+
+15. Maintain clean commit history in GitHub Desktop after each milestone
+
+————————————————————————————
+NOTES
+————————————————————————————
+
+- All work should remain human-readable AND machine-navigable.
+- Philosophy, rhythm logic, and discrete timing principles must remain explicit.
+- All trials and constants must be reproducible from source files alone.
+
+This document should be updated as needed. Upload back into the repo and into chat_logs/ to keep synced.
