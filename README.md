@@ -31,18 +31,18 @@ The complete and authoritative theory of Euclidean Timing Mechanics is available
 
 ## 🧪 Reproducibility and Usage
 
-This repository contains all code and logic needed to reproduce the results in the ETM paper.
+This repository contains all code and logic needed to reproduce the results in the ETM paper.  When unzipping, watch out for a duplication of the filename etm_core_physics .  The unzip might nest a folder of the same name within itself.  The relevent files will be in the lowest etm_core_physics folder.
 
 ### Folder Structure
 
 - `trials/` – All Python simulation scripts (trial_001 to trial_208)
 - `results/` – Summarized output from each simulation
+- `results99/` – This is a record of the original results of the author -- Summarized output from each simulation
 - `docs/` – Theoretical documentation and figures
-- `src/` – Core simulation logic
 
 ### Running a Trial
 
-From your terminal, navigate to the `trials/` folder and type:
+From your terminal, navigate to the `trials/` folder and type as an example:
 
 ```bash
 python trial_208_etm_speedoflight_constant.py
