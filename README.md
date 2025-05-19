@@ -7,7 +7,8 @@ A fully discrete, modular, rhythm-based model of physics capable of deriving fun
 ## 📄 Final ETM Documents
 
 The complete and authoritative theory of Euclidean Timing Mechanics is available here:  
-[📥 Download All_Physical_Constants_Derived_from_the_Logic_of_Music.pdf](docs/All_Physical_Constants_Derived_from_the_Logic_of_Music.pdf)
+[📥 Download Euclidean_Timing_Mechanics.pdf](docs/Euclidean_Timing_Mechanics.pdf)
+
 
 A follow-up supplement offering later clarifications and refinements can be found here:  
 [📥 Download Supplement_Later_Clarifications_to_ETM.pdf](docs/Supplement_Later_Clarifications_to_ETM.pdf)
