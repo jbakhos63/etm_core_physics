@@ -1,0 +1,23 @@
+{
+    "title": "Euclidean Timing Mechanics",
+    "author": "Joseph Bakhos",
+    "orcid": "https://orcid.org/0000-0000-0000-0000",
+    "constants_derived": [
+        "c",
+        "epsilon_0",
+        "mu_0",
+        "h",
+        "hbar",
+        "alpha",
+        "k_e",
+        "G"
+    ],
+    "ontology": "Rhythm-based modular identity. Discrete timing replaces geometry. Recruiters and phase alignment replace force and fields.",
+    "language": "Python",
+    "status": "Complete and reproducible",
+    "repo": "https://github.com/jbakhos63/etm_core_physics",
+    "documents": [
+        "docs/All_Physical_Constants_Derived_from_the_Logic_of_Music.pdf",
+        "docs/Supplement_Later_Clarifications_to_ETM.pdf"
+    ]
+}

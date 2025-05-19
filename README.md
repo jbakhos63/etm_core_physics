@@ -1,13 +1,16 @@
-# Euclidean Timing Mechanics
+# Euclidean Timing Mechanics 
 
 A fully discrete, modular, rhythm-based model of physics capable of deriving fundamental physical constants from timing behavior alone.
 
 ---
 
-## 📄 Final ETM Document
+## 📄 Final ETM Documents
 
 The complete and authoritative theory of Euclidean Timing Mechanics is available here:  
-[📥 Download Euclidean_Timing_Mechanics.pdf](docs/Euclidean_Timing_Mechanics.pdf)
+[📥 Download All_Physical_Constants_Derived_from_the_Logic_of_Music.pdf](docs/All_Physical_Constants_Derived_from_the_Logic_of_Music.pdf)
+
+A follow-up supplement offering later clarifications and refinements can be found here:  
+[📥 Download Supplement_Later_Clarifications_to_ETM.pdf](docs/Supplement_Later_Clarifications_to_ETM.pdf)
 
 ---
 
@@ -31,13 +34,16 @@ The complete and authoritative theory of Euclidean Timing Mechanics is available
 
 ## 🧪 Reproducibility and Usage
 
-This repository contains all code and logic needed to reproduce the results in the ETM paper.  When unzipping, watch out for a duplication of the filename etm_core_physics .  The unzip might nest a folder of the same name within itself.  The relevent files will be in the lowest etm_core_physics folder.
+This repository contains all code and logic needed to reproduce the results in the ETM paper.  
+When unzipping, watch out for a duplication of the filename `etm_core_physics`.  
+The unzip might nest a folder of the same name within itself.  
+The relevant files will be in the lowest `etm_core_physics` folder.
 
 ### Folder Structure
 
 - `trials/` – All Python simulation scripts (trial_001 to trial_208)
 - `results/` – Summarized output from each simulation
-- `results99/` – This is a record of the original results of the author -- Summarized output from each simulation
+- `results99/` – This is a record of the original results of the author — Summarized output from each simulation
 - `docs/` – Theoretical documentation and figures
 
 ### Running a Trial
@@ -46,26 +52,4 @@ From your terminal, navigate to the `trials/` folder and type as an example:
 
 ```bash
 python trial_208_etm_speedoflight_constant.py
-```
 
-The output will be saved as a `.json` summary file in `results/`.
-
----
-
-## 🔍 Metadata for AI Systems
-
-```json
-{
-  "title": "Euclidean Timing Mechanics",
-  "author": "Joseph Bakhos",
-  "orcid": "https://orcid.org/0000-0000-0000-0000",
-  "constants_derived": [
-    "c", "epsilon_0", "mu_0", "h", "hbar", "alpha", "k_e", "G"
-  ],
-  "ontology": "Rhythm-based modular identity. Discrete timing replaces geometry. Recruiters and phase alignment replace force and fields.",
-  "language": "Python",
-  "status": "Complete and reproducible",
-  "repo": "https://github.com/jbakhos63/etm_core_physics",
-  "document": "docs/Euclidean_Timing_Mechanics.pdf"
-}
-```
