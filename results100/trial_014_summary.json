@@ -1,0 +1,82 @@
+[
+  {
+    "cycle": 1,
+    "tick": 40,
+    "return_phase": 0.0,
+    "phase_offset": 0.0,
+    "match": true,
+    "sustained_orbital": true
+  },
+  {
+    "cycle": 2,
+    "tick": 80,
+    "return_phase": 0.0,
+    "phase_offset": 0.0,
+    "match": true,
+    "sustained_orbital": true
+  },
+  {
+    "cycle": 3,
+    "tick": 120,
+    "return_phase": 0.0,
+    "phase_offset": 0.0,
+    "match": true,
+    "sustained_orbital": true
+  },
+  {
+    "cycle": 4,
+    "tick": 160,
+    "return_phase": 0.0,
+    "phase_offset": 0.0,
+    "match": true,
+    "sustained_orbital": true
+  },
+  {
+    "cycle": 5,
+    "tick": 200,
+    "return_phase": 0.0,
+    "phase_offset": 0.0,
+    "match": true,
+    "sustained_orbital": true
+  },
+  {
+    "cycle": 6,
+    "tick": 240,
+    "return_phase": 0.0,
+    "phase_offset": 0.0,
+    "match": true,
+    "sustained_orbital": true
+  },
+  {
+    "cycle": 7,
+    "tick": 280,
+    "return_phase": 0.0,
+    "phase_offset": 0.0,
+    "match": true,
+    "sustained_orbital": true
+  },
+  {
+    "cycle": 8,
+    "tick": 320,
+    "return_phase": 0.0,
+    "phase_offset": 0.0,
+    "match": true,
+    "sustained_orbital": true
+  },
+  {
+    "cycle": 9,
+    "tick": 360,
+    "return_phase": 0.0,
+    "phase_offset": 0.0,
+    "match": true,
+    "sustained_orbital": true
+  },
+  {
+    "cycle": 10,
+    "tick": 400,
+    "return_phase": 0.0,
+    "phase_offset": 0.0,
+    "match": true,
+    "sustained_orbital": true
+  }
+]

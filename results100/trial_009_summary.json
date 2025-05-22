@@ -1,0 +1,122 @@
+[
+  {
+    "recruiter_phase": 0.0,
+    "return_phase": 0.0,
+    "phase_offset": 0.0,
+    "match": true
+  },
+  {
+    "recruiter_phase": 0.05,
+    "return_phase": 0.0,
+    "phase_offset": 0.05,
+    "match": true
+  },
+  {
+    "recruiter_phase": 0.1,
+    "return_phase": 0.0,
+    "phase_offset": 0.1,
+    "match": true
+  },
+  {
+    "recruiter_phase": 0.15,
+    "return_phase": 0.0,
+    "phase_offset": 0.15,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.2,
+    "return_phase": 0.0,
+    "phase_offset": 0.2,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.25,
+    "return_phase": 0.0,
+    "phase_offset": 0.25,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.3,
+    "return_phase": 0.0,
+    "phase_offset": 0.3,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.35,
+    "return_phase": 0.0,
+    "phase_offset": 0.35,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.4,
+    "return_phase": 0.0,
+    "phase_offset": 0.4,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.45,
+    "return_phase": 0.0,
+    "phase_offset": 0.45,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.5,
+    "return_phase": 0.0,
+    "phase_offset": 0.5,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.55,
+    "return_phase": 0.0,
+    "phase_offset": 0.45,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.6,
+    "return_phase": 0.0,
+    "phase_offset": 0.4,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.65,
+    "return_phase": 0.0,
+    "phase_offset": 0.35,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.7,
+    "return_phase": 0.0,
+    "phase_offset": 0.3,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.75,
+    "return_phase": 0.0,
+    "phase_offset": 0.25,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.8,
+    "return_phase": 0.0,
+    "phase_offset": 0.2,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.85,
+    "return_phase": 0.0,
+    "phase_offset": 0.15,
+    "match": false
+  },
+  {
+    "recruiter_phase": 0.9,
+    "return_phase": 0.0,
+    "phase_offset": 0.1,
+    "match": true
+  },
+  {
+    "recruiter_phase": 0.95,
+    "return_phase": 0.0,
+    "phase_offset": 0.05,
+    "match": true
+  }
+]

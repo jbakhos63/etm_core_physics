@@ -1,0 +1,911 @@
+[
+  {
+    "tick": 0,
+    "phase_A1": 0.0,
+    "phase_A2": 0.5,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 1,
+    "phase_A1": 0.05,
+    "phase_A2": 0.55,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 2,
+    "phase_A1": 0.1,
+    "phase_A2": 0.6,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 3,
+    "phase_A1": 0.15,
+    "phase_A2": 0.65,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 4,
+    "phase_A1": 0.2,
+    "phase_A2": 0.7,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 5,
+    "phase_A1": 0.25,
+    "phase_A2": 0.75,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 6,
+    "phase_A1": 0.3,
+    "phase_A2": 0.8,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 7,
+    "phase_A1": 0.35,
+    "phase_A2": 0.85,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 8,
+    "phase_A1": 0.4,
+    "phase_A2": 0.9,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 9,
+    "phase_A1": 0.45,
+    "phase_A2": 0.95,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 10,
+    "phase_A1": 0.5,
+    "phase_A2": 0.0,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 11,
+    "phase_A1": 0.55,
+    "phase_A2": 0.05,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 12,
+    "phase_A1": 0.6,
+    "phase_A2": 0.1,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 13,
+    "phase_A1": 0.65,
+    "phase_A2": 0.15,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 14,
+    "phase_A1": 0.7,
+    "phase_A2": 0.2,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 15,
+    "phase_A1": 0.75,
+    "phase_A2": 0.25,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 16,
+    "phase_A1": 0.8,
+    "phase_A2": 0.3,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 17,
+    "phase_A1": 0.85,
+    "phase_A2": 0.35,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 18,
+    "phase_A1": 0.9,
+    "phase_A2": 0.4,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 19,
+    "phase_A1": 0.95,
+    "phase_A2": 0.45,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 20,
+    "phase_A1": 0.0,
+    "phase_A2": 0.5,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 21,
+    "phase_A1": 0.05,
+    "phase_A2": 0.55,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 22,
+    "phase_A1": 0.1,
+    "phase_A2": 0.6,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 23,
+    "phase_A1": 0.15,
+    "phase_A2": 0.65,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 24,
+    "phase_A1": 0.2,
+    "phase_A2": 0.7,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 25,
+    "phase_A1": 0.25,
+    "phase_A2": 0.75,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 26,
+    "phase_A1": 0.3,
+    "phase_A2": 0.8,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 27,
+    "phase_A1": 0.35,
+    "phase_A2": 0.85,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 28,
+    "phase_A1": 0.4,
+    "phase_A2": 0.9,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 29,
+    "phase_A1": 0.45,
+    "phase_A2": 0.95,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 30,
+    "phase_A1": 0.5,
+    "phase_A2": 0.0,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 31,
+    "phase_A1": 0.55,
+    "phase_A2": 0.05,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 32,
+    "phase_A1": 0.6,
+    "phase_A2": 0.1,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 33,
+    "phase_A1": 0.65,
+    "phase_A2": 0.15,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 34,
+    "phase_A1": 0.7,
+    "phase_A2": 0.2,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 35,
+    "phase_A1": 0.75,
+    "phase_A2": 0.25,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 36,
+    "phase_A1": 0.8,
+    "phase_A2": 0.3,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 37,
+    "phase_A1": 0.85,
+    "phase_A2": 0.35,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 38,
+    "phase_A1": 0.9,
+    "phase_A2": 0.4,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 39,
+    "phase_A1": 0.95,
+    "phase_A2": 0.45,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 40,
+    "phase_A1": 0.0,
+    "phase_A2": 0.5,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 41,
+    "phase_A1": 0.05,
+    "phase_A2": 0.55,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 42,
+    "phase_A1": 0.1,
+    "phase_A2": 0.6,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 43,
+    "phase_A1": 0.15,
+    "phase_A2": 0.65,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 44,
+    "phase_A1": 0.2,
+    "phase_A2": 0.7,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 45,
+    "phase_A1": 0.25,
+    "phase_A2": 0.75,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 46,
+    "phase_A1": 0.3,
+    "phase_A2": 0.8,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 47,
+    "phase_A1": 0.35,
+    "phase_A2": 0.85,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 48,
+    "phase_A1": 0.4,
+    "phase_A2": 0.9,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 49,
+    "phase_A1": 0.45,
+    "phase_A2": 0.95,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 50,
+    "phase_A1": 0.5,
+    "phase_A2": 0.0,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 51,
+    "phase_A1": 0.55,
+    "phase_A2": 0.05,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 52,
+    "phase_A1": 0.6,
+    "phase_A2": 0.1,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 53,
+    "phase_A1": 0.65,
+    "phase_A2": 0.15,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 54,
+    "phase_A1": 0.7,
+    "phase_A2": 0.2,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 55,
+    "phase_A1": 0.75,
+    "phase_A2": 0.25,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 56,
+    "phase_A1": 0.8,
+    "phase_A2": 0.3,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 57,
+    "phase_A1": 0.85,
+    "phase_A2": 0.35,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 58,
+    "phase_A1": 0.9,
+    "phase_A2": 0.4,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 59,
+    "phase_A1": 0.95,
+    "phase_A2": 0.45,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 60,
+    "phase_A1": 0.0,
+    "phase_A2": 0.5,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 61,
+    "phase_A1": 0.05,
+    "phase_A2": 0.55,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 62,
+    "phase_A1": 0.1,
+    "phase_A2": 0.6,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 63,
+    "phase_A1": 0.15,
+    "phase_A2": 0.65,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 64,
+    "phase_A1": 0.2,
+    "phase_A2": 0.7,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 65,
+    "phase_A1": 0.25,
+    "phase_A2": 0.75,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 66,
+    "phase_A1": 0.3,
+    "phase_A2": 0.8,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 67,
+    "phase_A1": 0.35,
+    "phase_A2": 0.85,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 68,
+    "phase_A1": 0.4,
+    "phase_A2": 0.9,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 69,
+    "phase_A1": 0.45,
+    "phase_A2": 0.95,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 70,
+    "phase_A1": 0.5,
+    "phase_A2": 0.0,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 71,
+    "phase_A1": 0.55,
+    "phase_A2": 0.05,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 72,
+    "phase_A1": 0.6,
+    "phase_A2": 0.1,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 73,
+    "phase_A1": 0.65,
+    "phase_A2": 0.15,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 74,
+    "phase_A1": 0.7,
+    "phase_A2": 0.2,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 75,
+    "phase_A1": 0.75,
+    "phase_A2": 0.25,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 76,
+    "phase_A1": 0.8,
+    "phase_A2": 0.3,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 77,
+    "phase_A1": 0.85,
+    "phase_A2": 0.35,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 78,
+    "phase_A1": 0.9,
+    "phase_A2": 0.4,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 79,
+    "phase_A1": 0.95,
+    "phase_A2": 0.45,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 80,
+    "phase_A1": 0.0,
+    "phase_A2": 0.5,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 81,
+    "phase_A1": 0.05,
+    "phase_A2": 0.55,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 82,
+    "phase_A1": 0.1,
+    "phase_A2": 0.6,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 83,
+    "phase_A1": 0.15,
+    "phase_A2": 0.65,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 84,
+    "phase_A1": 0.2,
+    "phase_A2": 0.7,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 85,
+    "phase_A1": 0.25,
+    "phase_A2": 0.75,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 86,
+    "phase_A1": 0.3,
+    "phase_A2": 0.8,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 87,
+    "phase_A1": 0.35,
+    "phase_A2": 0.85,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 88,
+    "phase_A1": 0.4,
+    "phase_A2": 0.9,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 89,
+    "phase_A1": 0.45,
+    "phase_A2": 0.95,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 90,
+    "phase_A1": 0.5,
+    "phase_A2": 0.0,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 91,
+    "phase_A1": 0.55,
+    "phase_A2": 0.05,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 92,
+    "phase_A1": 0.6,
+    "phase_A2": 0.1,
+    "match_A1": false,
+    "match_A2": true,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 93,
+    "phase_A1": 0.65,
+    "phase_A2": 0.15,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 94,
+    "phase_A1": 0.7,
+    "phase_A2": 0.2,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 95,
+    "phase_A1": 0.75,
+    "phase_A2": 0.25,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 96,
+    "phase_A1": 0.8,
+    "phase_A2": 0.3,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 97,
+    "phase_A1": 0.85,
+    "phase_A2": 0.35,
+    "match_A1": false,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 98,
+    "phase_A1": 0.9,
+    "phase_A2": 0.4,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 99,
+    "phase_A1": 0.95,
+    "phase_A2": 0.45,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  },
+  {
+    "tick": 100,
+    "phase_A1": 0.0,
+    "phase_A2": 0.5,
+    "match_A1": true,
+    "match_A2": false,
+    "conflict": false,
+    "spin_like_complement": false
+  }
+]

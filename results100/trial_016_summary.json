@@ -1,0 +1,486 @@
+{
+  "forward": [
+    {
+      "tick": 1,
+      "phase": 0.025,
+      "offset": 0.025,
+      "match": true
+    },
+    {
+      "tick": 2,
+      "phase": 0.05,
+      "offset": 0.05,
+      "match": true
+    },
+    {
+      "tick": 3,
+      "phase": 0.075,
+      "offset": 0.075,
+      "match": true
+    },
+    {
+      "tick": 4,
+      "phase": 0.1,
+      "offset": 0.1,
+      "match": true
+    },
+    {
+      "tick": 5,
+      "phase": 0.125,
+      "offset": 0.125,
+      "match": false
+    },
+    {
+      "tick": 6,
+      "phase": 0.15,
+      "offset": 0.15,
+      "match": false
+    },
+    {
+      "tick": 7,
+      "phase": 0.175,
+      "offset": 0.175,
+      "match": false
+    },
+    {
+      "tick": 8,
+      "phase": 0.2,
+      "offset": 0.2,
+      "match": false
+    },
+    {
+      "tick": 9,
+      "phase": 0.225,
+      "offset": 0.225,
+      "match": false
+    },
+    {
+      "tick": 10,
+      "phase": 0.25,
+      "offset": 0.25,
+      "match": false
+    },
+    {
+      "tick": 11,
+      "phase": 0.275,
+      "offset": 0.275,
+      "match": false
+    },
+    {
+      "tick": 12,
+      "phase": 0.3,
+      "offset": 0.3,
+      "match": false
+    },
+    {
+      "tick": 13,
+      "phase": 0.325,
+      "offset": 0.325,
+      "match": false
+    },
+    {
+      "tick": 14,
+      "phase": 0.35,
+      "offset": 0.35,
+      "match": false
+    },
+    {
+      "tick": 15,
+      "phase": 0.375,
+      "offset": 0.375,
+      "match": false
+    },
+    {
+      "tick": 16,
+      "phase": 0.4,
+      "offset": 0.4,
+      "match": false
+    },
+    {
+      "tick": 17,
+      "phase": 0.425,
+      "offset": 0.425,
+      "match": false
+    },
+    {
+      "tick": 18,
+      "phase": 0.45,
+      "offset": 0.45,
+      "match": false
+    },
+    {
+      "tick": 19,
+      "phase": 0.475,
+      "offset": 0.475,
+      "match": false
+    },
+    {
+      "tick": 20,
+      "phase": 0.5,
+      "offset": 0.5,
+      "match": false
+    },
+    {
+      "tick": 21,
+      "phase": 0.525,
+      "offset": 0.475,
+      "match": false
+    },
+    {
+      "tick": 22,
+      "phase": 0.55,
+      "offset": 0.45,
+      "match": false
+    },
+    {
+      "tick": 23,
+      "phase": 0.575,
+      "offset": 0.425,
+      "match": false
+    },
+    {
+      "tick": 24,
+      "phase": 0.6,
+      "offset": 0.4,
+      "match": false
+    },
+    {
+      "tick": 25,
+      "phase": 0.625,
+      "offset": 0.375,
+      "match": false
+    },
+    {
+      "tick": 26,
+      "phase": 0.65,
+      "offset": 0.35,
+      "match": false
+    },
+    {
+      "tick": 27,
+      "phase": 0.675,
+      "offset": 0.325,
+      "match": false
+    },
+    {
+      "tick": 28,
+      "phase": 0.7,
+      "offset": 0.3,
+      "match": false
+    },
+    {
+      "tick": 29,
+      "phase": 0.725,
+      "offset": 0.275,
+      "match": false
+    },
+    {
+      "tick": 30,
+      "phase": 0.75,
+      "offset": 0.25,
+      "match": false
+    },
+    {
+      "tick": 31,
+      "phase": 0.775,
+      "offset": 0.225,
+      "match": false
+    },
+    {
+      "tick": 32,
+      "phase": 0.8,
+      "offset": 0.2,
+      "match": false
+    },
+    {
+      "tick": 33,
+      "phase": 0.825,
+      "offset": 0.175,
+      "match": false
+    },
+    {
+      "tick": 34,
+      "phase": 0.85,
+      "offset": 0.15,
+      "match": false
+    },
+    {
+      "tick": 35,
+      "phase": 0.875,
+      "offset": 0.125,
+      "match": false
+    },
+    {
+      "tick": 36,
+      "phase": 0.9,
+      "offset": 0.1,
+      "match": true
+    },
+    {
+      "tick": 37,
+      "phase": 0.925,
+      "offset": 0.075,
+      "match": true
+    },
+    {
+      "tick": 38,
+      "phase": 0.95,
+      "offset": 0.05,
+      "match": true
+    },
+    {
+      "tick": 39,
+      "phase": 0.975,
+      "offset": 0.025,
+      "match": true
+    },
+    {
+      "tick": 40,
+      "phase": 0.0,
+      "offset": 0.0,
+      "match": true
+    }
+  ],
+  "reverse": [
+    {
+      "tick": 1,
+      "phase": 0.975,
+      "offset": 0.025,
+      "match": true
+    },
+    {
+      "tick": 2,
+      "phase": 0.95,
+      "offset": 0.05,
+      "match": true
+    },
+    {
+      "tick": 3,
+      "phase": 0.925,
+      "offset": 0.075,
+      "match": true
+    },
+    {
+      "tick": 4,
+      "phase": 0.9,
+      "offset": 0.1,
+      "match": true
+    },
+    {
+      "tick": 5,
+      "phase": 0.875,
+      "offset": 0.125,
+      "match": false
+    },
+    {
+      "tick": 6,
+      "phase": 0.85,
+      "offset": 0.15,
+      "match": false
+    },
+    {
+      "tick": 7,
+      "phase": 0.825,
+      "offset": 0.175,
+      "match": false
+    },
+    {
+      "tick": 8,
+      "phase": 0.8,
+      "offset": 0.2,
+      "match": false
+    },
+    {
+      "tick": 9,
+      "phase": 0.775,
+      "offset": 0.225,
+      "match": false
+    },
+    {
+      "tick": 10,
+      "phase": 0.75,
+      "offset": 0.25,
+      "match": false
+    },
+    {
+      "tick": 11,
+      "phase": 0.725,
+      "offset": 0.275,
+      "match": false
+    },
+    {
+      "tick": 12,
+      "phase": 0.7,
+      "offset": 0.3,
+      "match": false
+    },
+    {
+      "tick": 13,
+      "phase": 0.675,
+      "offset": 0.325,
+      "match": false
+    },
+    {
+      "tick": 14,
+      "phase": 0.65,
+      "offset": 0.35,
+      "match": false
+    },
+    {
+      "tick": 15,
+      "phase": 0.625,
+      "offset": 0.375,
+      "match": false
+    },
+    {
+      "tick": 16,
+      "phase": 0.6,
+      "offset": 0.4,
+      "match": false
+    },
+    {
+      "tick": 17,
+      "phase": 0.575,
+      "offset": 0.425,
+      "match": false
+    },
+    {
+      "tick": 18,
+      "phase": 0.55,
+      "offset": 0.45,
+      "match": false
+    },
+    {
+      "tick": 19,
+      "phase": 0.525,
+      "offset": 0.475,
+      "match": false
+    },
+    {
+      "tick": 20,
+      "phase": 0.5,
+      "offset": 0.5,
+      "match": false
+    },
+    {
+      "tick": 21,
+      "phase": 0.475,
+      "offset": 0.475,
+      "match": false
+    },
+    {
+      "tick": 22,
+      "phase": 0.45,
+      "offset": 0.45,
+      "match": false
+    },
+    {
+      "tick": 23,
+      "phase": 0.425,
+      "offset": 0.425,
+      "match": false
+    },
+    {
+      "tick": 24,
+      "phase": 0.4,
+      "offset": 0.4,
+      "match": false
+    },
+    {
+      "tick": 25,
+      "phase": 0.375,
+      "offset": 0.375,
+      "match": false
+    },
+    {
+      "tick": 26,
+      "phase": 0.35,
+      "offset": 0.35,
+      "match": false
+    },
+    {
+      "tick": 27,
+      "phase": 0.325,
+      "offset": 0.325,
+      "match": false
+    },
+    {
+      "tick": 28,
+      "phase": 0.3,
+      "offset": 0.3,
+      "match": false
+    },
+    {
+      "tick": 29,
+      "phase": 0.275,
+      "offset": 0.275,
+      "match": false
+    },
+    {
+      "tick": 30,
+      "phase": 0.25,
+      "offset": 0.25,
+      "match": false
+    },
+    {
+      "tick": 31,
+      "phase": 0.225,
+      "offset": 0.225,
+      "match": false
+    },
+    {
+      "tick": 32,
+      "phase": 0.2,
+      "offset": 0.2,
+      "match": false
+    },
+    {
+      "tick": 33,
+      "phase": 0.175,
+      "offset": 0.175,
+      "match": false
+    },
+    {
+      "tick": 34,
+      "phase": 0.15,
+      "offset": 0.15,
+      "match": false
+    },
+    {
+      "tick": 35,
+      "phase": 0.125,
+      "offset": 0.125,
+      "match": false
+    },
+    {
+      "tick": 36,
+      "phase": 0.1,
+      "offset": 0.1,
+      "match": true
+    },
+    {
+      "tick": 37,
+      "phase": 0.075,
+      "offset": 0.075,
+      "match": true
+    },
+    {
+      "tick": 38,
+      "phase": 0.05,
+      "offset": 0.05,
+      "match": true
+    },
+    {
+      "tick": 39,
+      "phase": 0.025,
+      "offset": 0.025,
+      "match": true
+    },
+    {
+      "tick": 40,
+      "phase": 0.0,
+      "offset": 0.0,
+      "match": true
+    }
+  ]
+}

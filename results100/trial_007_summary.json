@@ -1,0 +1,2129 @@
+{
+  "0.25": [
+    {
+      "tick_delay": 0,
+      "return_phase": 0.0,
+      "target_phase": 0.25,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 1,
+      "return_phase": 0.025,
+      "target_phase": 0.25,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 2,
+      "return_phase": 0.05,
+      "target_phase": 0.25,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 3,
+      "return_phase": 0.075,
+      "target_phase": 0.25,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 4,
+      "return_phase": 0.1,
+      "target_phase": 0.25,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 5,
+      "return_phase": 0.125,
+      "target_phase": 0.25,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 6,
+      "return_phase": 0.15,
+      "target_phase": 0.25,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 7,
+      "return_phase": 0.175,
+      "target_phase": 0.25,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 8,
+      "return_phase": 0.2,
+      "target_phase": 0.25,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 9,
+      "return_phase": 0.225,
+      "target_phase": 0.25,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 10,
+      "return_phase": 0.25,
+      "target_phase": 0.25,
+      "phase_offset": 0.0,
+      "match": true
+    },
+    {
+      "tick_delay": 11,
+      "return_phase": 0.275,
+      "target_phase": 0.25,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 12,
+      "return_phase": 0.3,
+      "target_phase": 0.25,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 13,
+      "return_phase": 0.325,
+      "target_phase": 0.25,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 14,
+      "return_phase": 0.35,
+      "target_phase": 0.25,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 15,
+      "return_phase": 0.375,
+      "target_phase": 0.25,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 16,
+      "return_phase": 0.4,
+      "target_phase": 0.25,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 17,
+      "return_phase": 0.425,
+      "target_phase": 0.25,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 18,
+      "return_phase": 0.45,
+      "target_phase": 0.25,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 19,
+      "return_phase": 0.475,
+      "target_phase": 0.25,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 20,
+      "return_phase": 0.5,
+      "target_phase": 0.25,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 21,
+      "return_phase": 0.525,
+      "target_phase": 0.25,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 22,
+      "return_phase": 0.55,
+      "target_phase": 0.25,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 23,
+      "return_phase": 0.575,
+      "target_phase": 0.25,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 24,
+      "return_phase": 0.6,
+      "target_phase": 0.25,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 25,
+      "return_phase": 0.625,
+      "target_phase": 0.25,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 26,
+      "return_phase": 0.65,
+      "target_phase": 0.25,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 27,
+      "return_phase": 0.675,
+      "target_phase": 0.25,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 28,
+      "return_phase": 0.7,
+      "target_phase": 0.25,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 29,
+      "return_phase": 0.725,
+      "target_phase": 0.25,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 30,
+      "return_phase": 0.75,
+      "target_phase": 0.25,
+      "phase_offset": 0.5,
+      "match": false
+    },
+    {
+      "tick_delay": 31,
+      "return_phase": 0.775,
+      "target_phase": 0.25,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 32,
+      "return_phase": 0.8,
+      "target_phase": 0.25,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 33,
+      "return_phase": 0.825,
+      "target_phase": 0.25,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 34,
+      "return_phase": 0.85,
+      "target_phase": 0.25,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 35,
+      "return_phase": 0.875,
+      "target_phase": 0.25,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 36,
+      "return_phase": 0.9,
+      "target_phase": 0.25,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 37,
+      "return_phase": 0.925,
+      "target_phase": 0.25,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 38,
+      "return_phase": 0.95,
+      "target_phase": 0.25,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 39,
+      "return_phase": 0.975,
+      "target_phase": 0.25,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 40,
+      "return_phase": 0.0,
+      "target_phase": 0.25,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 41,
+      "return_phase": 0.025,
+      "target_phase": 0.25,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 42,
+      "return_phase": 0.05,
+      "target_phase": 0.25,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 43,
+      "return_phase": 0.075,
+      "target_phase": 0.25,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 44,
+      "return_phase": 0.1,
+      "target_phase": 0.25,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 45,
+      "return_phase": 0.125,
+      "target_phase": 0.25,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 46,
+      "return_phase": 0.15,
+      "target_phase": 0.25,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 47,
+      "return_phase": 0.175,
+      "target_phase": 0.25,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 48,
+      "return_phase": 0.2,
+      "target_phase": 0.25,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 49,
+      "return_phase": 0.225,
+      "target_phase": 0.25,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 50,
+      "return_phase": 0.25,
+      "target_phase": 0.25,
+      "phase_offset": 0.0,
+      "match": true
+    },
+    {
+      "tick_delay": 51,
+      "return_phase": 0.275,
+      "target_phase": 0.25,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 52,
+      "return_phase": 0.3,
+      "target_phase": 0.25,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 53,
+      "return_phase": 0.325,
+      "target_phase": 0.25,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 54,
+      "return_phase": 0.35,
+      "target_phase": 0.25,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 55,
+      "return_phase": 0.375,
+      "target_phase": 0.25,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 56,
+      "return_phase": 0.4,
+      "target_phase": 0.25,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 57,
+      "return_phase": 0.425,
+      "target_phase": 0.25,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 58,
+      "return_phase": 0.45,
+      "target_phase": 0.25,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 59,
+      "return_phase": 0.475,
+      "target_phase": 0.25,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 60,
+      "return_phase": 0.5,
+      "target_phase": 0.25,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 61,
+      "return_phase": 0.525,
+      "target_phase": 0.25,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 62,
+      "return_phase": 0.55,
+      "target_phase": 0.25,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 63,
+      "return_phase": 0.575,
+      "target_phase": 0.25,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 64,
+      "return_phase": 0.6,
+      "target_phase": 0.25,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 65,
+      "return_phase": 0.625,
+      "target_phase": 0.25,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 66,
+      "return_phase": 0.65,
+      "target_phase": 0.25,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 67,
+      "return_phase": 0.675,
+      "target_phase": 0.25,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 68,
+      "return_phase": 0.7,
+      "target_phase": 0.25,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 69,
+      "return_phase": 0.725,
+      "target_phase": 0.25,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 70,
+      "return_phase": 0.75,
+      "target_phase": 0.25,
+      "phase_offset": 0.5,
+      "match": false
+    },
+    {
+      "tick_delay": 71,
+      "return_phase": 0.775,
+      "target_phase": 0.25,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 72,
+      "return_phase": 0.8,
+      "target_phase": 0.25,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 73,
+      "return_phase": 0.825,
+      "target_phase": 0.25,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 74,
+      "return_phase": 0.85,
+      "target_phase": 0.25,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 75,
+      "return_phase": 0.875,
+      "target_phase": 0.25,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 76,
+      "return_phase": 0.9,
+      "target_phase": 0.25,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 77,
+      "return_phase": 0.925,
+      "target_phase": 0.25,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 78,
+      "return_phase": 0.95,
+      "target_phase": 0.25,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 79,
+      "return_phase": 0.975,
+      "target_phase": 0.25,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 80,
+      "return_phase": 0.0,
+      "target_phase": 0.25,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 81,
+      "return_phase": 0.025,
+      "target_phase": 0.25,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 82,
+      "return_phase": 0.05,
+      "target_phase": 0.25,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 83,
+      "return_phase": 0.075,
+      "target_phase": 0.25,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 84,
+      "return_phase": 0.1,
+      "target_phase": 0.25,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 85,
+      "return_phase": 0.125,
+      "target_phase": 0.25,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 86,
+      "return_phase": 0.15,
+      "target_phase": 0.25,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 87,
+      "return_phase": 0.175,
+      "target_phase": 0.25,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 88,
+      "return_phase": 0.2,
+      "target_phase": 0.25,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 89,
+      "return_phase": 0.225,
+      "target_phase": 0.25,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 90,
+      "return_phase": 0.25,
+      "target_phase": 0.25,
+      "phase_offset": 0.0,
+      "match": true
+    },
+    {
+      "tick_delay": 91,
+      "return_phase": 0.275,
+      "target_phase": 0.25,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 92,
+      "return_phase": 0.3,
+      "target_phase": 0.25,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 93,
+      "return_phase": 0.325,
+      "target_phase": 0.25,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 94,
+      "return_phase": 0.35,
+      "target_phase": 0.25,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 95,
+      "return_phase": 0.375,
+      "target_phase": 0.25,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 96,
+      "return_phase": 0.4,
+      "target_phase": 0.25,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 97,
+      "return_phase": 0.425,
+      "target_phase": 0.25,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 98,
+      "return_phase": 0.45,
+      "target_phase": 0.25,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 99,
+      "return_phase": 0.475,
+      "target_phase": 0.25,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 100,
+      "return_phase": 0.5,
+      "target_phase": 0.25,
+      "phase_offset": 0.25,
+      "match": false
+    }
+  ],
+  "0.5": [
+    {
+      "tick_delay": 0,
+      "return_phase": 0.0,
+      "target_phase": 0.5,
+      "phase_offset": 0.5,
+      "match": false
+    },
+    {
+      "tick_delay": 1,
+      "return_phase": 0.025,
+      "target_phase": 0.5,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 2,
+      "return_phase": 0.05,
+      "target_phase": 0.5,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 3,
+      "return_phase": 0.075,
+      "target_phase": 0.5,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 4,
+      "return_phase": 0.1,
+      "target_phase": 0.5,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 5,
+      "return_phase": 0.125,
+      "target_phase": 0.5,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 6,
+      "return_phase": 0.15,
+      "target_phase": 0.5,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 7,
+      "return_phase": 0.175,
+      "target_phase": 0.5,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 8,
+      "return_phase": 0.2,
+      "target_phase": 0.5,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 9,
+      "return_phase": 0.225,
+      "target_phase": 0.5,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 10,
+      "return_phase": 0.25,
+      "target_phase": 0.5,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 11,
+      "return_phase": 0.275,
+      "target_phase": 0.5,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 12,
+      "return_phase": 0.3,
+      "target_phase": 0.5,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 13,
+      "return_phase": 0.325,
+      "target_phase": 0.5,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 14,
+      "return_phase": 0.35,
+      "target_phase": 0.5,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 15,
+      "return_phase": 0.375,
+      "target_phase": 0.5,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 16,
+      "return_phase": 0.4,
+      "target_phase": 0.5,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 17,
+      "return_phase": 0.425,
+      "target_phase": 0.5,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 18,
+      "return_phase": 0.45,
+      "target_phase": 0.5,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 19,
+      "return_phase": 0.475,
+      "target_phase": 0.5,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 20,
+      "return_phase": 0.5,
+      "target_phase": 0.5,
+      "phase_offset": 0.0,
+      "match": true
+    },
+    {
+      "tick_delay": 21,
+      "return_phase": 0.525,
+      "target_phase": 0.5,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 22,
+      "return_phase": 0.55,
+      "target_phase": 0.5,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 23,
+      "return_phase": 0.575,
+      "target_phase": 0.5,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 24,
+      "return_phase": 0.6,
+      "target_phase": 0.5,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 25,
+      "return_phase": 0.625,
+      "target_phase": 0.5,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 26,
+      "return_phase": 0.65,
+      "target_phase": 0.5,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 27,
+      "return_phase": 0.675,
+      "target_phase": 0.5,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 28,
+      "return_phase": 0.7,
+      "target_phase": 0.5,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 29,
+      "return_phase": 0.725,
+      "target_phase": 0.5,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 30,
+      "return_phase": 0.75,
+      "target_phase": 0.5,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 31,
+      "return_phase": 0.775,
+      "target_phase": 0.5,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 32,
+      "return_phase": 0.8,
+      "target_phase": 0.5,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 33,
+      "return_phase": 0.825,
+      "target_phase": 0.5,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 34,
+      "return_phase": 0.85,
+      "target_phase": 0.5,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 35,
+      "return_phase": 0.875,
+      "target_phase": 0.5,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 36,
+      "return_phase": 0.9,
+      "target_phase": 0.5,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 37,
+      "return_phase": 0.925,
+      "target_phase": 0.5,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 38,
+      "return_phase": 0.95,
+      "target_phase": 0.5,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 39,
+      "return_phase": 0.975,
+      "target_phase": 0.5,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 40,
+      "return_phase": 0.0,
+      "target_phase": 0.5,
+      "phase_offset": 0.5,
+      "match": false
+    },
+    {
+      "tick_delay": 41,
+      "return_phase": 0.025,
+      "target_phase": 0.5,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 42,
+      "return_phase": 0.05,
+      "target_phase": 0.5,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 43,
+      "return_phase": 0.075,
+      "target_phase": 0.5,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 44,
+      "return_phase": 0.1,
+      "target_phase": 0.5,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 45,
+      "return_phase": 0.125,
+      "target_phase": 0.5,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 46,
+      "return_phase": 0.15,
+      "target_phase": 0.5,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 47,
+      "return_phase": 0.175,
+      "target_phase": 0.5,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 48,
+      "return_phase": 0.2,
+      "target_phase": 0.5,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 49,
+      "return_phase": 0.225,
+      "target_phase": 0.5,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 50,
+      "return_phase": 0.25,
+      "target_phase": 0.5,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 51,
+      "return_phase": 0.275,
+      "target_phase": 0.5,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 52,
+      "return_phase": 0.3,
+      "target_phase": 0.5,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 53,
+      "return_phase": 0.325,
+      "target_phase": 0.5,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 54,
+      "return_phase": 0.35,
+      "target_phase": 0.5,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 55,
+      "return_phase": 0.375,
+      "target_phase": 0.5,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 56,
+      "return_phase": 0.4,
+      "target_phase": 0.5,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 57,
+      "return_phase": 0.425,
+      "target_phase": 0.5,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 58,
+      "return_phase": 0.45,
+      "target_phase": 0.5,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 59,
+      "return_phase": 0.475,
+      "target_phase": 0.5,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 60,
+      "return_phase": 0.5,
+      "target_phase": 0.5,
+      "phase_offset": 0.0,
+      "match": true
+    },
+    {
+      "tick_delay": 61,
+      "return_phase": 0.525,
+      "target_phase": 0.5,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 62,
+      "return_phase": 0.55,
+      "target_phase": 0.5,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 63,
+      "return_phase": 0.575,
+      "target_phase": 0.5,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 64,
+      "return_phase": 0.6,
+      "target_phase": 0.5,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 65,
+      "return_phase": 0.625,
+      "target_phase": 0.5,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 66,
+      "return_phase": 0.65,
+      "target_phase": 0.5,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 67,
+      "return_phase": 0.675,
+      "target_phase": 0.5,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 68,
+      "return_phase": 0.7,
+      "target_phase": 0.5,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 69,
+      "return_phase": 0.725,
+      "target_phase": 0.5,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 70,
+      "return_phase": 0.75,
+      "target_phase": 0.5,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 71,
+      "return_phase": 0.775,
+      "target_phase": 0.5,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 72,
+      "return_phase": 0.8,
+      "target_phase": 0.5,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 73,
+      "return_phase": 0.825,
+      "target_phase": 0.5,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 74,
+      "return_phase": 0.85,
+      "target_phase": 0.5,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 75,
+      "return_phase": 0.875,
+      "target_phase": 0.5,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 76,
+      "return_phase": 0.9,
+      "target_phase": 0.5,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 77,
+      "return_phase": 0.925,
+      "target_phase": 0.5,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 78,
+      "return_phase": 0.95,
+      "target_phase": 0.5,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 79,
+      "return_phase": 0.975,
+      "target_phase": 0.5,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 80,
+      "return_phase": 0.0,
+      "target_phase": 0.5,
+      "phase_offset": 0.5,
+      "match": false
+    },
+    {
+      "tick_delay": 81,
+      "return_phase": 0.025,
+      "target_phase": 0.5,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 82,
+      "return_phase": 0.05,
+      "target_phase": 0.5,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 83,
+      "return_phase": 0.075,
+      "target_phase": 0.5,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 84,
+      "return_phase": 0.1,
+      "target_phase": 0.5,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 85,
+      "return_phase": 0.125,
+      "target_phase": 0.5,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 86,
+      "return_phase": 0.15,
+      "target_phase": 0.5,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 87,
+      "return_phase": 0.175,
+      "target_phase": 0.5,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 88,
+      "return_phase": 0.2,
+      "target_phase": 0.5,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 89,
+      "return_phase": 0.225,
+      "target_phase": 0.5,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 90,
+      "return_phase": 0.25,
+      "target_phase": 0.5,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 91,
+      "return_phase": 0.275,
+      "target_phase": 0.5,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 92,
+      "return_phase": 0.3,
+      "target_phase": 0.5,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 93,
+      "return_phase": 0.325,
+      "target_phase": 0.5,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 94,
+      "return_phase": 0.35,
+      "target_phase": 0.5,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 95,
+      "return_phase": 0.375,
+      "target_phase": 0.5,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 96,
+      "return_phase": 0.4,
+      "target_phase": 0.5,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 97,
+      "return_phase": 0.425,
+      "target_phase": 0.5,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 98,
+      "return_phase": 0.45,
+      "target_phase": 0.5,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 99,
+      "return_phase": 0.475,
+      "target_phase": 0.5,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 100,
+      "return_phase": 0.5,
+      "target_phase": 0.5,
+      "phase_offset": 0.0,
+      "match": true
+    }
+  ],
+  "0.75": [
+    {
+      "tick_delay": 0,
+      "return_phase": 0.0,
+      "target_phase": 0.75,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 1,
+      "return_phase": 0.025,
+      "target_phase": 0.75,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 2,
+      "return_phase": 0.05,
+      "target_phase": 0.75,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 3,
+      "return_phase": 0.075,
+      "target_phase": 0.75,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 4,
+      "return_phase": 0.1,
+      "target_phase": 0.75,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 5,
+      "return_phase": 0.125,
+      "target_phase": 0.75,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 6,
+      "return_phase": 0.15,
+      "target_phase": 0.75,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 7,
+      "return_phase": 0.175,
+      "target_phase": 0.75,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 8,
+      "return_phase": 0.2,
+      "target_phase": 0.75,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 9,
+      "return_phase": 0.225,
+      "target_phase": 0.75,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 10,
+      "return_phase": 0.25,
+      "target_phase": 0.75,
+      "phase_offset": 0.5,
+      "match": false
+    },
+    {
+      "tick_delay": 11,
+      "return_phase": 0.275,
+      "target_phase": 0.75,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 12,
+      "return_phase": 0.3,
+      "target_phase": 0.75,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 13,
+      "return_phase": 0.325,
+      "target_phase": 0.75,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 14,
+      "return_phase": 0.35,
+      "target_phase": 0.75,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 15,
+      "return_phase": 0.375,
+      "target_phase": 0.75,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 16,
+      "return_phase": 0.4,
+      "target_phase": 0.75,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 17,
+      "return_phase": 0.425,
+      "target_phase": 0.75,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 18,
+      "return_phase": 0.45,
+      "target_phase": 0.75,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 19,
+      "return_phase": 0.475,
+      "target_phase": 0.75,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 20,
+      "return_phase": 0.5,
+      "target_phase": 0.75,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 21,
+      "return_phase": 0.525,
+      "target_phase": 0.75,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 22,
+      "return_phase": 0.55,
+      "target_phase": 0.75,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 23,
+      "return_phase": 0.575,
+      "target_phase": 0.75,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 24,
+      "return_phase": 0.6,
+      "target_phase": 0.75,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 25,
+      "return_phase": 0.625,
+      "target_phase": 0.75,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 26,
+      "return_phase": 0.65,
+      "target_phase": 0.75,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 27,
+      "return_phase": 0.675,
+      "target_phase": 0.75,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 28,
+      "return_phase": 0.7,
+      "target_phase": 0.75,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 29,
+      "return_phase": 0.725,
+      "target_phase": 0.75,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 30,
+      "return_phase": 0.75,
+      "target_phase": 0.75,
+      "phase_offset": 0.0,
+      "match": true
+    },
+    {
+      "tick_delay": 31,
+      "return_phase": 0.775,
+      "target_phase": 0.75,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 32,
+      "return_phase": 0.8,
+      "target_phase": 0.75,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 33,
+      "return_phase": 0.825,
+      "target_phase": 0.75,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 34,
+      "return_phase": 0.85,
+      "target_phase": 0.75,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 35,
+      "return_phase": 0.875,
+      "target_phase": 0.75,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 36,
+      "return_phase": 0.9,
+      "target_phase": 0.75,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 37,
+      "return_phase": 0.925,
+      "target_phase": 0.75,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 38,
+      "return_phase": 0.95,
+      "target_phase": 0.75,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 39,
+      "return_phase": 0.975,
+      "target_phase": 0.75,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 40,
+      "return_phase": 0.0,
+      "target_phase": 0.75,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 41,
+      "return_phase": 0.025,
+      "target_phase": 0.75,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 42,
+      "return_phase": 0.05,
+      "target_phase": 0.75,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 43,
+      "return_phase": 0.075,
+      "target_phase": 0.75,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 44,
+      "return_phase": 0.1,
+      "target_phase": 0.75,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 45,
+      "return_phase": 0.125,
+      "target_phase": 0.75,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 46,
+      "return_phase": 0.15,
+      "target_phase": 0.75,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 47,
+      "return_phase": 0.175,
+      "target_phase": 0.75,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 48,
+      "return_phase": 0.2,
+      "target_phase": 0.75,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 49,
+      "return_phase": 0.225,
+      "target_phase": 0.75,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 50,
+      "return_phase": 0.25,
+      "target_phase": 0.75,
+      "phase_offset": 0.5,
+      "match": false
+    },
+    {
+      "tick_delay": 51,
+      "return_phase": 0.275,
+      "target_phase": 0.75,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 52,
+      "return_phase": 0.3,
+      "target_phase": 0.75,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 53,
+      "return_phase": 0.325,
+      "target_phase": 0.75,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 54,
+      "return_phase": 0.35,
+      "target_phase": 0.75,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 55,
+      "return_phase": 0.375,
+      "target_phase": 0.75,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 56,
+      "return_phase": 0.4,
+      "target_phase": 0.75,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 57,
+      "return_phase": 0.425,
+      "target_phase": 0.75,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 58,
+      "return_phase": 0.45,
+      "target_phase": 0.75,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 59,
+      "return_phase": 0.475,
+      "target_phase": 0.75,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 60,
+      "return_phase": 0.5,
+      "target_phase": 0.75,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 61,
+      "return_phase": 0.525,
+      "target_phase": 0.75,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 62,
+      "return_phase": 0.55,
+      "target_phase": 0.75,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 63,
+      "return_phase": 0.575,
+      "target_phase": 0.75,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 64,
+      "return_phase": 0.6,
+      "target_phase": 0.75,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 65,
+      "return_phase": 0.625,
+      "target_phase": 0.75,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 66,
+      "return_phase": 0.65,
+      "target_phase": 0.75,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 67,
+      "return_phase": 0.675,
+      "target_phase": 0.75,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 68,
+      "return_phase": 0.7,
+      "target_phase": 0.75,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 69,
+      "return_phase": 0.725,
+      "target_phase": 0.75,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 70,
+      "return_phase": 0.75,
+      "target_phase": 0.75,
+      "phase_offset": 0.0,
+      "match": true
+    },
+    {
+      "tick_delay": 71,
+      "return_phase": 0.775,
+      "target_phase": 0.75,
+      "phase_offset": 0.025,
+      "match": true
+    },
+    {
+      "tick_delay": 72,
+      "return_phase": 0.8,
+      "target_phase": 0.75,
+      "phase_offset": 0.05,
+      "match": true
+    },
+    {
+      "tick_delay": 73,
+      "return_phase": 0.825,
+      "target_phase": 0.75,
+      "phase_offset": 0.075,
+      "match": true
+    },
+    {
+      "tick_delay": 74,
+      "return_phase": 0.85,
+      "target_phase": 0.75,
+      "phase_offset": 0.1,
+      "match": true
+    },
+    {
+      "tick_delay": 75,
+      "return_phase": 0.875,
+      "target_phase": 0.75,
+      "phase_offset": 0.125,
+      "match": false
+    },
+    {
+      "tick_delay": 76,
+      "return_phase": 0.9,
+      "target_phase": 0.75,
+      "phase_offset": 0.15,
+      "match": false
+    },
+    {
+      "tick_delay": 77,
+      "return_phase": 0.925,
+      "target_phase": 0.75,
+      "phase_offset": 0.175,
+      "match": false
+    },
+    {
+      "tick_delay": 78,
+      "return_phase": 0.95,
+      "target_phase": 0.75,
+      "phase_offset": 0.2,
+      "match": false
+    },
+    {
+      "tick_delay": 79,
+      "return_phase": 0.975,
+      "target_phase": 0.75,
+      "phase_offset": 0.225,
+      "match": false
+    },
+    {
+      "tick_delay": 80,
+      "return_phase": 0.0,
+      "target_phase": 0.75,
+      "phase_offset": 0.25,
+      "match": false
+    },
+    {
+      "tick_delay": 81,
+      "return_phase": 0.025,
+      "target_phase": 0.75,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 82,
+      "return_phase": 0.05,
+      "target_phase": 0.75,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 83,
+      "return_phase": 0.075,
+      "target_phase": 0.75,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 84,
+      "return_phase": 0.1,
+      "target_phase": 0.75,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 85,
+      "return_phase": 0.125,
+      "target_phase": 0.75,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 86,
+      "return_phase": 0.15,
+      "target_phase": 0.75,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 87,
+      "return_phase": 0.175,
+      "target_phase": 0.75,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 88,
+      "return_phase": 0.2,
+      "target_phase": 0.75,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 89,
+      "return_phase": 0.225,
+      "target_phase": 0.75,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 90,
+      "return_phase": 0.25,
+      "target_phase": 0.75,
+      "phase_offset": 0.5,
+      "match": false
+    },
+    {
+      "tick_delay": 91,
+      "return_phase": 0.275,
+      "target_phase": 0.75,
+      "phase_offset": 0.475,
+      "match": false
+    },
+    {
+      "tick_delay": 92,
+      "return_phase": 0.3,
+      "target_phase": 0.75,
+      "phase_offset": 0.45,
+      "match": false
+    },
+    {
+      "tick_delay": 93,
+      "return_phase": 0.325,
+      "target_phase": 0.75,
+      "phase_offset": 0.425,
+      "match": false
+    },
+    {
+      "tick_delay": 94,
+      "return_phase": 0.35,
+      "target_phase": 0.75,
+      "phase_offset": 0.4,
+      "match": false
+    },
+    {
+      "tick_delay": 95,
+      "return_phase": 0.375,
+      "target_phase": 0.75,
+      "phase_offset": 0.375,
+      "match": false
+    },
+    {
+      "tick_delay": 96,
+      "return_phase": 0.4,
+      "target_phase": 0.75,
+      "phase_offset": 0.35,
+      "match": false
+    },
+    {
+      "tick_delay": 97,
+      "return_phase": 0.425,
+      "target_phase": 0.75,
+      "phase_offset": 0.325,
+      "match": false
+    },
+    {
+      "tick_delay": 98,
+      "return_phase": 0.45,
+      "target_phase": 0.75,
+      "phase_offset": 0.3,
+      "match": false
+    },
+    {
+      "tick_delay": 99,
+      "return_phase": 0.475,
+      "target_phase": 0.75,
+      "phase_offset": 0.275,
+      "match": false
+    },
+    {
+      "tick_delay": 100,
+      "return_phase": 0.5,
+      "target_phase": 0.75,
+      "phase_offset": 0.25,
+      "match": false
+    }
+  ]
+}

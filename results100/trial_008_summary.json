@@ -1,0 +1,46 @@
+[
+  {
+    "recruiter_strength": 0.0,
+    "lifespan_ticks": 19
+  },
+  {
+    "recruiter_strength": 0.1,
+    "lifespan_ticks": 19
+  },
+  {
+    "recruiter_strength": 0.2,
+    "lifespan_ticks": 19
+  },
+  {
+    "recruiter_strength": 0.3,
+    "lifespan_ticks": 19
+  },
+  {
+    "recruiter_strength": 0.4,
+    "lifespan_ticks": 19
+  },
+  {
+    "recruiter_strength": 0.5,
+    "lifespan_ticks": 200
+  },
+  {
+    "recruiter_strength": 0.6,
+    "lifespan_ticks": 200
+  },
+  {
+    "recruiter_strength": 0.7,
+    "lifespan_ticks": 200
+  },
+  {
+    "recruiter_strength": 0.8,
+    "lifespan_ticks": 200
+  },
+  {
+    "recruiter_strength": 0.9,
+    "lifespan_ticks": 200
+  },
+  {
+    "recruiter_strength": 1.0,
+    "lifespan_ticks": 200
+  }
+]

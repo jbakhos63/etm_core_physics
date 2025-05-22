@@ -1,0 +1,12 @@
+{
+  "tick_A1": 10,
+  "tick_A2": 10,
+  "phase_A1": 0.5,
+  "phase_A2": 0.5,
+  "recruiter_phase": 0.5,
+  "phase_offset_A1": 0.0,
+  "phase_offset_A2": 0.0,
+  "match_A1": true,
+  "match_A2": true,
+  "fusion": true
+}

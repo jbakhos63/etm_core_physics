@@ -1,0 +1,32 @@
+[
+  {
+    "tick": 10,
+    "phase_A1": 0.5,
+    "phase_A2": 0.5,
+    "match_A1": true,
+    "match_A2": true,
+    "in_phase": true,
+    "lock_in_ticks": 1,
+    "composite_formed": false
+  },
+  {
+    "tick": 11,
+    "phase_A1": 0.55,
+    "phase_A2": 0.55,
+    "match_A1": true,
+    "match_A2": true,
+    "in_phase": true,
+    "lock_in_ticks": 2,
+    "composite_formed": false
+  },
+  {
+    "tick": 12,
+    "phase_A1": 0.6,
+    "phase_A2": 0.6,
+    "match_A1": true,
+    "match_A2": true,
+    "in_phase": true,
+    "lock_in_ticks": 3,
+    "composite_formed": true
+  }
+]

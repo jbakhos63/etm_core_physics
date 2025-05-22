@@ -10,9 +10,6 @@ The complete and authoritative theory of Euclidean Timing Mechanics is available
 [📥 Download Euclidean_Timing_Mechanics.pdf](docs/Euclidean_Timing_Mechanics.pdf)
 
 
-A follow-up supplement offering later clarifications and refinements can be found here:  
-[📥 Download Supplement_Later_Clarifications_to_ETM.pdf](docs/Supplement_Later_Clarifications_to_ETM.pdf)
-
 ---
 
 ## 🧠 Model Summary
@@ -42,9 +39,11 @@ The relevant files will be in the lowest `etm_core_physics` folder.
 
 ### Folder Structure
 
-- `trials/` – All Python simulation scripts (trial_001 to trial_208)
-- `results/` – Summarized output from each simulation
-- `results99/` – This is a record of the original results of the author — Summarized output from each simulation
+- `trials/` – All new Python simulation scripts (trial_001 to trial_018)
+- `oldtrials/` – All old Python simulation scripts (trial_001 to trial_208)
+- `Results/` – Summarized output from each simulation
+- `results99/` – This is a record of the original results of the author — Summarized output from over 200 old simulations
+- `results100/` – This is a record of the original results of the author — Summarized output from each of 18 newly updated simulations
 - `docs/` – Theoretical documentation and figures
 
 ### Running a Trial

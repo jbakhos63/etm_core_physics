@@ -1,0 +1,102 @@
+[
+  {
+    "test_phase": 0.0,
+    "phase_offset": 0.0,
+    "match": true
+  },
+  {
+    "test_phase": 0.05,
+    "phase_offset": 0.05,
+    "match": true
+  },
+  {
+    "test_phase": 0.1,
+    "phase_offset": 0.1,
+    "match": true
+  },
+  {
+    "test_phase": 0.15,
+    "phase_offset": 0.15,
+    "match": false
+  },
+  {
+    "test_phase": 0.2,
+    "phase_offset": 0.2,
+    "match": false
+  },
+  {
+    "test_phase": 0.25,
+    "phase_offset": 0.25,
+    "match": false
+  },
+  {
+    "test_phase": 0.3,
+    "phase_offset": 0.3,
+    "match": false
+  },
+  {
+    "test_phase": 0.35,
+    "phase_offset": 0.35,
+    "match": false
+  },
+  {
+    "test_phase": 0.4,
+    "phase_offset": 0.4,
+    "match": false
+  },
+  {
+    "test_phase": 0.45,
+    "phase_offset": 0.45,
+    "match": false
+  },
+  {
+    "test_phase": 0.5,
+    "phase_offset": 0.5,
+    "match": false
+  },
+  {
+    "test_phase": 0.55,
+    "phase_offset": 0.45,
+    "match": false
+  },
+  {
+    "test_phase": 0.6,
+    "phase_offset": 0.4,
+    "match": false
+  },
+  {
+    "test_phase": 0.65,
+    "phase_offset": 0.35,
+    "match": false
+  },
+  {
+    "test_phase": 0.7,
+    "phase_offset": 0.3,
+    "match": false
+  },
+  {
+    "test_phase": 0.75,
+    "phase_offset": 0.25,
+    "match": false
+  },
+  {
+    "test_phase": 0.8,
+    "phase_offset": 0.2,
+    "match": false
+  },
+  {
+    "test_phase": 0.85,
+    "phase_offset": 0.15,
+    "match": false
+  },
+  {
+    "test_phase": 0.9,
+    "phase_offset": 0.1,
+    "match": true
+  },
+  {
+    "test_phase": 0.95,
+    "phase_offset": 0.05,
+    "match": true
+  }
+]
