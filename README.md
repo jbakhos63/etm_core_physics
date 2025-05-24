@@ -9,6 +9,11 @@ A fully discrete, modular, rhythm-based model of physics capable of deriving fun
 The complete and authoritative theory of Euclidean Timing Mechanics is available here:  
 [📥 Download Euclidean_Timing_Mechanics.pdf](docs/Euclidean_Timing_Mechanics.pdf)
 
+## 📄 Formal Derivation Paper
+
+The complete mathematical derivation of fundamental physical constants from ETM logic is available here:
+
+[👉 A Symbolic Axiomatic System for the Derivation of Physical Constants from Discrete Modular Logic (PDF)](docs/A_Symbolic_Axiomatic_System_for_the_Derivation_of_Physical_Constants_from_Discrete_Modular_Logic.pdf)
 
 ---
 

@@ -1,3 +1,6 @@
+This summary is supported by the formal derivation in:
+
+[📄 ETM Constants Paper (PDF)](A_Symbolic_Axiomatic_System_for_the_Derivation_of_Physical_Constants_from_Discrete_Modular_Logic.pdf)
 
 # Scientific Summary: Deriving Physical Constants from ETM Logic
 
